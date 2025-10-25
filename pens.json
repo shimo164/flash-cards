@@ -1,0 +1,17 @@
+{
+    "name": "pens",
+    "cards": [
+        {
+            "japanese": "これはペンです。",
+            "english": "This is a pen."
+        },
+        {
+            "japanese": "あれはペンですか。",
+            "english": "Is that a pen?"
+        },
+        {
+            "japanese": "あのペンは彼のですか？",
+            "english": "Is that his pen?"
+        }
+    ]
+}

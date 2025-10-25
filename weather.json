@@ -1,0 +1,13 @@
+{
+    "name": "weather",
+    "cards": [
+        {
+            "japanese": "今日は寒い。",
+            "english": "It's cold today."
+        },
+        {
+            "japanese": "冬が近づいている。",
+            "english": "Winter is coming."
+        }
+    ]
+}
