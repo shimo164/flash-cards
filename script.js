@@ -71,14 +71,10 @@ class FlashcardApp {
     
     showCard() {
         const card = this.currentSet.cards[this.currentCardIndex];
-        const cardElement = document.getElementById('flashcard');
         const cardContent = document.getElementById('card-content');
         
-        // Reset flip state
+        // Reset flip state and show Japanese first
         this.isFlipped = false;
-        cardElement.classList.remove('flipped');
-        
-        // Show Japanese (front)
         cardContent.innerHTML = `<div>${card.japanese}</div>`;
         
         // Update progress
@@ -91,21 +87,14 @@ class FlashcardApp {
     
     flipCard() {
         const card = this.currentSet.cards[this.currentCardIndex];
-        const cardElement = document.getElementById('flashcard');
         const cardContent = document.getElementById('card-content');
         
         this.isFlipped = !this.isFlipped;
         
         if (this.isFlipped) {
-            cardElement.classList.add('flipped');
-            setTimeout(() => {
-                cardContent.innerHTML = `<div>${card.english}</div>`;
-            }, 300);
+            cardContent.innerHTML = `<div>${card.english}</div>`;
         } else {
-            cardElement.classList.remove('flipped');
-            setTimeout(() => {
-                cardContent.innerHTML = `<div>${card.japanese}</div>`;
-            }, 300);
+            cardContent.innerHTML = `<div>${card.japanese}</div>`;
         }
     }
     
@@ -132,6 +121,7 @@ class FlashcardApp {
     
     backToCards() {
         this.currentCardIndex = this.currentSet.cards.length - 1;
+        this.isFlipped = false;
         this.hideAllScreens();
         document.getElementById('card-screen').classList.add('active');
         this.showCard();

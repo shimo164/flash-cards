@@ -82,13 +82,12 @@ h1, h2 {
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    transition: transform 0.6s;
-    transform-style: preserve-3d;
     box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+    transition: transform 0.2s ease;
 }
 
-.card.flipped {
-    transform: rotateY(180deg);
+.card:hover {
+    transform: translateY(-2px);
 }
 
 .card-content {
@@ -96,19 +95,7 @@ h1, h2 {
     font-size: 24px;
     line-height: 1.4;
     text-align: center;
-    backface-visibility: hidden;
     width: 100%;
-}
-
-.card-content.back {
-    transform: rotateY(180deg);
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .controls {
