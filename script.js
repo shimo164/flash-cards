@@ -33,6 +33,7 @@ class FlashcardApp {
         document.getElementById('prev-btn').addEventListener('click', () => this.previousCard());
         document.getElementById('next-btn').addEventListener('click', () => this.nextCard());
         document.getElementById('back-to-menu').addEventListener('click', () => this.showMenu());
+        document.getElementById('back-to-cards').addEventListener('click', () => this.backToCards());
     }
     
     showMenu() {
@@ -77,8 +78,8 @@ class FlashcardApp {
         this.isFlipped = false;
         cardElement.classList.remove('flipped');
         
-        // Show English (front)
-        cardContent.innerHTML = `<div>${card.english}</div>`;
+        // Show Japanese (front)
+        cardContent.innerHTML = `<div>${card.japanese}</div>`;
         
         // Update progress
         document.getElementById('current-card').textContent = this.currentCardIndex + 1;
@@ -98,12 +99,12 @@ class FlashcardApp {
         if (this.isFlipped) {
             cardElement.classList.add('flipped');
             setTimeout(() => {
-                cardContent.innerHTML = `<div>${card.japanese}</div>`;
+                cardContent.innerHTML = `<div>${card.english}</div>`;
             }, 300);
         } else {
             cardElement.classList.remove('flipped');
             setTimeout(() => {
-                cardContent.innerHTML = `<div>${card.english}</div>`;
+                cardContent.innerHTML = `<div>${card.japanese}</div>`;
             }, 300);
         }
     }
@@ -127,6 +128,13 @@ class FlashcardApp {
     showComplete() {
         this.hideAllScreens();
         document.getElementById('complete-screen').classList.add('active');
+    }
+    
+    backToCards() {
+        this.currentCardIndex = this.currentSet.cards.length - 1;
+        this.hideAllScreens();
+        document.getElementById('card-screen').classList.add('active');
+        this.showCard();
     }
     
     hideAllScreens() {
