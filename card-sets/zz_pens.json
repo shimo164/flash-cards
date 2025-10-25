@@ -1,5 +1,5 @@
 {
-    "name": "pens",
+    "name": "test-pens",
     "cards": [
         {
             "japanese": "これはペンです。",
@@ -8,10 +8,6 @@
         {
             "japanese": "あれはペンですか。",
             "english": "Is that a pen?"
-        },
-        {
-            "japanese": "あのペンは彼のですか？",
-            "english": "Is that his pen?"
         }
     ]
 }

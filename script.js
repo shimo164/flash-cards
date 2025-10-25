@@ -15,22 +15,23 @@ class FlashcardApp {
   }
 
   async loadSets() {
-    const setFiles = [
-      'card-sets/pens.json',
-      'card-sets/weather.json',
-      'card-sets/business_meeting_start_beginner.json',
-      'card-sets/business_meeting_start_intermediate.json',
-      'card-sets/business_meeting_start_advanced.json',
-    ];
+    try {
+      // Load sets configuration
+      const configResponse = await fetch('helper/set-list.json');
+      const config = await configResponse.json();
 
-    for (const file of setFiles) {
-      try {
-        const response = await fetch(file);
-        const setData = await response.json();
-        this.sets.push(setData);
-      } catch (error) {
-        console.error(`Failed to load ${file}:`, error);
+      // Load each set file
+      for (const fileName of config.sets) {
+        try {
+          const response = await fetch(`card-sets/${fileName}`);
+          const setData = await response.json();
+          this.sets.push(setData);
+        } catch (error) {
+          console.error(`Failed to load card-sets/${fileName}:`, error);
+        }
       }
+    } catch (error) {
+      console.error('Failed to load sets configuration:', error);
     }
   }
 
