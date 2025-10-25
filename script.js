@@ -15,7 +15,7 @@ class FlashcardApp {
     }
     
     async loadSets() {
-        const setFiles = ['pens.json', 'weather.json'];
+        const setFiles = ['card-sets/pens.json', 'card-sets/weather.json'];
         
         for (const file of setFiles) {
             try {
