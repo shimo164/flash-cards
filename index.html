@@ -1,52 +1,54 @@
 <!DOCTYPE html>
 <html lang="ja">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>英語カード</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
     <div class="container">
-        <div id="menu-screen" class="screen active">
-            <h1>英語カード</h1>
-            <div class="set-list" id="set-list">
-                <!-- セット一覧がここに動的に追加されます -->
-            </div>
+      <div id="menu-screen" class="screen active">
+        <h1>英語カード</h1>
+        <div id="message-screen">
+          <p>学習したいカードセットを選んでください</p>
+        </div>
+        <div class="set-list" id="set-list">
+          <!-- セット一覧がここに動的に追加されます -->
+        </div>
+      </div>
+
+      <div id="card-screen" class="screen">
+        <div class="header">
+          <h2 id="set-title"></h2>
+          <div class="progress">
+            <span id="current-card">1</span> / <span id="total-cards">0</span>
+          </div>
         </div>
 
-        <div id="card-screen" class="screen">
-            <div class="header">
-                <h2 id="set-title"></h2>
-                <div class="progress">
-                    <span id="current-card">1</span> / <span id="total-cards">0</span>
-                </div>
+        <div class="card-container">
+          <div class="card" id="flashcard">
+            <div class="card-content" id="card-content">
+              <!-- カード内容がここに表示されます -->
             </div>
-            
-            <div class="card-container">
-                <div class="card" id="flashcard">
-                    <div class="card-content" id="card-content">
-                        <!-- カード内容がここに表示されます -->
-                    </div>
-                </div>
-            </div>
-            
-            <div class="controls">
-                <button id="prev-btn" class="btn">戻る</button>
-                <button id="next-btn" class="btn">進む</button>
-            </div>
+          </div>
         </div>
 
-        <div id="complete-screen" class="screen">
-            <h2>完了しました！</h2>
-            <p>セットを終了しました。</p>
-            <div class="controls">
-                <button id="back-to-cards" class="btn">カードに戻る</button>
-                <button id="back-to-menu" class="btn">メニューに戻る</button>
-            </div>
+        <div class="controls">
+          <button id="prev-btn" class="btn">戻る</button>
+          <button id="next-btn" class="btn">進む</button>
         </div>
+      </div>
+
+      <div id="complete-screen" class="screen">
+        <h2>セットを完了しました！</h2>
+        <div class="controls">
+          <button id="back-to-cards" class="btn">カードに戻る</button>
+          <button id="back-to-menu" class="btn">メニューに戻る</button>
+        </div>
+      </div>
     </div>
 
     <script src="script.js"></script>
-</body>
+  </body>
 </html>
