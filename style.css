@@ -49,7 +49,7 @@ h1, h2 {
 
 .set-item {
     background: white;
-    padding: 5px;
+    padding: 10px;
     border-radius: 15px;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -107,6 +107,17 @@ h1, h2 {
     font-size: 20px;
     line-height: 1.4;
     text-align: center;
+    width: 100%;
+}
+
+.card-bottom-content {
+    padding: 5px;
+    font-size: 12px;
+    line-height: 1.4;
+    text-align: center;
+    /* put bottom of .card */
+    position: absolute;
+    bottom: 0;
     width: 100%;
 }
 
