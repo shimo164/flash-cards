@@ -267,6 +267,38 @@ h1, h2 {
     justify-content: center;
 }
 
+.theme-nav-links {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.theme-nav-btn {
+    background: rgba(255,255,255,0.2);
+    border: 1px solid rgba(255,255,255,0.3);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 15px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+.theme-nav-btn:hover {
+    background: rgba(255,255,255,0.3);
+    transform: translateY(-2px);
+}
+
+.prev-btn {
+    width: 100px;
+}
+
+.next-btn {
+    width: 200px;
+}
+
 .nav-link {
     background: rgba(255,255,255,0.2);
     border: 1px solid rgba(255,255,255,0.3);

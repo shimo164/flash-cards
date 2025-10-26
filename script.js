@@ -259,6 +259,42 @@ class FlashcardApp {
 
     let html = '<h3>関連セット</h3>';
 
+    // Adjacent themes
+    if (adjacentSets.length > 0) {
+      html += '<div class="nav-section">';
+      html += `<h4>他のテーマ (${currentLevel})</h4>`;
+      html += '<div class="theme-nav-links">';
+
+      const currentFilename = currentSet.filename || '';
+      const themeMatch = currentFilename.match(/business_(\d+)_(.+)_L\d\.json/);
+      
+      if (themeMatch) {
+        const currentNum = parseInt(themeMatch[1]);
+        const prevNum = String(currentNum - 1).padStart(2, '0');
+        const nextNum = String(currentNum + 1).padStart(2, '0');
+
+        // Find prev and next sets
+        const prevSet = adjacentSets.find(({ set }) => {
+          const filename = set.filename || '';
+          return filename.includes(`business_${prevNum}_`);
+        });
+        
+        const nextSet = adjacentSets.find(({ set }) => {
+          const filename = set.filename || '';
+          return filename.includes(`business_${nextNum}_`);
+        });
+
+        if (prevSet) {
+          html += `<button class="theme-nav-btn prev-btn" onclick="app.startSet(${prevSet.index})">前</button>`;
+        }
+        if (nextSet) {
+          html += `<button class="theme-nav-btn next-btn" onclick="app.startSet(${nextSet.index})">次</button>`;
+        }
+      }
+
+      html += '</div></div>';
+    }
+
     // Level navigation
     if (relatedSets.length > 1) {
       html += '<div class="nav-section">';
@@ -271,20 +307,6 @@ class FlashcardApp {
         if (level && level !== currentLevel) {
           html += `<button class="nav-link" onclick="app.startSet(${index})">${level}</button>`;
         }
-      });
-
-      html += '</div></div>';
-    }
-
-    // Adjacent themes
-    if (adjacentSets.length > 0) {
-      html += '<div class="nav-section">';
-      html += `<h4>他のテーマ (${currentLevel})</h4>`;
-      html += '<div class="nav-links">';
-
-      adjacentSets.forEach(({ set, index }) => {
-        const shortName = set.name.replace(/\((初級|中級|上級)\)$/, '').substring(0, 20) + '...';
-        html += `<button class="nav-link" onclick="app.startSet(${index})">${shortName}</button>`;
       });
 
       html += '</div></div>';
