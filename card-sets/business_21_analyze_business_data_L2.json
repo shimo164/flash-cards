@@ -2,36 +2,36 @@
     "name": "事業データを詳細に検討する(中級)",
     "cards": [
         {
-            "japanese": "詳細について検討する必要があります。",
-            "english": "We need to consider the details."
+            "japanese": "事業データの詳細分析を実施しましょう。",
+            "english": "Let's conduct detailed analysis of business data."
         },
         {
-            "japanese": "効果的なアプローチを検討しましょう。",
-            "english": "Let's consider an effective approach."
+            "japanese": "KPIの推移を継続的に監視する必要があります。",
+            "english": "We need to continuously monitor KPI trends."
         },
         {
-            "japanese": "重要な課題について議論します。",
-            "english": "We'll discuss important challenges."
+            "japanese": "セグメント別の収益性を評価しましょう。",
+            "english": "Let's evaluate profitability by segment."
         },
         {
-            "japanese": "戦略的な観点から分析しましょう。",
-            "english": "Let's analyze from a strategic perspective."
+            "japanese": "データの信頼性と精度を確保することが重要です。",
+            "english": "Ensuring data reliability and accuracy is important."
         },
         {
-            "japanese": "具体的な提案をお聞かせください。",
-            "english": "Please share specific proposals."
+            "japanese": "統計的手法を用いた予測モデルを構築します。",
+            "english": "We'll build predictive models using statistical methods."
         },
         {
-            "japanese": "包括的な解決策が必要です。",
-            "english": "We need comprehensive solutions."
+            "japanese": "競合他社との比較分析を行いましょう。",
+            "english": "Let's conduct comparative analysis with competitors."
         },
         {
-            "japanese": "継続的な改善を図りましょう。",
-            "english": "Let's pursue continuous improvement."
+            "japanese": "データ可視化により洞察を得やすくします。",
+            "english": "We'll make insights easier to obtain through data visualization."
         },
         {
-            "japanese": "建設的な議論をお願いします。",
-            "english": "Please engage in constructive discussion."
+            "japanese": "意思決定に活用できる形で結果を整理しましょう。",
+            "english": "Let's organize results in a format useful for decision-making."
         }
     ]
 }

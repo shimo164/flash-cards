@@ -2,36 +2,36 @@
     "name": "職場での同僚とのやり取り(初級)",
     "cards": [
         {
-            "japanese": "基本的な表現です。",
-            "english": "This is a basic expression."
+            "japanese": "おはようございます。",
+            "english": "Good morning."
         },
         {
-            "japanese": "簡単に説明します。",
-            "english": "I'll explain simply."
+            "japanese": "お疲れ様です。",
+            "english": "Thank you for your hard work."
         },
         {
-            "japanese": "重要なポイントです。",
-            "english": "This is an important point."
-        },
-        {
-            "japanese": "質問はありますか？",
-            "english": "Any questions?"
-        },
-        {
-            "japanese": "確認しましょう。",
-            "english": "Let's confirm."
-        },
-        {
-            "japanese": "始めましょう。",
-            "english": "Let's start."
-        },
-        {
-            "japanese": "終わりました。",
-            "english": "We're finished."
+            "japanese": "手伝いましょうか？",
+            "english": "Can I help you?"
         },
         {
             "japanese": "ありがとうございます。",
             "english": "Thank you."
+        },
+        {
+            "japanese": "忙しいですか？",
+            "english": "Are you busy?"
+        },
+        {
+            "japanese": "時間がありますか？",
+            "english": "Do you have time?"
+        },
+        {
+            "japanese": "お先に失礼します。",
+            "english": "I'm leaving first."
+        },
+        {
+            "japanese": "また明日。",
+            "english": "See you tomorrow."
         }
     ]
 }

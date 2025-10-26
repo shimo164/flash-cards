@@ -2,36 +2,36 @@
     "name": "進捗状況を報告する(初級)",
     "cards": [
         {
-            "japanese": "基本的な表現です。",
-            "english": "This is a basic expression."
+            "japanese": "進捗を報告します。",
+            "english": "I'll report the progress."
         },
         {
-            "japanese": "簡単に説明します。",
-            "english": "I'll explain simply."
+            "japanese": "50%完了しました。",
+            "english": "50% is completed."
         },
         {
-            "japanese": "重要なポイントです。",
-            "english": "This is an important point."
+            "japanese": "順調に進んでいます。",
+            "english": "It's progressing smoothly."
         },
         {
-            "japanese": "質問はありますか？",
-            "english": "Any questions?"
+            "japanese": "少し遅れています。",
+            "english": "It's a little behind."
         },
         {
-            "japanese": "確認しましょう。",
-            "english": "Let's confirm."
+            "japanese": "問題があります。",
+            "english": "There's a problem."
         },
         {
-            "japanese": "始めましょう。",
-            "english": "Let's start."
+            "japanese": "来週完了予定です。",
+            "english": "It's scheduled to be completed next week."
         },
         {
-            "japanese": "終わりました。",
-            "english": "We're finished."
+            "japanese": "助けが必要です。",
+            "english": "I need help."
         },
         {
-            "japanese": "ありがとうございます。",
-            "english": "Thank you."
+            "japanese": "報告は以上です。",
+            "english": "That's all for my report."
         }
     ]
 }

@@ -2,36 +2,36 @@
     "name": "電話対応のやり取り(初級)",
     "cards": [
         {
-            "japanese": "基本的な表現です。",
-            "english": "This is a basic expression."
+            "japanese": "もしもし。",
+            "english": "Hello."
         },
         {
-            "japanese": "簡単に説明します。",
-            "english": "I'll explain simply."
+            "japanese": "お電話ありがとうございます。",
+            "english": "Thank you for calling."
         },
         {
-            "japanese": "重要なポイントです。",
-            "english": "This is an important point."
+            "japanese": "少々お待ちください。",
+            "english": "Please wait a moment."
         },
         {
-            "japanese": "質問はありますか？",
-            "english": "Any questions?"
+            "japanese": "申し伝えます。",
+            "english": "I'll pass on the message."
         },
         {
-            "japanese": "確認しましょう。",
-            "english": "Let's confirm."
+            "japanese": "失礼いたします。",
+            "english": "Excuse me."
         },
         {
-            "japanese": "始めましょう。",
-            "english": "Let's start."
+            "japanese": "聞こえません。",
+            "english": "I can't hear you."
         },
         {
-            "japanese": "終わりました。",
-            "english": "We're finished."
+            "japanese": "もう一度お願いします。",
+            "english": "Please say that again."
         },
         {
-            "japanese": "ありがとうございます。",
-            "english": "Thank you."
+            "japanese": "ありがとうございました。",
+            "english": "Thank you very much."
         }
     ]
 }

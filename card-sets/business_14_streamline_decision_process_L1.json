@@ -2,36 +2,36 @@
     "name": "意思決定の流れを整理する(初級)",
     "cards": [
         {
-            "japanese": "基本的な表現です。",
-            "english": "This is a basic expression."
+            "japanese": "決めましょう。",
+            "english": "Let's decide."
         },
         {
-            "japanese": "簡単に説明します。",
-            "english": "I'll explain simply."
+            "japanese": "どちらがいいですか？",
+            "english": "Which is better?"
         },
         {
-            "japanese": "重要なポイントです。",
-            "english": "This is an important point."
+            "japanese": "賛成です。",
+            "english": "I agree."
         },
         {
-            "japanese": "質問はありますか？",
-            "english": "Any questions?"
+            "japanese": "反対です。",
+            "english": "I disagree."
         },
         {
-            "japanese": "確認しましょう。",
-            "english": "Let's confirm."
+            "japanese": "考える時間をください。",
+            "english": "Please give me time to think."
         },
         {
-            "japanese": "始めましょう。",
-            "english": "Let's start."
+            "japanese": "投票しましょう。",
+            "english": "Let's vote."
         },
         {
-            "japanese": "終わりました。",
-            "english": "We're finished."
+            "japanese": "決まりました。",
+            "english": "It's decided."
         },
         {
-            "japanese": "ありがとうございます。",
-            "english": "Thank you."
+            "japanese": "次に進みましょう。",
+            "english": "Let's move on."
         }
     ]
 }

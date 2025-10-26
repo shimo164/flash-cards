@@ -1,37 +1,13 @@
 {
     "name": "目標設定と成果の確認(上級)",
     "cards": [
-        {
-            "japanese": "戦略的優先順位に基づく包括的なアプローチが不可欠です。",
-            "english": "A comprehensive approach based on strategic priorities is essential."
-        },
-        {
-            "japanese": "組織の持続可能な競争優位性の確立を目指します。",
-            "english": "We aim to establish sustainable competitive advantages for the organization."
-        },
-        {
-            "japanese": "複雑な課題に対する革新的な解決策の創出が求められています。",
-            "english": "Creating innovative solutions for complex challenges is required."
-        },
-        {
-            "japanese": "ステークホルダーの多様な期待に応える戦略的整合性が重要です。",
-            "english": "Strategic alignment that meets diverse stakeholder expectations is crucial."
-        },
-        {
-            "japanese": "長期的な価値創造に向けた体系的なアプローチを採用します。",
-            "english": "We'll adopt a systematic approach toward long-term value creation."
-        },
-        {
-            "japanese": "組織変革における文化的側面の重要性を認識すべきです。",
-            "english": "We should recognize the importance of cultural aspects in organizational transformation."
-        },
-        {
-            "japanese": "データドリブンな意思決定プロセスの確立が不可欠です。",
-            "english": "Establishing data-driven decision-making processes is essential."
-        },
-        {
-            "japanese": "持続可能な成長を実現するための戦略的投資が必要です。",
-            "english": "Strategic investment is needed to achieve sustainable growth."
-        }
+        {"japanese": "戦略的目標と個人目標の整合性を確保した包括的な目標設定を行います。", "english": "We'll conduct comprehensive goal setting ensuring alignment between strategic and individual objectives."},
+        {"japanese": "多次元的な成果指標を用いた定量的・定性的評価システムを構築します。", "english": "We'll build quantitative and qualitative evaluation systems using multidimensional performance indicators."},
+        {"japanese": "継続的なパフォーマンス管理と適応的目標調整のメカニズムを確立します。", "english": "We'll establish mechanisms for continuous performance management and adaptive goal adjustment."},
+        {"japanese": "組織学習の促進と個人成長の最大化を両立する評価体系を設計します。", "english": "We'll design evaluation systems that balance organizational learning promotion with individual growth maximization."},
+        {"japanese": "ステークホルダー価値創造に直結する成果測定フレームワークを導入します。", "english": "We'll introduce outcome measurement frameworks directly linked to stakeholder value creation."},
+        {"japanese": "イノベーション創出と業務効率化の両面から目標達成度を評価します。", "english": "We'll evaluate goal achievement from both innovation creation and operational efficiency perspectives."},
+        {"japanese": "長期的視点と短期的成果のバランスを考慮した目標管理を実践します。", "english": "We'll practice goal management considering the balance between long-term perspective and short-term results."},
+        {"japanese": "組織全体の持続可能な成長に貢献する個人目標の設定を支援します。", "english": "We'll support setting individual goals that contribute to sustainable organizational growth."}
     ]
 }

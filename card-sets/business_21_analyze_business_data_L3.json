@@ -2,36 +2,36 @@
     "name": "事業データを詳細に検討する(上級)",
     "cards": [
         {
-            "japanese": "戦略的優先順位に基づく包括的なアプローチが不可欠です。",
-            "english": "A comprehensive approach based on strategic priorities is essential."
+            "japanese": "高度な分析手法を活用した包括的事業データ評価を実施します。",
+            "english": "We'll conduct comprehensive business data evaluation using advanced analytical methods."
         },
         {
-            "japanese": "組織の持続可能な競争優位性の確立を目指します。",
-            "english": "We aim to establish sustainable competitive advantages for the organization."
+            "japanese": "機械学習アルゴリズムによる予測精度の向上と洞察の深化を図りましょう。",
+            "english": "Let's improve prediction accuracy and deepen insights through machine learning algorithms."
         },
         {
-            "japanese": "複雑な課題に対する革新的な解決策の創出が求められています。",
-            "english": "Creating innovative solutions for complex challenges is required."
+            "japanese": "多次元データ分析により、隠れたビジネス機会を発見する必要があります。",
+            "english": "We need to discover hidden business opportunities through multidimensional data analysis."
         },
         {
-            "japanese": "ステークホルダーの多様な期待に応える戦略的整合性が重要です。",
-            "english": "Strategic alignment that meets diverse stakeholder expectations is crucial."
+            "japanese": "リアルタイムデータストリーミングと予測分析の統合システムを構築します。",
+            "english": "We'll build integrated systems for real-time data streaming and predictive analytics."
         },
         {
-            "japanese": "長期的な価値創造に向けた体系的なアプローチを採用します。",
-            "english": "We'll adopt a systematic approach toward long-term value creation."
+            "japanese": "データガバナンスとプライバシー保護を確保した分析フレームワークが重要です。",
+            "english": "Analysis frameworks ensuring data governance and privacy protection are crucial."
         },
         {
-            "japanese": "組織変革における文化的側面の重要性を認識すべきです。",
-            "english": "We should recognize the importance of cultural aspects in organizational transformation."
+            "japanese": "ビッグデータ技術を活用した戦略的意思決定支援システムを開発しましょう。",
+            "english": "Let's develop strategic decision support systems leveraging big data technology."
         },
         {
-            "japanese": "データドリブンな意思決定プロセスの確立が不可欠です。",
-            "english": "Establishing data-driven decision-making processes is essential."
+            "japanese": "データドリブンな組織文化の醸成と分析リテラシーの向上を推進します。",
+            "english": "We'll promote fostering data-driven organizational culture and improving analytical literacy."
         },
         {
-            "japanese": "持続可能な成長を実現するための戦略的投資が必要です。",
-            "english": "Strategic investment is needed to achieve sustainable growth."
+            "japanese": "持続可能な競争優位性確立に向けたデータ戦略の最適化を実践します。",
+            "english": "We'll practice optimization of data strategies for establishing sustainable competitive advantage."
         }
     ]
 }

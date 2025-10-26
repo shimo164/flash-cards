@@ -2,36 +2,36 @@
     "name": "顧客調査の実施(初級)",
     "cards": [
         {
-            "japanese": "基本的な表現です。",
-            "english": "This is a basic expression."
+            "japanese": "顧客に聞きましょう。",
+            "english": "Let's ask customers."
         },
         {
-            "japanese": "簡単に説明します。",
-            "english": "I'll explain simply."
+            "japanese": "アンケートを作ります。",
+            "english": "We'll create a survey."
         },
         {
-            "japanese": "重要なポイントです。",
-            "english": "This is an important point."
+            "japanese": "意見を聞かせてください。",
+            "english": "Please share your opinion."
         },
         {
-            "japanese": "質問はありますか？",
-            "english": "Any questions?"
+            "japanese": "満足していますか？",
+            "english": "Are you satisfied?"
         },
         {
-            "japanese": "確認しましょう。",
-            "english": "Let's confirm."
+            "japanese": "何が欲しいですか？",
+            "english": "What do you want?"
         },
         {
-            "japanese": "始めましょう。",
-            "english": "Let's start."
+            "japanese": "改善点はありますか？",
+            "english": "Are there any improvements?"
         },
         {
-            "japanese": "終わりました。",
-            "english": "We're finished."
+            "japanese": "データを集めましょう。",
+            "english": "Let's collect data."
         },
         {
-            "japanese": "ありがとうございます。",
-            "english": "Thank you."
+            "japanese": "結果を分析します。",
+            "english": "We'll analyze the results."
         }
     ]
 }

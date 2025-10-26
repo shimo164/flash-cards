@@ -2,36 +2,36 @@
     "name": "プロジェクト計画のスケジュール管理(初級)",
     "cards": [
         {
-            "japanese": "基本的な表現です。",
-            "english": "This is a basic expression."
+            "japanese": "スケジュールを確認しましょう。",
+            "english": "Let's check the schedule."
         },
         {
-            "japanese": "簡単に説明します。",
-            "english": "I'll explain simply."
+            "japanese": "締切はいつですか？",
+            "english": "When is the deadline?"
         },
         {
-            "japanese": "重要なポイントです。",
-            "english": "This is an important point."
+            "japanese": "遅れています。",
+            "english": "We're behind schedule."
         },
         {
-            "japanese": "質問はありますか？",
-            "english": "Any questions?"
+            "japanese": "急いでください。",
+            "english": "Please hurry."
         },
         {
-            "japanese": "確認しましょう。",
-            "english": "Let's confirm."
+            "japanese": "計画を変更しましょう。",
+            "english": "Let's change the plan."
         },
         {
-            "japanese": "始めましょう。",
-            "english": "Let's start."
+            "japanese": "時間が足りません。",
+            "english": "We don't have enough time."
         },
         {
-            "japanese": "終わりました。",
-            "english": "We're finished."
+            "japanese": "優先順位を決めましょう。",
+            "english": "Let's set priorities."
         },
         {
-            "japanese": "ありがとうございます。",
-            "english": "Thank you."
+            "japanese": "完了しました。",
+            "english": "It's completed."
         }
     ]
 }

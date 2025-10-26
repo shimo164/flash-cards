@@ -1,37 +1,13 @@
 {
     "name": "経営戦略を検討する会議(上級)",
     "cards": [
-        {
-            "japanese": "戦略的優先順位に基づく包括的なアプローチが不可欠です。",
-            "english": "A comprehensive approach based on strategic priorities is essential."
-        },
-        {
-            "japanese": "組織の持続可能な競争優位性の確立を目指します。",
-            "english": "We aim to establish sustainable competitive advantages for the organization."
-        },
-        {
-            "japanese": "複雑な課題に対する革新的な解決策の創出が求められています。",
-            "english": "Creating innovative solutions for complex challenges is required."
-        },
-        {
-            "japanese": "ステークホルダーの多様な期待に応える戦略的整合性が重要です。",
-            "english": "Strategic alignment that meets diverse stakeholder expectations is crucial."
-        },
-        {
-            "japanese": "長期的な価値創造に向けた体系的なアプローチを採用します。",
-            "english": "We'll adopt a systematic approach toward long-term value creation."
-        },
-        {
-            "japanese": "組織変革における文化的側面の重要性を認識すべきです。",
-            "english": "We should recognize the importance of cultural aspects in organizational transformation."
-        },
-        {
-            "japanese": "データドリブンな意思決定プロセスの確立が不可欠です。",
-            "english": "Establishing data-driven decision-making processes is essential."
-        },
-        {
-            "japanese": "持続可能な成長を実現するための戦略的投資が必要です。",
-            "english": "Strategic investment is needed to achieve sustainable growth."
-        }
+        {"japanese": "持続可能な競争優位性の構築に向けた包括的戦略を策定します。", "english": "We'll develop comprehensive strategies for building sustainable competitive advantage."},
+        {"japanese": "マクロ経済環境の変化を踏まえた戦略的適応が必要です。", "english": "Strategic adaptation considering macroeconomic environmental changes is necessary."},
+        {"japanese": "デジタルトランスフォーメーションを核とした事業変革を推進します。", "english": "We'll promote business transformation centered on digital transformation."},
+        {"japanese": "ステークホルダー価値の最大化と社会的責任の両立を図ります。", "english": "We'll achieve both stakeholder value maximization and social responsibility."},
+        {"japanese": "イノベーション創出のためのエコシステム構築が不可欠です。", "english": "Building an ecosystem for innovation creation is essential."},
+        {"japanese": "グローバル市場での戦略的ポジショニングを再定義しましょう。", "english": "Let's redefine strategic positioning in global markets."},
+        {"japanese": "組織能力の向上と戦略実行力の強化を同時に進めます。", "english": "We'll simultaneously advance organizational capability improvement and strategic execution enhancement."},
+        {"japanese": "長期的価値創造に向けた投資配分の最適化を検討します。", "english": "We'll consider optimizing investment allocation for long-term value creation."}
     ]
 }

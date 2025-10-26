@@ -2,36 +2,36 @@
     "name": "意見交換を活性化させる表現(初級)",
     "cards": [
         {
-            "japanese": "基本的な表現です。",
-            "english": "This is a basic expression."
+            "japanese": "話し合いましょう。",
+            "english": "Let's discuss."
         },
         {
-            "japanese": "簡単に説明します。",
-            "english": "I'll explain simply."
+            "japanese": "どう思いますか？",
+            "english": "What do you think?"
         },
         {
-            "japanese": "重要なポイントです。",
-            "english": "This is an important point."
+            "japanese": "意見を聞かせてください。",
+            "english": "Please share your opinion."
+        },
+        {
+            "japanese": "他の考えはありますか？",
+            "english": "Are there other ideas?"
+        },
+        {
+            "japanese": "賛成ですか？",
+            "english": "Do you agree?"
         },
         {
             "japanese": "質問はありますか？",
             "english": "Any questions?"
         },
         {
-            "japanese": "確認しましょう。",
-            "english": "Let's confirm."
+            "japanese": "みんなで考えましょう。",
+            "english": "Let's think together."
         },
         {
-            "japanese": "始めましょう。",
-            "english": "Let's start."
-        },
-        {
-            "japanese": "終わりました。",
-            "english": "We're finished."
-        },
-        {
-            "japanese": "ありがとうございます。",
-            "english": "Thank you."
+            "japanese": "いいアイデアですね。",
+            "english": "That's a good idea."
         }
     ]
 }

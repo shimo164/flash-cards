@@ -1,37 +1,13 @@
 {
     "name": "経営戦略を検討する会議(初級)",
     "cards": [
-        {
-            "japanese": "基本的な表現です。",
-            "english": "This is a basic expression."
-        },
-        {
-            "japanese": "簡単に説明します。",
-            "english": "I'll explain simply."
-        },
-        {
-            "japanese": "重要なポイントです。",
-            "english": "This is an important point."
-        },
-        {
-            "japanese": "質問はありますか？",
-            "english": "Any questions?"
-        },
-        {
-            "japanese": "確認しましょう。",
-            "english": "Let's confirm."
-        },
-        {
-            "japanese": "始めましょう。",
-            "english": "Let's start."
-        },
-        {
-            "japanese": "終わりました。",
-            "english": "We're finished."
-        },
-        {
-            "japanese": "ありがとうございます。",
-            "english": "Thank you."
-        }
+        {"japanese": "戦略を話し合いましょう。", "english": "Let's discuss strategy."},
+        {"japanese": "計画が必要です。", "english": "We need a plan."},
+        {"japanese": "目標を決めましょう。", "english": "Let's set goals."},
+        {"japanese": "予算はどうですか？", "english": "How about the budget?"},
+        {"japanese": "競合他社を調べましょう。", "english": "Let's research competitors."},
+        {"japanese": "市場を分析します。", "english": "We'll analyze the market."},
+        {"japanese": "リスクがあります。", "english": "There are risks."},
+        {"japanese": "成功の可能性は？", "english": "What's the chance of success?"}
     ]
 }

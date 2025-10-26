@@ -2,36 +2,36 @@
     "name": "ビジネスでの謝罪表現(初級)",
     "cards": [
         {
-            "japanese": "基本的な表現です。",
-            "english": "This is a basic expression."
+            "japanese": "すみません。",
+            "english": "I'm sorry."
         },
         {
-            "japanese": "簡単に説明します。",
-            "english": "I'll explain simply."
+            "japanese": "申し訳ありません。",
+            "english": "I apologize."
         },
         {
-            "japanese": "重要なポイントです。",
-            "english": "This is an important point."
+            "japanese": "遅れてすみません。",
+            "english": "Sorry for being late."
         },
         {
-            "japanese": "質問はありますか？",
-            "english": "Any questions?"
+            "japanese": "間違えました。",
+            "english": "I made a mistake."
         },
         {
-            "japanese": "確認しましょう。",
-            "english": "Let's confirm."
+            "japanese": "私のせいです。",
+            "english": "It's my fault."
         },
         {
-            "japanese": "始めましょう。",
-            "english": "Let's start."
+            "japanese": "気をつけます。",
+            "english": "I'll be careful."
         },
         {
-            "japanese": "終わりました。",
-            "english": "We're finished."
+            "japanese": "もう一度お願いします。",
+            "english": "Please try again."
         },
         {
-            "japanese": "ありがとうございます。",
-            "english": "Thank you."
+            "japanese": "許してください。",
+            "english": "Please forgive me."
         }
     ]
 }

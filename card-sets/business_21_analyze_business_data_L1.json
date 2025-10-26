@@ -2,36 +2,36 @@
     "name": "事業データを詳細に検討する(初級)",
     "cards": [
         {
-            "japanese": "基本的な表現です。",
-            "english": "This is a basic expression."
+            "japanese": "データを見ましょう。",
+            "english": "Let's look at the data."
         },
         {
-            "japanese": "簡単に説明します。",
-            "english": "I'll explain simply."
+            "japanese": "売上が上がりました。",
+            "english": "Sales have increased."
         },
         {
-            "japanese": "重要なポイントです。",
-            "english": "This is an important point."
+            "japanese": "数字が重要です。",
+            "english": "Numbers are important."
         },
         {
-            "japanese": "質問はありますか？",
-            "english": "Any questions?"
+            "japanese": "グラフを作りましょう。",
+            "english": "Let's make a graph."
         },
         {
-            "japanese": "確認しましょう。",
-            "english": "Let's confirm."
+            "japanese": "比較してください。",
+            "english": "Please compare."
         },
         {
-            "japanese": "始めましょう。",
-            "english": "Let's start."
+            "japanese": "傾向が見えます。",
+            "english": "We can see the trend."
         },
         {
-            "japanese": "終わりました。",
-            "english": "We're finished."
+            "japanese": "分析が必要です。",
+            "english": "Analysis is needed."
         },
         {
-            "japanese": "ありがとうございます。",
-            "english": "Thank you."
+            "japanese": "結論を出しましょう。",
+            "english": "Let's draw a conclusion."
         }
     ]
 }

@@ -2,36 +2,36 @@
     "name": "詳細なプロジェクト設計を立てる(初級)",
     "cards": [
         {
-            "japanese": "基本的な表現です。",
-            "english": "This is a basic expression."
+            "japanese": "詳しい計画を立てましょう。",
+            "english": "Let's make a detailed plan."
         },
         {
-            "japanese": "簡単に説明します。",
-            "english": "I'll explain simply."
+            "japanese": "何をしますか？",
+            "english": "What will we do?"
         },
         {
-            "japanese": "重要なポイントです。",
-            "english": "This is an important point."
+            "japanese": "いつまでですか？",
+            "english": "By when?"
         },
         {
-            "japanese": "質問はありますか？",
-            "english": "Any questions?"
+            "japanese": "誰が担当しますか？",
+            "english": "Who will be in charge?"
+        },
+        {
+            "japanese": "予算はいくらですか？",
+            "english": "What's the budget?"
+        },
+        {
+            "japanese": "ステップを決めましょう。",
+            "english": "Let's decide the steps."
+        },
+        {
+            "japanese": "資料を準備します。",
+            "english": "We'll prepare materials."
         },
         {
             "japanese": "確認しましょう。",
             "english": "Let's confirm."
-        },
-        {
-            "japanese": "始めましょう。",
-            "english": "Let's start."
-        },
-        {
-            "japanese": "終わりました。",
-            "english": "We're finished."
-        },
-        {
-            "japanese": "ありがとうございます。",
-            "english": "Thank you."
         }
     ]
 }

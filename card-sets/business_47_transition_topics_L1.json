@@ -2,36 +2,36 @@
     "name": "話題を切り替える表現(初級)",
     "cards": [
         {
-            "japanese": "基本的な表現です。",
-            "english": "This is a basic expression."
+            "japanese": "次の話題に移りましょう。",
+            "english": "Let's move to the next topic."
         },
         {
-            "japanese": "簡単に説明します。",
-            "english": "I'll explain simply."
+            "japanese": "別の件ですが。",
+            "english": "On another matter."
         },
         {
-            "japanese": "重要なポイントです。",
-            "english": "This is an important point."
+            "japanese": "ところで。",
+            "english": "By the way."
         },
         {
-            "japanese": "質問はありますか？",
-            "english": "Any questions?"
+            "japanese": "話は変わりますが。",
+            "english": "Changing the subject."
         },
         {
-            "japanese": "確認しましょう。",
-            "english": "Let's confirm."
+            "japanese": "次に。",
+            "english": "Next."
         },
         {
-            "japanese": "始めましょう。",
-            "english": "Let's start."
+            "japanese": "それでは。",
+            "english": "Well then."
         },
         {
-            "japanese": "終わりました。",
-            "english": "We're finished."
+            "japanese": "続いて。",
+            "english": "Following that."
         },
         {
-            "japanese": "ありがとうございます。",
-            "english": "Thank you."
+            "japanese": "最後に。",
+            "english": "Finally."
         }
     ]
 }

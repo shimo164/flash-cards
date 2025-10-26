@@ -2,36 +2,36 @@
     "name": "進捗状況を報告する(中級)",
     "cards": [
         {
-            "japanese": "詳細について検討する必要があります。",
-            "english": "We need to consider the details."
+            "japanese": "プロジェクトの現在の進捗状況をご報告いたします。",
+            "english": "I'll report the current project progress status."
         },
         {
-            "japanese": "効果的なアプローチを検討しましょう。",
-            "english": "Let's consider an effective approach."
+            "japanese": "計画に対して若干の遅れが生じています。",
+            "english": "There's a slight delay compared to the plan."
         },
         {
-            "japanese": "重要な課題について議論します。",
-            "english": "We'll discuss important challenges."
+            "japanese": "主要なマイルストーンは達成されています。",
+            "english": "Major milestones have been achieved."
         },
         {
-            "japanese": "戦略的な観点から分析しましょう。",
-            "english": "Let's analyze from a strategic perspective."
+            "japanese": "リスク要因を特定し、対策を講じています。",
+            "english": "We've identified risk factors and are taking countermeasures."
         },
         {
-            "japanese": "具体的な提案をお聞かせください。",
-            "english": "Please share specific proposals."
+            "japanese": "品質基準を満たしながら作業を進めています。",
+            "english": "We're proceeding with work while meeting quality standards."
         },
         {
-            "japanese": "包括的な解決策が必要です。",
-            "english": "We need comprehensive solutions."
+            "japanese": "予算の執行状況も良好です。",
+            "english": "Budget execution status is also favorable."
         },
         {
-            "japanese": "継続的な改善を図りましょう。",
-            "english": "Let's pursue continuous improvement."
+            "japanese": "次のフェーズに向けた準備を開始しました。",
+            "english": "We've started preparations for the next phase."
         },
         {
-            "japanese": "建設的な議論をお願いします。",
-            "english": "Please engage in constructive discussion."
+            "japanese": "詳細な分析結果は資料をご参照ください。",
+            "english": "Please refer to the materials for detailed analysis results."
         }
     ]
 }
