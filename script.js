@@ -4,6 +4,7 @@ class FlashcardApp {
     this.currentCardIndex = 0;
     this.isFlipped = false;
     this.sets = [];
+    this.currentLevelFilter = 'all';
 
     this.init();
   }
@@ -75,6 +76,11 @@ class FlashcardApp {
     document.getElementById('back-to-menu').addEventListener('click', () => this.showMenu());
     document.getElementById('back-to-cards').addEventListener('click', () => this.backToCards());
     document.getElementById('to-menu-btn').addEventListener('click', () => this.showMenu());
+    
+    // Level filter buttons
+    document.querySelectorAll('.level-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => this.setLevelFilter(e.target.dataset.level));
+    });
   }
 
   showMenu() {
@@ -83,15 +89,37 @@ class FlashcardApp {
     this.renderSetList();
   }
 
+  setLevelFilter(level) {
+    this.currentLevelFilter = level;
+    
+    // Update button states
+    document.querySelectorAll('.level-btn').forEach(btn => {
+      btn.classList.remove('active');
+    });
+    document.querySelector(`[data-level="${level}"]`).classList.add('active');
+    
+    // Re-render set list
+    this.renderSetList();
+  }
+  
   renderSetList() {
     const setList = document.getElementById('set-list');
     setList.innerHTML = '';
 
-    this.sets.forEach((set, index) => {
+    // Filter sets based on current level filter
+    const filteredSets = this.sets.filter((set, index) => {
+      if (this.currentLevelFilter === 'all') {
+        return true;
+      }
+      return set.name.includes(`(${this.currentLevelFilter})`);
+    });
+
+    filteredSets.forEach((set) => {
+      const originalIndex = this.sets.findIndex(s => s.name === set.name);
       const setItem = document.createElement('div');
       setItem.className = 'set-item';
       setItem.textContent = set.name;
-      setItem.addEventListener('click', () => this.startSet(index));
+      setItem.addEventListener('click', () => this.startSet(originalIndex));
       setList.appendChild(setItem);
     });
   }

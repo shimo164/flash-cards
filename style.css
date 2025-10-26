@@ -43,6 +43,43 @@ h1, h2 {
     text-shadow: 0 2px 4px rgba(0,0,0,0.3);
 }
 
+.level-filter {
+    margin-bottom: 15px;
+    text-align: center;
+    color: white;
+}
+
+.level-filter span {
+    font-size: 16px;
+    font-weight: 500;
+    margin-right: 0px;
+}
+
+.level-btn {
+    background: rgba(255,255,255,0.2);
+    border: 1px solid rgba(255,255,255,0.3);
+    color: white;
+    padding: 8px 8px;
+    border-radius: 20px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin: 0 5px;
+}
+
+.level-btn:hover {
+    background: rgba(255,255,255,0.3);
+    transform: translateY(-1px);
+}
+
+.level-btn.active {
+    background: rgba(255,255,255,0.4);
+    border-color: rgba(255,255,255,0.6);
+    border-width: 2px;
+    border-style: solid;
+    font-weight: 500;
+}
+
 .set-list {
     display: flex;
     flex-direction: column;
