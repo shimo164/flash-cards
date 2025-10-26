@@ -19,27 +19,26 @@ class FlashcardApp {
       // Load only set metadata (fast)
       const configResponse = await fetch('helper/set-metadata.json');
       const config = await configResponse.json();
-      
+
       // Store metadata only, don't load card data yet
-      this.sets = config.sets.map(set => ({
+      this.sets = config.sets.map((set) => ({
         filename: set.filename,
         name: set.name,
         cardCount: set.cardCount,
-        cards: null // Will be loaded when needed
+        cards: null, // Will be loaded when needed
       }));
-      
     } catch (error) {
       console.error('Failed to load sets configuration:', error);
       // Fallback to old method if metadata file doesn't exist
       await this.loadSetsOldWay();
     }
   }
-  
+
   async loadSetsOldWay() {
     try {
       const configResponse = await fetch('helper/set-list.json');
       const config = await configResponse.json();
-      
+
       for (const fileName of config.sets) {
         try {
           const response = await fetch(`card-sets/${fileName}`);
@@ -53,13 +52,13 @@ class FlashcardApp {
       console.error('Failed to load sets configuration:', error);
     }
   }
-  
+
   async loadSetCards(setIndex) {
     const set = this.sets[setIndex];
     if (set.cards) {
       return; // Already loaded
     }
-    
+
     try {
       const response = await fetch(`card-sets/${set.filename}`);
       const setData = await response.json();
@@ -99,10 +98,10 @@ class FlashcardApp {
 
   async startSet(setIndex) {
     this.currentSet = this.sets[setIndex];
-    
+
     // Load cards if not already loaded
     await this.loadSetCards(setIndex);
-    
+
     this.currentCardIndex = 0;
     this.isFlipped = false;
 
@@ -163,6 +162,107 @@ class FlashcardApp {
   showComplete() {
     this.hideAllScreens();
     document.getElementById('complete-screen').classList.add('active');
+
+    // Display completed set name
+    document.getElementById('completed-set-name').textContent = `「${this.currentSet.name}」`;
+
+    this.renderNavigationLinks();
+  }
+
+  renderNavigationLinks() {
+    const navContainer = document.getElementById('navigation-links');
+    const currentSet = this.currentSet;
+
+    // Parse current set info
+    const currentName = currentSet.name;
+    const match = currentName.match(/^(.+)\((初級|中級|上級)\)$/);
+
+    if (!match) {
+      navContainer.innerHTML = '';
+      return;
+    }
+
+    const baseName = match[1];
+    const currentLevel = match[2];
+
+    // Map level to file suffix
+    const levelMap = { 初級: 'L1', 中級: 'L2', 上級: 'L3' };
+    const currentLevelSuffix = levelMap[currentLevel];
+
+    // Find related sets
+    const relatedSets = this.sets
+      .filter((set, index) => {
+        if (set.name.startsWith(baseName)) {
+          return { set, index };
+        }
+        return null;
+      })
+      .map((item, originalIndex) => {
+        const setIndex = this.sets.findIndex((s) => s.name === item.name);
+        return { set: item, index: setIndex };
+      });
+
+    // Find adjacent theme sets with same level
+    const currentFilename = currentSet.filename || '';
+    const themeMatch = currentFilename.match(/business_(\d+)_(.+)_L\d\.json/);
+
+    let adjacentSets = [];
+    if (themeMatch) {
+      const currentNum = parseInt(themeMatch[1]);
+      const prevNum = String(currentNum - 1).padStart(2, '0');
+      const nextNum = String(currentNum + 1).padStart(2, '0');
+
+      adjacentSets = this.sets
+        .filter((set, index) => {
+          const filename = set.filename || '';
+          const isPrev =
+            filename.includes(`business_${prevNum}_`) &&
+            filename.includes(`_${currentLevelSuffix}.json`);
+          const isNext =
+            filename.includes(`business_${nextNum}_`) &&
+            filename.includes(`_${currentLevelSuffix}.json`);
+          return isPrev || isNext;
+        })
+        .map((set) => {
+          const setIndex = this.sets.findIndex((s) => s.name === set.name);
+          return { set, index: setIndex };
+        });
+    }
+
+    let html = '<h3>関連セット</h3>';
+
+    // Level navigation
+    if (relatedSets.length > 1) {
+      html += '<div class="nav-section">';
+      html += '<h4>他のレベル</h4>';
+      html += '<div class="nav-links">';
+
+      relatedSets.forEach(({ set, index }) => {
+        const levelMatch = set.name.match(/\((初級|中級|上級)\)$/);
+        const level = levelMatch ? levelMatch[1] : '';
+        if (level && level !== currentLevel) {
+          html += `<button class="nav-link" onclick="app.startSet(${index})">${level}</button>`;
+        }
+      });
+
+      html += '</div></div>';
+    }
+
+    // Adjacent themes
+    if (adjacentSets.length > 0) {
+      html += '<div class="nav-section">';
+      html += `<h4>他のテーマ (${currentLevel})</h4>`;
+      html += '<div class="nav-links">';
+
+      adjacentSets.forEach(({ set, index }) => {
+        const shortName = set.name.replace(/\((初級|中級|上級)\)$/, '').substring(0, 20) + '...';
+        html += `<button class="nav-link" onclick="app.startSet(${index})">${shortName}</button>`;
+      });
+
+      html += '</div></div>';
+    }
+
+    navContainer.innerHTML = html;
   }
 
   backToCards() {
@@ -181,6 +281,7 @@ class FlashcardApp {
 }
 
 // アプリケーション開始
+let app;
 document.addEventListener('DOMContentLoaded', () => {
-  new FlashcardApp();
+  app = new FlashcardApp();
 });
