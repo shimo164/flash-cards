@@ -39,3 +39,7 @@ Practicing English phases by using flash-cards.
 ```
 bash helper/generate-set-list.sh
 ```
+
+### dev note
+
+- top page のことを menu としてコード内で書いている。現状 top と menu が同じなので

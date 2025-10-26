@@ -41,6 +41,7 @@ class FlashcardApp {
     document.getElementById('next-btn').addEventListener('click', () => this.nextCard());
     document.getElementById('back-to-menu').addEventListener('click', () => this.showMenu());
     document.getElementById('back-to-cards').addEventListener('click', () => this.backToCards());
+    document.getElementById('to-menu-btn').addEventListener('click', () => this.showMenu());
   }
 
   showMenu() {
