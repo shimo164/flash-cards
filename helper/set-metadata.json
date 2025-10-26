@@ -2,707 +2,847 @@
   "sets": [
     {
       "filename": "business_01_start_meeting_L1.json",
-      "name": "会議の開始を宣言する(初級)",
+      "name": "1. 会議の開始を宣言する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_01_start_meeting_L2.json",
-      "name": "会議の開始を宣言する(中級)",
+      "name": "1. 会議の開始を宣言する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_01_start_meeting_L3.json",
-      "name": "会議の開始を宣言する(上級)",
+      "name": "1. 会議の開始を宣言する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_02_encourage_participation_L1.json",
-      "name": "会議で参加者の意見を引き出す(初級)",
+      "name": "2. 会議で参加者の意見を引き出す(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_02_encourage_participation_L2.json",
-      "name": "会議で参加者の意見を引き出す(中級)",
+      "name": "2. 会議で参加者の意見を引き出す(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_02_encourage_participation_L3.json",
-      "name": "会議で参加者の意見を引き出す(上級)",
+      "name": "2. 会議で参加者の意見を引き出す(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_03_close_meeting_L1.json",
-      "name": "会議をまとめて終える(初級)",
+      "name": "3. 会議をまとめて終える(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_03_close_meeting_L2.json",
-      "name": "会議をまとめて終える(中級)",
+      "name": "3. 会議をまとめて終える(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_03_close_meeting_L3.json",
-      "name": "会議をまとめて終える(上級)",
+      "name": "3. 会議をまとめて終える(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_04_engage_audience_L1.json",
-      "name": "発表中に聴衆の関心を高める(初級)",
+      "name": "4. 発表中に聴衆の関心を高める(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_04_engage_audience_L2.json",
-      "name": "発表中に聴衆の関心を高める(中級)",
+      "name": "4. 発表中に聴衆の関心を高める(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_04_engage_audience_L3.json",
-      "name": "発表中に聴衆の関心を高める(上級)",
+      "name": "4. 発表中に聴衆の関心を高める(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_05_announce_next_meeting_L1.json",
-      "name": "次回の会議予定を知らせる(初級)",
+      "name": "5. 次回の会議予定を知らせる(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_05_announce_next_meeting_L2.json",
-      "name": "次回の会議予定を知らせる(中級)",
+      "name": "5. 次回の会議予定を知らせる(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_05_announce_next_meeting_L3.json",
-      "name": "次回の会議予定を知らせる(上級)",
+      "name": "5. 次回の会議予定を知らせる(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_06_handle_qna_session_L1.json",
-      "name": "発表後の質疑応答を行う(初級)",
+      "name": "6. 発表後の質疑応答を行う(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_06_handle_qna_session_L2.json",
-      "name": "発表後の質疑応答を行う(中級)",
+      "name": "6. 発表後の質疑応答を行う(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_06_handle_qna_session_L3.json",
-      "name": "発表後の質疑応答を行う(上級)",
+      "name": "6. 発表後の質疑応答を行う(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_07_lead_team_meeting_L1.json",
-      "name": "チーム会議を主導する(初級)",
+      "name": "7. チーム会議を主導する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_07_lead_team_meeting_L2.json",
-      "name": "チーム会議を主導する(中級)",
+      "name": "7. チーム会議を主導する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_07_lead_team_meeting_L3.json",
-      "name": "チーム会議を主導する(上級)",
+      "name": "7. チーム会議を主導する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_08_strategic_meeting_L1.json",
-      "name": "経営戦略を検討する会議(初級)",
+      "name": "8. 経営戦略を検討する会議(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_08_strategic_meeting_L2.json",
-      "name": "経営戦略を検討する会議(中級)",
+      "name": "8. 経営戦略を検討する会議(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_08_strategic_meeting_L3.json",
-      "name": "経営戦略を検討する会議(上級)",
+      "name": "8. 経営戦略を検討する会議(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_09_set_and_review_goals_L1.json",
-      "name": "目標設定と成果の確認(初級)",
+      "name": "9. 目標設定と成果の確認(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_09_set_and_review_goals_L2.json",
-      "name": "目標設定と成果の確認(中級)",
+      "name": "9. 目標設定と成果の確認(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_09_set_and_review_goals_L3.json",
-      "name": "目標設定と成果の確認(上級)",
+      "name": "9. 目標設定と成果の確認(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_10_explain_data_statistics_L1.json",
-      "name": "データや統計を説明する(初級)",
+      "name": "10. データや統計を説明する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_10_explain_data_statistics_L2.json",
-      "name": "データや統計を説明する(中級)",
+      "name": "10. データや統計を説明する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_10_explain_data_statistics_L3.json",
-      "name": "データや統計を説明する(上級)",
+      "name": "10. データや統計を説明する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_11_express_agreement_disagreement_L1.json",
-      "name": "賛否を述べる表現(初級)",
+      "name": "11. 賛否を述べる表現(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_11_express_agreement_disagreement_L2.json",
-      "name": "賛否を述べる表現(中級)",
+      "name": "11. 賛否を述べる表現(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_11_express_agreement_disagreement_L3.json",
-      "name": "賛否を述べる表現(上級)",
+      "name": "11. 賛否を述べる表現(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_12_apologize_in_business_L1.json",
-      "name": "ビジネスでの謝罪表現(初級)",
+      "name": "12. ビジネスでの謝罪表現(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_12_apologize_in_business_L2.json",
-      "name": "ビジネスでの謝罪表現(中級)",
+      "name": "12. ビジネスでの謝罪表現(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_12_apologize_in_business_L3.json",
-      "name": "ビジネスでの謝罪表現(上級)",
+      "name": "12. ビジネスでの謝罪表現(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_13_talk_with_colleagues_L1.json",
-      "name": "職場での同僚とのやり取り(初級)",
+      "name": "13. 職場での同僚とのやり取り(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_13_talk_with_colleagues_L2.json",
-      "name": "職場での同僚とのやり取り(中級)",
+      "name": "13. 職場での同僚とのやり取り(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_13_talk_with_colleagues_L3.json",
-      "name": "職場での同僚とのやり取り(上級)",
+      "name": "13. 職場での同僚とのやり取り(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_14_streamline_decision_process_L1.json",
-      "name": "意思決定の流れを整理する(初級)",
+      "name": "14. 意思決定の流れを整理する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_14_streamline_decision_process_L2.json",
-      "name": "意思決定の流れを整理する(中級)",
+      "name": "14. 意思決定の流れを整理する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_14_streamline_decision_process_L3.json",
-      "name": "意思決定の流れを整理する(上級)",
+      "name": "14. 意思決定の流れを整理する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_15_run_strategic_meeting_L1.json",
-      "name": "戦略会議を効果的に進める(初級)",
+      "name": "15. 戦略会議を効果的に進める(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_15_run_strategic_meeting_L2.json",
-      "name": "戦略会議を効果的に進める(中級)",
+      "name": "15. 戦略会議を効果的に進める(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_15_run_strategic_meeting_L3.json",
-      "name": "戦略会議を効果的に進める(上級)",
+      "name": "15. 戦略会議を効果的に進める(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_16_develop_global_strategy_L1.json",
-      "name": "国際戦略を立てて評価する(初級)",
+      "name": "16. 国際戦略を立てて評価する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_16_develop_global_strategy_L2.json",
-      "name": "国際戦略を立てて評価する(中級)",
+      "name": "16. 国際戦略を立てて評価する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_16_develop_global_strategy_L3.json",
-      "name": "国際戦略を立てて評価する(上級)",
+      "name": "16. 国際戦略を立てて評価する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_17_implement_global_strategy_L1.json",
-      "name": "海外展開戦略を導入する(初級)",
+      "name": "17. 海外展開戦略を導入する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_17_implement_global_strategy_L2.json",
-      "name": "海外展開戦略を導入する(中級)",
+      "name": "17. 海外展開戦略を導入する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_17_implement_global_strategy_L3.json",
-      "name": "海外展開戦略を導入する(上級)",
+      "name": "17. 海外展開戦略を導入する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_18_hold_overseas_meeting_L1.json",
-      "name": "海外案件の会議を行う(初級)",
+      "name": "18. 海外案件の会議を行う(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_18_hold_overseas_meeting_L2.json",
-      "name": "海外案件の会議を行う(中級)",
+      "name": "18. 海外案件の会議を行う(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_18_hold_overseas_meeting_L3.json",
-      "name": "海外案件の会議を行う(上級)",
+      "name": "18. 海外案件の会議を行う(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_19_leadership_and_motivation_L1.json",
-      "name": "リーダーの指導力とモチベーション管理(初級)",
+      "name": "19. リーダーの指導力とモチベーション管理(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_19_leadership_and_motivation_L2.json",
-      "name": "リーダーの指導力とモチベーション管理(中級)",
+      "name": "19. リーダーの指導力とモチベーション管理(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_19_leadership_and_motivation_L3.json",
-      "name": "リーダーの指導力とモチベーション管理(上級)",
+      "name": "19. リーダーの指導力とモチベーション管理(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_20_manage_project_schedule_L1.json",
-      "name": "プロジェクト計画のスケジュール管理(初級)",
+      "name": "20. プロジェクト計画のスケジュール管理(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_20_manage_project_schedule_L2.json",
-      "name": "プロジェクト計画のスケジュール管理(中級)",
+      "name": "20. プロジェクト計画のスケジュール管理(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_20_manage_project_schedule_L3.json",
-      "name": "プロジェクト計画のスケジュール管理(上級)",
+      "name": "20. プロジェクト計画のスケジュール管理(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_21_analyze_business_data_L1.json",
-      "name": "事業データを詳細に検討する(初級)",
+      "name": "21. 事業データを詳細に検討する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_21_analyze_business_data_L2.json",
-      "name": "事業データを詳細に検討する(中級)",
+      "name": "21. 事業データを詳細に検討する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_21_analyze_business_data_L3.json",
-      "name": "事業データを詳細に検討する(上級)",
+      "name": "21. 事業データを詳細に検討する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_22_report_progress_L1.json",
-      "name": "進捗状況を報告する(初級)",
+      "name": "22. 進捗状況を報告する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_22_report_progress_L2.json",
-      "name": "進捗状況を報告する(中級)",
+      "name": "22. 進捗状況を報告する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_22_report_progress_L3.json",
-      "name": "進捗状況を報告する(上級)",
+      "name": "22. 進捗状況を報告する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_23_encourage_discussion_L1.json",
-      "name": "意見交換を活性化させる表現(初級)",
+      "name": "23. 意見交換を活性化させる表現(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_23_encourage_discussion_L2.json",
-      "name": "意見交換を活性化させる表現(中級)",
+      "name": "23. 意見交換を活性化させる表現(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_23_encourage_discussion_L3.json",
-      "name": "意見交換を活性化させる表現(上級)",
+      "name": "23. 意見交換を活性化させる表現(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_24_handle_phone_calls_L1.json",
-      "name": "電話対応のやり取り(初級)",
+      "name": "24. 電話対応のやり取り(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_24_handle_phone_calls_L2.json",
-      "name": "電話対応のやり取り(中級)",
+      "name": "24. 電話対応のやり取り(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_24_handle_phone_calls_L3.json",
-      "name": "電話対応のやり取り(上級)",
+      "name": "24. 電話対応のやり取り(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_25_cross_department_communication_L1.json",
-      "name": "部署間での情報共有(初級)",
+      "name": "25. 部署間での情報共有(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_25_cross_department_communication_L2.json",
-      "name": "部署間での情報共有(中級)",
+      "name": "25. 部署間での情報共有(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_25_cross_department_communication_L3.json",
-      "name": "部署間での情報共有(上級)",
+      "name": "25. 部署間での情報共有(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_26_build_team_collaboration_L1.json",
-      "name": "協働チームを育成する(初級)",
+      "name": "26. 協働チームを育成する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_26_build_team_collaboration_L2.json",
-      "name": "協働チームを育成する(中級)",
+      "name": "26. 協働チームを育成する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_26_build_team_collaboration_L3.json",
-      "name": "協働チームを育成する(上級)",
+      "name": "26. 協働チームを育成する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_27_work_in_global_environment_L1.json",
-      "name": "国際的な職場での対応(初級)",
+      "name": "27. 国際的な職場での対応(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_27_work_in_global_environment_L2.json",
-      "name": "国際的な職場での対応(中級)",
+      "name": "27. 国際的な職場での対応(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_27_work_in_global_environment_L3.json",
-      "name": "国際的な職場での対応(上級)",
+      "name": "27. 国際的な職場での対応(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_28_discuss_work_life_balance_L1.json",
-      "name": "働き方と生活の調和を語る(初級)",
+      "name": "28. 働き方と生活の調和を語る(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_28_discuss_work_life_balance_L2.json",
-      "name": "働き方と生活の調和を語る(中級)",
+      "name": "28. 働き方と生活の調和を語る(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_28_discuss_work_life_balance_L3.json",
-      "name": "働き方と生活の調和を語る(上級)",
+      "name": "28. 働き方と生活の調和を語る(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_29_share_organizational_challenges_L1.json",
-      "name": "組織改革の課題を共有する(初級)",
+      "name": "29. 組織改革の課題を共有する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_29_share_organizational_challenges_L2.json",
-      "name": "組織改革の課題を共有する(中級)",
+      "name": "29. 組織改革の課題を共有する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_29_share_organizational_challenges_L3.json",
-      "name": "組織改革の課題を共有する(上級)",
+      "name": "29. 組織改革の課題を共有する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_30_confirm_invoices_payments_L1.json",
-      "name": "請求処理や支払いを確認する(初級)",
+      "name": "30. 請求処理や支払いを確認する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_30_confirm_invoices_payments_L2.json",
-      "name": "請求処理や支払いを確認する(中級)",
+      "name": "30. 請求処理や支払いを確認する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_30_confirm_invoices_payments_L3.json",
-      "name": "請求処理や支払いを確認する(上級)",
+      "name": "30. 請求処理や支払いを確認する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_31_discuss_employee_satisfaction_L1.json",
-      "name": "従業員の意識や満足度を話し合う(初級)",
+      "name": "31. 従業員の意識や満足度を話し合う(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_31_discuss_employee_satisfaction_L2.json",
-      "name": "従業員の意識や満足度を話し合う(中級)",
+      "name": "31. 従業員の意識や満足度を話し合う(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_31_discuss_employee_satisfaction_L3.json",
-      "name": "従業員の意識や満足度を話し合う(上級)",
+      "name": "31. 従業員の意識や満足度を話し合う(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_32_discuss_remote_work_L1.json",
-      "name": "在宅勤務の課題を話し合う(初級)",
+      "name": "32. 在宅勤務の課題を話し合う(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_32_discuss_remote_work_L2.json",
-      "name": "在宅勤務の課題を話し合う(中級)",
+      "name": "32. 在宅勤務の課題を話し合う(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_32_discuss_remote_work_L3.json",
-      "name": "在宅勤務の課題を話し合う(上級)",
+      "name": "32. 在宅勤務の課題を話し合う(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_33_discuss_reskilling_L1.json",
-      "name": "スキル再教育の重要性を語る(初級)",
+      "name": "33. スキル再教育の重要性を語る(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_33_discuss_reskilling_L2.json",
-      "name": "スキル再教育の重要性を語る(中級)",
+      "name": "33. スキル再教育の重要性を語る(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_33_discuss_reskilling_L3.json",
-      "name": "スキル再教育の重要性を語る(上級)",
+      "name": "33. スキル再教育の重要性を語る(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_34_discuss_sustainability_globalization_L1.json",
-      "name": "持続可能性と国際化を議論する(初級)",
+      "name": "34. 持続可能性と国際化を議論する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_34_discuss_sustainability_globalization_L2.json",
-      "name": "持続可能性と国際化を議論する(中級)",
+      "name": "34. 持続可能性と国際化を議論する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_34_discuss_sustainability_globalization_L3.json",
-      "name": "持続可能性と国際化を議論する(上級)",
+      "name": "34. 持続可能性と国際化を議論する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_35_analyze_market_trends_L1.json",
-      "name": "市場動向を分析する(初級)",
+      "name": "35. 市場動向を分析する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_35_analyze_market_trends_L2.json",
-      "name": "市場動向を分析する(中級)",
+      "name": "35. 市場動向を分析する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_35_analyze_market_trends_L3.json",
-      "name": "市場動向を分析する(上級)",
+      "name": "35. 市場動向を分析する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_36_plan_cloud_adoption_L1.json",
-      "name": "クラウド導入の計画を立てる(初級)",
+      "name": "36. クラウド導入の計画を立てる(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_36_plan_cloud_adoption_L2.json",
-      "name": "クラウド導入の計画を立てる(中級)",
+      "name": "36. クラウド導入の計画を立てる(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_36_plan_cloud_adoption_L3.json",
-      "name": "クラウド導入の計画を立てる(上級)",
+      "name": "36. クラウド導入の計画を立てる(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_37_discuss_renewable_energy_L1.json",
-      "name": "再生可能エネルギーを議論する(初級)",
+      "name": "37. 再生可能エネルギーを議論する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_37_discuss_renewable_energy_L2.json",
-      "name": "再生可能エネルギーを議論する(中級)",
+      "name": "37. 再生可能エネルギーを議論する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_37_discuss_renewable_energy_L3.json",
-      "name": "再生可能エネルギーを議論する(上級)",
+      "name": "37. 再生可能エネルギーを議論する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_38_manage_complex_projects_L1.json",
-      "name": "多要素プロジェクトの調整(初級)",
+      "name": "38. 多要素プロジェクトの調整(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_38_manage_complex_projects_L2.json",
-      "name": "多要素プロジェクトの調整(中級)",
+      "name": "38. 多要素プロジェクトの調整(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_38_manage_complex_projects_L3.json",
-      "name": "多要素プロジェクトの調整(上級)",
+      "name": "38. 多要素プロジェクトの調整(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_39_conduct_user_research_L1.json",
-      "name": "顧客調査の実施(初級)",
+      "name": "39. 顧客調査の実施(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_39_conduct_user_research_L2.json",
-      "name": "顧客調査の実施(中級)",
+      "name": "39. 顧客調査の実施(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_39_conduct_user_research_L3.json",
-      "name": "顧客調査の実施(上級)",
+      "name": "39. 顧客調査の実施(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_40_analyze_financial_risks_L1.json",
-      "name": "財務リスクを分析する(初級)",
+      "name": "40. 財務リスクを分析する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_40_analyze_financial_risks_L2.json",
-      "name": "財務リスクを分析する(中級)",
+      "name": "40. 財務リスクを分析する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_40_analyze_financial_risks_L3.json",
-      "name": "財務リスクを分析する(上級)",
+      "name": "40. 財務リスクを分析する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_41_expand_to_foreign_markets_L1.json",
-      "name": "海外市場への進出を検討する(初級)",
+      "name": "41. 海外市場への進出を検討する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_41_expand_to_foreign_markets_L2.json",
-      "name": "海外市場への進出を検討する(中級)",
+      "name": "41. 海外市場への進出を検討する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_41_expand_to_foreign_markets_L3.json",
-      "name": "海外市場への進出を検討する(上級)",
+      "name": "41. 海外市場への進出を検討する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_42_plan_detailed_project_L1.json",
-      "name": "詳細なプロジェクト設計を立てる(初級)",
+      "name": "42. 詳細なプロジェクト設計を立てる(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_42_plan_detailed_project_L2.json",
-      "name": "詳細なプロジェクト設計を立てる(中級)",
+      "name": "42. 詳細なプロジェクト設計を立てる(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_42_plan_detailed_project_L3.json",
-      "name": "詳細なプロジェクト設計を立てる(上級)",
+      "name": "42. 詳細なプロジェクト設計を立てる(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_43_discuss_investment_strategy_L1.json",
-      "name": "投資や資産運用の方針を議論する(初級)",
+      "name": "43. 投資や資産運用の方針を議論する(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_43_discuss_investment_strategy_L2.json",
-      "name": "投資や資産運用の方針を議論する(中級)",
+      "name": "43. 投資や資産運用の方針を議論する(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_43_discuss_investment_strategy_L3.json",
-      "name": "投資や資産運用の方針を議論する(上級)",
+      "name": "43. 投資や資産運用の方針を議論する(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_44_promote_cross_cultural_teamwork_L1.json",
-      "name": "多文化チームの協働を促す(初級)",
+      "name": "44. 多文化チームの協働を促す(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_44_promote_cross_cultural_teamwork_L2.json",
-      "name": "多文化チームの協働を促す(中級)",
+      "name": "44. 多文化チームの協働を促す(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_44_promote_cross_cultural_teamwork_L3.json",
-      "name": "多文化チームの協働を促す(上級)",
+      "name": "44. 多文化チームの協働を促す(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_45_propose_process_improvement_L1.json",
-      "name": "作業効率を改善する提案(初級)",
+      "name": "45. 作業効率を改善する提案(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_45_propose_process_improvement_L2.json",
-      "name": "作業効率を改善する提案(中級)",
+      "name": "45. 作業効率を改善する提案(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_45_propose_process_improvement_L3.json",
-      "name": "作業効率を改善する提案(上級)",
+      "name": "45. 作業効率を改善する提案(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_46_negotiate_contracts_L1.json",
-      "name": "契約条件の調整と合意を得る(初級)",
+      "name": "46. 契約条件の調整と合意を得る(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_46_negotiate_contracts_L2.json",
-      "name": "契約条件の調整と合意を得る(中級)",
+      "name": "46. 契約条件の調整と合意を得る(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_46_negotiate_contracts_L3.json",
-      "name": "契約条件の調整と合意を得る(上級)",
+      "name": "46. 契約条件の調整と合意を得る(上級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_47_transition_topics_L1.json",
-      "name": "話題を切り替える表現(初級)",
+      "name": "47. 話題を切り替える表現(初級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_47_transition_topics_L2.json",
-      "name": "話題を切り替える表現(中級)",
+      "name": "47. 話題を切り替える表現(中級)",
       "cardCount": 8
-    },
+    }
+    ,
     {
       "filename": "business_47_transition_topics_L3.json",
-      "name": "話題を切り替える表現(上級)",
+      "name": "47. 話題を切り替える表現(上級)",
       "cardCount": 8
     }
   ]
