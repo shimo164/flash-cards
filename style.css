@@ -49,6 +49,26 @@ h1, h2 {
     color: white;
 }
 
+.favorites-link {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.favorites-btn {
+    background: rgba(255,255,255,0.3);
+    border: 1px solid rgba(255,255,255,0.4);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.favorites-btn:hover {
+    background: rgba(255,255,255,0.4);
+}
+
 .level-filter span {
     font-size: 16px;
     font-weight: 500;
@@ -111,6 +131,11 @@ h1, h2 {
     align-items: center;
 }
 
+.header-buttons {
+    display: flex;
+    gap: 5px;
+}
+
 .progress {
     font-size: 18px;
     font-weight: 500;
@@ -152,6 +177,28 @@ h1, h2 {
     cursor: pointer;
     box-shadow: 0 8px 25px rgba(0,0,0,0.15);
     transition: transform 0.2s ease;
+    position: relative;
+}
+
+.favorite-star {
+    position: absolute;
+    top: 8px; /* star size height: 42, width: 28 */
+    right: 15px;
+    font-size: 28px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #ddd;
+    transition: all 0.2s ease;
+    z-index: 10;
+}
+
+.favorite-star:hover {
+    transform: scale(1.2);
+}
+
+.favorite-star.active {
+    color: #ffd700;
 }
 
 .card:active {
@@ -309,4 +356,47 @@ h1, h2 {
     cursor: pointer;
     transition: all 0.3s ease;
     text-decoration: none;
+}
+
+.favorites-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.favorite-item {
+    background: white;
+    padding: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.favorite-item:hover {
+    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+    transform: translateY(-2px);
+}
+
+.favorite-content {
+    text-align: left;
+}
+
+.favorite-set {
+    font-size: 12px;
+    color: #666;
+    margin-bottom: 5px;
+}
+
+.favorite-text {
+    font-size: 16px;
+    font-weight: 500;
+    color: #333;
+}
+
+.no-favorites {
+    color: white;
+    font-size: 16px;
+    margin: 20px 0;
 }

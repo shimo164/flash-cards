@@ -5,6 +5,8 @@ class FlashcardApp {
     this.isFlipped = false;
     this.sets = [];
     this.currentLevelFilter = 'all';
+    this.favorites = this.loadFavorites();
+    this.favoritesList = [];
 
     this.init();
   }
@@ -71,11 +73,16 @@ class FlashcardApp {
 
   setupEventListeners() {
     document.getElementById('flashcard').addEventListener('click', () => this.flipCard());
-    document.getElementById('prev-btn').addEventListener('click', () => this.previousCard());
-    document.getElementById('next-btn').addEventListener('click', () => this.nextCard());
     document.getElementById('back-to-menu').addEventListener('click', () => this.showMenu());
     document.getElementById('back-to-cards').addEventListener('click', () => this.backToCards());
     document.getElementById('to-menu-btn').addEventListener('click', () => this.showMenu());
+    document.getElementById('to-favorites-btn').addEventListener('click', () => this.showFavorites());
+    document.getElementById('favorites-btn').addEventListener('click', () => this.showFavorites());
+    document.getElementById('back-to-menu-from-favorites').addEventListener('click', () => this.showMenu());
+    document.getElementById('favorite-star').addEventListener('click', (e) => {
+      e.stopPropagation();
+      this.toggleFavorite();
+    });
 
     // Level filter buttons
     document.querySelectorAll('.level-btn').forEach((btn) => {
@@ -126,8 +133,6 @@ class FlashcardApp {
 
   async startSet(setIndex) {
     this.currentSet = this.sets[setIndex];
-
-    // Load cards if not already loaded
     await this.loadSetCards(setIndex);
 
     this.currentCardIndex = 0;
@@ -137,9 +142,42 @@ class FlashcardApp {
     document.getElementById('card-screen').classList.add('active');
 
     document.getElementById('set-title').textContent = this.currentSet.name;
+    document.getElementById('current-card').textContent = 1;
     document.getElementById('total-cards').textContent = this.currentSet.cards.length;
 
+    this.setNormalNavigation();
     this.showCard();
+  }
+
+  setNormalNavigation() {
+    document.getElementById('prev-btn').onclick = () => this.previousCard();
+    document.getElementById('next-btn').onclick = () => this.nextCard();
+    document.getElementById('next-btn').textContent = '次のフレーズ';
+    document.getElementById('to-favorites-btn').style.display = 'none';
+  }
+
+  setFavoritesNavigation(currentFavIndex) {
+    const prevBtn = document.getElementById('prev-btn');
+    const nextBtn = document.getElementById('next-btn');
+    
+    prevBtn.onclick = () => {
+      if (currentFavIndex > 0) {
+        this.openFavoriteCard(this.favorites[currentFavIndex - 1]);
+      }
+    };
+    prevBtn.disabled = currentFavIndex === 0;
+    
+    nextBtn.onclick = () => {
+      if (currentFavIndex < this.favorites.length - 1) {
+        this.openFavoriteCard(this.favorites[currentFavIndex + 1]);
+      } else {
+        this.showFavorites();
+      }
+    };
+    nextBtn.disabled = false;
+    nextBtn.textContent = currentFavIndex === this.favorites.length - 1 ? 'お気に入り一覧に戻る' : '次のお気に入り';
+    
+    document.getElementById('to-favorites-btn').style.display = 'block';
   }
 
   showCard() {
@@ -150,12 +188,12 @@ class FlashcardApp {
     this.isFlipped = false;
     cardContent.innerHTML = `<div>${card.japanese}</div>`;
 
-    // Update progress
-    document.getElementById('current-card').textContent = this.currentCardIndex + 1;
-
     // Update button states
     document.getElementById('prev-btn').disabled = this.currentCardIndex === 0;
     document.getElementById('next-btn').disabled = false;
+
+    // Update favorite star
+    this.updateFavoriteStar();
   }
 
   flipCard() {
@@ -174,6 +212,7 @@ class FlashcardApp {
   previousCard() {
     if (this.currentCardIndex > 0) {
       this.currentCardIndex--;
+      document.getElementById('current-card').textContent = this.currentCardIndex + 1;
       this.showCard();
     }
   }
@@ -181,6 +220,7 @@ class FlashcardApp {
   nextCard() {
     if (this.currentCardIndex < this.currentSet.cards.length - 1) {
       this.currentCardIndex++;
+      document.getElementById('current-card').textContent = this.currentCardIndex + 1;
       this.showCard();
     } else {
       this.showComplete();
@@ -327,6 +367,98 @@ class FlashcardApp {
     document.querySelectorAll('.screen').forEach((screen) => {
       screen.classList.remove('active');
     });
+  }
+
+  loadFavorites() {
+    const saved = localStorage.getItem('flashcard-favorites');
+    return saved ? JSON.parse(saved) : [];
+  }
+
+  saveFavorites() {
+    localStorage.setItem('flashcard-favorites', JSON.stringify(this.favorites));
+  }
+
+  getCardId() {
+    return `${this.currentSet.name}|${this.currentCardIndex}`;
+  }
+
+  toggleFavorite() {
+    const cardId = this.getCardId();
+    const index = this.favorites.findIndex(f => f.id === cardId);
+    
+    if (index >= 0) {
+      this.favorites.splice(index, 1);
+    } else {
+      this.favorites.push({
+        id: cardId,
+        setName: this.currentSet.name,
+        setIndex: this.sets.findIndex(s => s.name === this.currentSet.name),
+        cardIndex: this.currentCardIndex,
+        timestamp: Date.now()
+      });
+    }
+    
+    this.saveFavorites();
+    this.updateFavoriteStar();
+  }
+
+  updateFavoriteStar() {
+    const cardId = this.getCardId();
+    const star = document.getElementById('favorite-star');
+    const isFavorite = this.favorites.some(f => f.id === cardId);
+    star.textContent = isFavorite ? '★' : '☆';
+    star.classList.toggle('active', isFavorite);
+  }
+
+  async showFavorites() {
+    this.hideAllScreens();
+    document.getElementById('favorites-screen').classList.add('active');
+    
+    const list = document.getElementById('favorites-list');
+    
+    if (this.favorites.length === 0) {
+      list.innerHTML = '<p class="no-favorites">お気に入りがありません</p>';
+      return;
+    }
+    
+    list.innerHTML = '';
+    
+    for (const fav of this.favorites) {
+      await this.loadSetCards(fav.setIndex);
+      const set = this.sets[fav.setIndex];
+      const card = set.cards[fav.cardIndex];
+      
+      const item = document.createElement('div');
+      item.className = 'favorite-item';
+      item.innerHTML = `
+        <div class="favorite-content">
+          <div class="favorite-set">${fav.setName}</div>
+          <div class="favorite-text">${card.japanese}</div>
+        </div>
+      `;
+      item.addEventListener('click', () => this.openFavoriteCard(fav));
+      list.appendChild(item);
+    }
+  }
+
+  async openFavoriteCard(fav) {
+    await this.loadSetCards(fav.setIndex);
+    this.currentSet = this.sets[fav.setIndex];
+    this.currentCardIndex = fav.cardIndex;
+    this.isFlipped = false;
+    
+    this.hideAllScreens();
+    document.getElementById('card-screen').classList.add('active');
+    
+    document.getElementById('set-title').textContent = this.currentSet.name;
+    
+    const currentFavIndex = this.favorites.findIndex(f => f.id === fav.id);
+    
+    document.getElementById('current-card').textContent = currentFavIndex + 1;
+    document.getElementById('total-cards').textContent = this.favorites.length;
+    
+    this.setFavoritesNavigation(currentFavIndex);
+    this.showCard();
   }
 }
 

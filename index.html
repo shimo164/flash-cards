@@ -21,6 +21,9 @@
           <button class="level-btn" data-level="中級">中級</button>
           <button class="level-btn" data-level="上級">上級</button>
         </div>
+        <div class="favorites-link">
+          <button id="favorites-btn" class="favorites-btn">★ お気に入り一覧</button>
+        </div>
         <div class="set-list" id="set-list">
           <!-- セット一覧がここに動的に追加されます -->
         </div>
@@ -33,12 +36,16 @@
             <div class="progress">
               <span id="current-card">1</span> / <span id="total-cards">0</span>
             </div>
-            <button id="to-menu-btn" class="menu-btn">トップに戻る</button>
+            <div class="header-buttons">
+              <button id="to-favorites-btn" class="menu-btn" style="display:none;">お気に入り一覧に戻る</button>
+              <button id="to-menu-btn" class="menu-btn">トップに戻る</button>
+            </div>
           </div>
         </div>
 
         <div class="card-container">
           <div class="card" id="flashcard">
+            <button class="favorite-star" id="favorite-star">☆</button>
             <div class="card-content" id="card-content">
               <!-- カード内容がここに表示されます -->
             </div>
@@ -62,6 +69,14 @@
         <div class="navigation-links" id="navigation-links">
           <!-- 関連セットへのリンクがここに動的に追加されます -->
         </div>
+      </div>
+
+      <div id="favorites-screen" class="screen">
+        <h2>お気に入り一覧</h2>
+        <div id="favorites-list" class="favorites-list">
+          <!-- お気に入りカード一覧がここに表示されます -->
+        </div>
+        <button id="back-to-menu-from-favorites" class="btn">トップに戻る</button>
       </div>
     </div>
 
