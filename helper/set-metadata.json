@@ -845,11 +845,5 @@
       "name": "話題を切り替える表現(上級)",
       "cardCount": 8
     }
-    ,
-    {
-      "filename": "zz_pens.json",
-      "name": "test-pens",
-      "cardCount": 2
-    }
   ]
 }
