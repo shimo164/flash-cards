@@ -34,10 +34,11 @@ Practicing English phases by using flash-cards.
 }
 ```
 
-2. Generate set-list. This command generates `helper/set-list.json` from the sorted names of json files in `card-sets/`.
+1. Re-generate set-list.json and set-metadata.json by running sh files.
 
 ```
 bash helper/generate-set-list.sh
+bash helper/generate-metadata.sh
 ```
 
 ### dev note
