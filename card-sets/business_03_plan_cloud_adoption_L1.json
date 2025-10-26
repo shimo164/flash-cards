@@ -1,0 +1,37 @@
+{
+    "name": "クラウド導入の計画を立てる(初級)",
+    "cards": [
+        {
+            "japanese": "クラウドを使いましょう。",
+            "english": "Let's use the cloud."
+        },
+        {
+            "japanese": "コストが安くなります。",
+            "english": "It will reduce costs."
+        },
+        {
+            "japanese": "データを移行します。",
+            "english": "We'll migrate the data."
+        },
+        {
+            "japanese": "セキュリティは大丈夫ですか？",
+            "english": "Is security okay?"
+        },
+        {
+            "japanese": "いつから始めますか？",
+            "english": "When do we start?"
+        },
+        {
+            "japanese": "どのクラウドを選びますか？",
+            "english": "Which cloud do we choose?"
+        },
+        {
+            "japanese": "準備が必要です。",
+            "english": "We need preparation."
+        },
+        {
+            "japanese": "テストをしましょう。",
+            "english": "Let's do testing."
+        }
+    ]
+}

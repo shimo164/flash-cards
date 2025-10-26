@@ -1,0 +1,37 @@
+{
+    "name": "会議の開始を宣言する(上級)",
+    "cards": [
+        {
+            "japanese": "戦略的重要性の高い本会議を開催させていただきます。",
+            "english": "We're convening this meeting of strategic importance."
+        },
+        {
+            "japanese": "多忙なスケジュールの中、貴重なお時間をいただき深く感謝申し上げます。",
+            "english": "I deeply appreciate your valuable time amidst demanding schedules."
+        },
+        {
+            "japanese": "本日の協議事項は組織の将来に大きな影響を与える重要な案件です。",
+            "english": "Today's discussion items are crucial matters that will significantly impact our organization's future."
+        },
+        {
+            "japanese": "建設的な対話を通じて、最適な解決策を見出すことを目指します。",
+            "english": "We aim to identify optimal solutions through constructive dialogue."
+        },
+        {
+            "japanese": "限られた時間を最大限活用し、効率的な議事進行を心がけます。",
+            "english": "We'll maximize our limited time with efficient meeting facilitation."
+        },
+        {
+            "japanese": "多様な視点からの洞察に富んだご意見をお聞かせください。",
+            "english": "Please share your insightful perspectives from diverse viewpoints."
+        },
+        {
+            "japanese": "事前配布資料に基づき、詳細な検討を進めてまいります。",
+            "english": "We'll proceed with detailed examination based on pre-distributed materials."
+        },
+        {
+            "japanese": "それでは、戦略的優先順位に従い、第一議題から着手いたします。",
+            "english": "Now, let's commence with the first agenda item according to strategic priorities."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "会議の開始を宣言する(初級)",
+    "cards": [
+        {
+            "japanese": "会議を始めましょう。",
+            "english": "Let's start the meeting."
+        },
+        {
+            "japanese": "皆さん、お疲れ様です。",
+            "english": "Thank you for your hard work, everyone."
+        },
+        {
+            "japanese": "時間になりました。",
+            "english": "It's time."
+        },
+        {
+            "japanese": "今日の議題です。",
+            "english": "Here's today's agenda."
+        },
+        {
+            "japanese": "準備はいいですか？",
+            "english": "Are you ready?"
+        },
+        {
+            "japanese": "始めます。",
+            "english": "Let's begin."
+        },
+        {
+            "japanese": "よろしくお願いします。",
+            "english": "Thank you for your cooperation."
+        },
+        {
+            "japanese": "資料を見てください。",
+            "english": "Please look at the materials."
+        }
+    ]
+}

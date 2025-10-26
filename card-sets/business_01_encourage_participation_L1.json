@@ -1,0 +1,37 @@
+{
+    "name": "会議で参加者の意見を引き出す(初級)",
+    "cards": [
+        {
+            "japanese": "どう思いますか？",
+            "english": "What do you think?"
+        },
+        {
+            "japanese": "ご意見をお聞かせください。",
+            "english": "Please share your opinion."
+        },
+        {
+            "japanese": "何かアイデアはありますか？",
+            "english": "Do you have any ideas?"
+        },
+        {
+            "japanese": "他にご質問はありますか？",
+            "english": "Any other questions?"
+        },
+        {
+            "japanese": "田中さんはいかがですか？",
+            "english": "How about you, Mr. Tanaka?"
+        },
+        {
+            "japanese": "皆さんのお考えを聞きたいです。",
+            "english": "I'd like to hear everyone's thoughts."
+        },
+        {
+            "japanese": "何かコメントはありますか？",
+            "english": "Any comments?"
+        },
+        {
+            "japanese": "ご質問をどうぞ。",
+            "english": "Please ask your questions."
+        }
+    ]
+}

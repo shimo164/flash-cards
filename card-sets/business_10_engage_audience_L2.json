@@ -1,0 +1,37 @@
+{
+    "name": "発表中に聴衆の関心を高める(中級)",
+    "cards": [
+        {
+            "japanese": "皆さんのご意見をお聞かせください。",
+            "english": "I'd like to hear your opinions."
+        },
+        {
+            "japanese": "この事例について考えてみましょう。",
+            "english": "Let's think about this case study."
+        },
+        {
+            "japanese": "興味深いデータをご紹介します。",
+            "english": "I'll present some interesting data."
+        },
+        {
+            "japanese": "どなたかご経験をお聞かせいただけますか？",
+            "english": "Could someone share their experience?"
+        },
+        {
+            "japanese": "具体的な例を挙げて説明いたします。",
+            "english": "I'll explain with specific examples."
+        },
+        {
+            "japanese": "この点について議論してみましょう。",
+            "english": "Let's discuss this point."
+        },
+        {
+            "japanese": "注目すべき重要なポイントがあります。",
+            "english": "There's an important point worth noting."
+        },
+        {
+            "japanese": "積極的なご参加をお願いいたします。",
+            "english": "I encourage your active participation."
+        }
+    ]
+}

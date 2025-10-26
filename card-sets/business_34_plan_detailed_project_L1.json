@@ -1,0 +1,37 @@
+{
+    "name": "詳細なプロジェクト設計を立てる(初級)",
+    "cards": [
+        {
+            "japanese": "基本的な表現です。",
+            "english": "This is a basic expression."
+        },
+        {
+            "japanese": "簡単に説明します。",
+            "english": "I'll explain simply."
+        },
+        {
+            "japanese": "重要なポイントです。",
+            "english": "This is an important point."
+        },
+        {
+            "japanese": "質問はありますか？",
+            "english": "Any questions?"
+        },
+        {
+            "japanese": "確認しましょう。",
+            "english": "Let's confirm."
+        },
+        {
+            "japanese": "始めましょう。",
+            "english": "Let's start."
+        },
+        {
+            "japanese": "終わりました。",
+            "english": "We're finished."
+        },
+        {
+            "japanese": "ありがとうございます。",
+            "english": "Thank you."
+        }
+    ]
+}

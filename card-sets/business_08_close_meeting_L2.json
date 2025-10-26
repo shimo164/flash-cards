@@ -1,0 +1,37 @@
+{
+    "name": "会議をまとめて終える(中級)",
+    "cards": [
+        {
+            "japanese": "それでは会議をまとめさせていただきます。",
+            "english": "Let me summarize the meeting."
+        },
+        {
+            "japanese": "本日は貴重なお時間をありがとうございました。",
+            "english": "Thank you for your valuable time today."
+        },
+        {
+            "japanese": "決定事項を整理いたします。",
+            "english": "Let me organize the decisions made."
+        },
+        {
+            "japanese": "アクションアイテムを確認しましょう。",
+            "english": "Let's confirm the action items."
+        },
+        {
+            "japanese": "次回の会議は来月の予定です。",
+            "english": "The next meeting is scheduled for next month."
+        },
+        {
+            "japanese": "議事録は後日共有いたします。",
+            "english": "Meeting minutes will be shared later."
+        },
+        {
+            "japanese": "フォローアップが必要な項目があります。",
+            "english": "There are items that need follow-up."
+        },
+        {
+            "japanese": "有意義な議論をありがとうございました。",
+            "english": "Thank you for the meaningful discussion."
+        }
+    ]
+}

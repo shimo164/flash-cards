@@ -1,0 +1,37 @@
+{
+    "name": "再生可能エネルギーを議論する(上級)",
+    "cards": [
+        {
+            "japanese": "分散型エネルギーシステムの統合的な導入戦略を策定する必要があります。",
+            "english": "We need to develop an integrated deployment strategy for distributed energy systems."
+        },
+        {
+            "japanese": "カーボンニュートラル実現に向けた包括的なロードマップが不可欠です。",
+            "english": "A comprehensive roadmap toward carbon neutrality is essential."
+        },
+        {
+            "japanese": "エネルギー貯蔵技術の革新が持続可能性の鍵となります。",
+            "english": "Innovation in energy storage technology is key to sustainability."
+        },
+        {
+            "japanese": "グリッドパリティの達成により、経済的優位性が確立されます。",
+            "english": "Achieving grid parity will establish economic advantages."
+        },
+        {
+            "japanese": "ライフサイクルアセスメントに基づく環境影響評価が重要です。",
+            "english": "Environmental impact assessment based on life cycle assessment is crucial."
+        },
+        {
+            "japanese": "スマートグリッド技術との統合により効率性が最大化されます。",
+            "english": "Integration with smart grid technology maximizes efficiency."
+        },
+        {
+            "japanese": "ESG投資の観点から、長期的な価値創造が期待されます。",
+            "english": "From an ESG investment perspective, long-term value creation is expected."
+        },
+        {
+            "japanese": "エネルギー転換における社会的受容性の確保が課題です。",
+            "english": "Ensuring social acceptance in energy transition is a challenge."
+        }
+    ]
+}

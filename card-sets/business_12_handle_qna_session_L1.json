@@ -1,0 +1,37 @@
+{
+    "name": "発表後の質疑応答を行う(初級)",
+    "cards": [
+        {
+            "japanese": "質問をどうぞ。",
+            "english": "Please ask questions."
+        },
+        {
+            "japanese": "いい質問ですね。",
+            "english": "That's a good question."
+        },
+        {
+            "japanese": "答えます。",
+            "english": "I'll answer."
+        },
+        {
+            "japanese": "わかりません。",
+            "english": "I don't know."
+        },
+        {
+            "japanese": "後で調べます。",
+            "english": "I'll check later."
+        },
+        {
+            "japanese": "他に質問はありますか？",
+            "english": "Any other questions?"
+        },
+        {
+            "japanese": "時間がありません。",
+            "english": "We don't have time."
+        },
+        {
+            "japanese": "ありがとうございました。",
+            "english": "Thank you very much."
+        }
+    ]
+}

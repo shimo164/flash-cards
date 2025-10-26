@@ -1,0 +1,37 @@
+{
+    "name": "従業員の意識や満足度を話し合う(中級)",
+    "cards": [
+        {
+            "japanese": "職場環境についてどのように感じていますか？",
+            "english": "How do you feel about the work environment?"
+        },
+        {
+            "japanese": "エンゲージメントレベルを向上させる方法を検討しましょう。",
+            "english": "Let's consider ways to improve engagement levels."
+        },
+        {
+            "japanese": "キャリア開発の機会について話し合いましょう。",
+            "english": "Let's discuss career development opportunities."
+        },
+        {
+            "japanese": "ワークライフバランスの改善が必要ですか？",
+            "english": "Do we need to improve work-life balance?"
+        },
+        {
+            "japanese": "コミュニケーションの課題はありますか？",
+            "english": "Are there any communication challenges?"
+        },
+        {
+            "japanese": "モチベーション向上のための提案をお聞かせください。",
+            "english": "Please share suggestions for improving motivation."
+        },
+        {
+            "japanese": "福利厚生制度についてご意見をください。",
+            "english": "Please give your opinion on the benefits system."
+        },
+        {
+            "japanese": "組織文化の改善点を教えてください。",
+            "english": "Please tell us about areas for improving organizational culture."
+        }
+    ]
+}

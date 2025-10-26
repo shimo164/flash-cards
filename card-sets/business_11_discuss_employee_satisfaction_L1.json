@@ -1,0 +1,37 @@
+{
+    "name": "従業員の意識や満足度を話し合う(初級)",
+    "cards": [
+        {
+            "japanese": "仕事は楽しいですか？",
+            "english": "Do you enjoy your work?"
+        },
+        {
+            "japanese": "満足していますか？",
+            "english": "Are you satisfied?"
+        },
+        {
+            "japanese": "何か問題がありますか？",
+            "english": "Are there any problems?"
+        },
+        {
+            "japanese": "改善したいことはありますか？",
+            "english": "Is there anything you'd like to improve?"
+        },
+        {
+            "japanese": "チームワークはどうですか？",
+            "english": "How is the teamwork?"
+        },
+        {
+            "japanese": "上司との関係はいいですか？",
+            "english": "Is your relationship with your boss good?"
+        },
+        {
+            "japanese": "給料に満足ですか？",
+            "english": "Are you satisfied with your salary?"
+        },
+        {
+            "japanese": "意見を聞かせてください。",
+            "english": "Please share your opinion."
+        }
+    ]
+}

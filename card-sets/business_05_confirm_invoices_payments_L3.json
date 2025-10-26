@@ -1,0 +1,37 @@
+{
+    "name": "請求処理や支払いを確認する(上級)",
+    "cards": [
+        {
+            "japanese": "請求書の妥当性について、詳細な監査を実施させていただきます。",
+            "english": "We'll conduct a detailed audit regarding the validity of this invoice."
+        },
+        {
+            "japanese": "契約条項に基づく支払い条件の再確認が必要です。",
+            "english": "Reconfirmation of payment terms based on contractual provisions is necessary."
+        },
+        {
+            "japanese": "財務規程に従い、適切な承認手続きを経て処理いたします。",
+            "english": "We'll process this through proper approval procedures in accordance with financial regulations."
+        },
+        {
+            "japanese": "税務上の取り扱いについて、専門部署との協議が必要です。",
+            "english": "Consultation with specialized departments regarding tax treatment is required."
+        },
+        {
+            "japanese": "キャッシュフロー管理の観点から、支払いスケジュールの最適化を検討します。",
+            "english": "We'll consider optimizing the payment schedule from a cash flow management perspective."
+        },
+        {
+            "japanese": "内部統制システムに従い、適切な証憑管理を実施いたします。",
+            "english": "We'll implement proper documentation management in accordance with internal control systems."
+        },
+        {
+            "japanese": "リスク管理の観点から、支払い承認プロセスの強化が必要です。",
+            "english": "Strengthening the payment approval process is necessary from a risk management perspective."
+        },
+        {
+            "japanese": "財務透明性の確保と効率的な資金運用の両立を図ります。",
+            "english": "We'll achieve both financial transparency and efficient fund management."
+        }
+    ]
+}

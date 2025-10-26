@@ -1,0 +1,37 @@
+{
+    "name": "請求処理や支払いを確認する(初級)",
+    "cards": [
+        {
+            "japanese": "請求書を確認してください。",
+            "english": "Please check the invoice."
+        },
+        {
+            "japanese": "支払いはいつですか？",
+            "english": "When is the payment?"
+        },
+        {
+            "japanese": "金額が間違っています。",
+            "english": "The amount is wrong."
+        },
+        {
+            "japanese": "領収書をください。",
+            "english": "Please give me a receipt."
+        },
+        {
+            "japanese": "支払いが遅れています。",
+            "english": "The payment is late."
+        },
+        {
+            "japanese": "確認しました。",
+            "english": "I confirmed it."
+        },
+        {
+            "japanese": "問題ありません。",
+            "english": "No problem."
+        },
+        {
+            "japanese": "すぐに支払います。",
+            "english": "I'll pay immediately."
+        }
+    ]
+}

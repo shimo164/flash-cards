@@ -1,0 +1,37 @@
+{
+    "name": "会議の開始を宣言する(中級)",
+    "cards": [
+        {
+            "japanese": "定刻になりましたので、会議を開始いたします。",
+            "english": "It's time, so let's begin the meeting."
+        },
+        {
+            "japanese": "お忙しい中お集まりいただき、ありがとうございます。",
+            "english": "Thank you for gathering despite your busy schedules."
+        },
+        {
+            "japanese": "本日の議題について確認させていただきます。",
+            "english": "Let me confirm today's agenda items."
+        },
+        {
+            "japanese": "会議の目的と期待される成果を共有します。",
+            "english": "I'll share the meeting's purpose and expected outcomes."
+        },
+        {
+            "japanese": "予定時間は1時間を予定しております。",
+            "english": "We're scheduled for one hour."
+        },
+        {
+            "japanese": "活発な議論をお願いいたします。",
+            "english": "I encourage active discussion."
+        },
+        {
+            "japanese": "配布資料をご確認ください。",
+            "english": "Please review the distributed materials."
+        },
+        {
+            "japanese": "それでは、第一議題から始めましょう。",
+            "english": "Now, let's start with the first agenda item."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "会議をまとめて終える(初級)",
+    "cards": [
+        {
+            "japanese": "会議を終わります。",
+            "english": "Let's end the meeting."
+        },
+        {
+            "japanese": "お疲れ様でした。",
+            "english": "Thank you for your hard work."
+        },
+        {
+            "japanese": "まとめましょう。",
+            "english": "Let's summarize."
+        },
+        {
+            "japanese": "決まったことを確認します。",
+            "english": "Let's confirm what we decided."
+        },
+        {
+            "japanese": "次回は来週です。",
+            "english": "Next time is next week."
+        },
+        {
+            "japanese": "ありがとうございました。",
+            "english": "Thank you very much."
+        },
+        {
+            "japanese": "宿題があります。",
+            "english": "We have homework."
+        },
+        {
+            "japanese": "また会いましょう。",
+            "english": "See you again."
+        }
+    ]
+}

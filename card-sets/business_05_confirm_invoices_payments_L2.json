@@ -1,0 +1,37 @@
+{
+    "name": "請求処理や支払いを確認する(中級)",
+    "cards": [
+        {
+            "japanese": "請求書の詳細を確認させていただきます。",
+            "english": "Let me verify the invoice details."
+        },
+        {
+            "japanese": "支払い条件について確認したいことがあります。",
+            "english": "I have some questions about the payment terms."
+        },
+        {
+            "japanese": "計算に誤りがあるようです。",
+            "english": "There seems to be an error in the calculation."
+        },
+        {
+            "japanese": "正式な領収書を発行していただけますか？",
+            "english": "Could you issue an official receipt?"
+        },
+        {
+            "japanese": "支払い期限の延長をお願いできますか？",
+            "english": "Could we request an extension of the payment deadline?"
+        },
+        {
+            "japanese": "承認プロセスを完了いたします。",
+            "english": "We'll complete the approval process."
+        },
+        {
+            "japanese": "経理部門と調整いたします。",
+            "english": "I'll coordinate with the accounting department."
+        },
+        {
+            "japanese": "速やかに処理いたします。",
+            "english": "We'll process this promptly."
+        }
+    ]
+}

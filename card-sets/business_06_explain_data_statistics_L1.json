@@ -1,0 +1,37 @@
+{
+    "name": "データや統計を説明する(初級)",
+    "cards": [
+        {
+            "japanese": "売上が上がりました。",
+            "english": "Sales went up."
+        },
+        {
+            "japanese": "数字を見てください。",
+            "english": "Please look at the numbers."
+        },
+        {
+            "japanese": "グラフを説明します。",
+            "english": "I'll explain the graph."
+        },
+        {
+            "japanese": "結果は良いです。",
+            "english": "The results are good."
+        },
+        {
+            "japanese": "前年より高いです。",
+            "english": "It's higher than last year."
+        },
+        {
+            "japanese": "データが示しています。",
+            "english": "The data shows."
+        },
+        {
+            "japanese": "パーセントで表します。",
+            "english": "It's shown in percentages."
+        },
+        {
+            "japanese": "傾向が見えます。",
+            "english": "We can see the trend."
+        }
+    ]
+}
