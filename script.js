@@ -76,9 +76,9 @@ class FlashcardApp {
     document.getElementById('back-to-menu').addEventListener('click', () => this.showMenu());
     document.getElementById('back-to-cards').addEventListener('click', () => this.backToCards());
     document.getElementById('to-menu-btn').addEventListener('click', () => this.showMenu());
-    
+
     // Level filter buttons
-    document.querySelectorAll('.level-btn').forEach(btn => {
+    document.querySelectorAll('.level-btn').forEach((btn) => {
       btn.addEventListener('click', (e) => this.setLevelFilter(e.target.dataset.level));
     });
   }
@@ -91,17 +91,17 @@ class FlashcardApp {
 
   setLevelFilter(level) {
     this.currentLevelFilter = level;
-    
+
     // Update button states
-    document.querySelectorAll('.level-btn').forEach(btn => {
+    document.querySelectorAll('.level-btn').forEach((btn) => {
       btn.classList.remove('active');
     });
     document.querySelector(`[data-level="${level}"]`).classList.add('active');
-    
+
     // Re-render set list
     this.renderSetList();
   }
-  
+
   renderSetList() {
     const setList = document.getElementById('set-list');
     setList.innerHTML = '';
@@ -115,7 +115,7 @@ class FlashcardApp {
     });
 
     filteredSets.forEach((set) => {
-      const originalIndex = this.sets.findIndex(s => s.name === set.name);
+      const originalIndex = this.sets.findIndex((s) => s.name === set.name);
       const setItem = document.createElement('div');
       setItem.className = 'set-item';
       setItem.textContent = set.name;
@@ -192,7 +192,7 @@ class FlashcardApp {
     document.getElementById('complete-screen').classList.add('active');
 
     // Display completed set name
-    document.getElementById('completed-set-name').textContent = `「${this.currentSet.name}」`;
+    document.getElementById('completed-set-name').textContent = `${this.currentSet.name}`;
 
     this.renderNavigationLinks();
   }
@@ -267,7 +267,7 @@ class FlashcardApp {
 
       const currentFilename = currentSet.filename || '';
       const themeMatch = currentFilename.match(/business_(\d+)_(.+)_L\d\.json/);
-      
+
       if (themeMatch) {
         const currentNum = parseInt(themeMatch[1]);
         const prevNum = String(currentNum - 1).padStart(2, '0');
@@ -278,7 +278,7 @@ class FlashcardApp {
           const filename = set.filename || '';
           return filename.includes(`business_${prevNum}_`);
         });
-        
+
         const nextSet = adjacentSets.find(({ set }) => {
           const filename = set.filename || '';
           return filename.includes(`business_${nextNum}_`);
