@@ -2,6 +2,7 @@
 set -euo pipefail
 
 cd "$(dirname "$0")/.."
+set_list_file="helper/set-list.json"
 
 # Generate JSON array of .json files
 {
@@ -24,6 +25,6 @@ cd "$(dirname "$0")/.."
 
     echo '  ]'
     echo '}'
-} > helper/set-list.json
+} > "$set_list_file"
 
-echo "Generated helper/set-list.json"
+echo "Generated $set_list_file"

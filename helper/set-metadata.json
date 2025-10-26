@@ -19,24 +19,6 @@
     }
     ,
     {
-      "filename": "business_01_meeting_start_L1.json",
-      "name": "ビジネス：会議の始めに使う表現(初級)",
-      "cardCount": 5
-    }
-    ,
-    {
-      "filename": "business_01_meeting_start_L2.json",
-      "name": "ビジネス：会議の始めに使う表現(中級)",
-      "cardCount": 5
-    }
-    ,
-    {
-      "filename": "business_01_meeting_start_L3.json",
-      "name": "ビジネス：会議の始めに使う表現(上級)",
-      "cardCount": 5
-    }
-    ,
-    {
       "filename": "business_02_express_agreement_disagreement_L1.json",
       "name": "賛否を述べる表現(初級)",
       "cardCount": 8
