@@ -76,9 +76,13 @@ class FlashcardApp {
     document.getElementById('back-to-menu').addEventListener('click', () => this.showMenu());
     document.getElementById('back-to-cards').addEventListener('click', () => this.backToCards());
     document.getElementById('to-menu-btn').addEventListener('click', () => this.showMenu());
-    document.getElementById('to-favorites-btn').addEventListener('click', () => this.showFavorites());
+    document
+      .getElementById('to-favorites-btn')
+      .addEventListener('click', () => this.showFavorites());
     document.getElementById('favorites-btn').addEventListener('click', () => this.showFavorites());
-    document.getElementById('back-to-menu-from-favorites').addEventListener('click', () => this.showMenu());
+    document
+      .getElementById('back-to-menu-from-favorites')
+      .addEventListener('click', () => this.showMenu());
     document.getElementById('favorite-star').addEventListener('click', (e) => {
       e.stopPropagation();
       this.toggleFavorite();
@@ -159,14 +163,14 @@ class FlashcardApp {
   setFavoritesNavigation(currentFavIndex) {
     const prevBtn = document.getElementById('prev-btn');
     const nextBtn = document.getElementById('next-btn');
-    
+
     prevBtn.onclick = () => {
       if (currentFavIndex > 0) {
         this.openFavoriteCard(this.favorites[currentFavIndex - 1]);
       }
     };
     prevBtn.disabled = currentFavIndex === 0;
-    
+
     nextBtn.onclick = () => {
       if (currentFavIndex < this.favorites.length - 1) {
         this.openFavoriteCard(this.favorites[currentFavIndex + 1]);
@@ -175,8 +179,9 @@ class FlashcardApp {
       }
     };
     nextBtn.disabled = false;
-    nextBtn.textContent = currentFavIndex === this.favorites.length - 1 ? 'お気に入り一覧に戻る' : '次のお気に入り';
-    
+    nextBtn.textContent =
+      currentFavIndex === this.favorites.length - 1 ? 'お気に入り一覧に戻る' : '次のお気に入り';
+
     document.getElementById('to-favorites-btn').style.display = 'block';
   }
 
@@ -384,20 +389,20 @@ class FlashcardApp {
 
   toggleFavorite() {
     const cardId = this.getCardId();
-    const index = this.favorites.findIndex(f => f.id === cardId);
-    
+    const index = this.favorites.findIndex((f) => f.id === cardId);
+
     if (index >= 0) {
       this.favorites.splice(index, 1);
     } else {
       this.favorites.push({
         id: cardId,
         setName: this.currentSet.name,
-        setIndex: this.sets.findIndex(s => s.name === this.currentSet.name),
+        setIndex: this.sets.findIndex((s) => s.name === this.currentSet.name),
         cardIndex: this.currentCardIndex,
-        timestamp: Date.now()
+        timestamp: Date.now(),
       });
     }
-    
+
     this.saveFavorites();
     this.updateFavoriteStar();
   }
@@ -405,7 +410,7 @@ class FlashcardApp {
   updateFavoriteStar() {
     const cardId = this.getCardId();
     const star = document.getElementById('favorite-star');
-    const isFavorite = this.favorites.some(f => f.id === cardId);
+    const isFavorite = this.favorites.some((f) => f.id === cardId);
     star.textContent = isFavorite ? '★' : '☆';
     star.classList.toggle('active', isFavorite);
   }
@@ -413,21 +418,21 @@ class FlashcardApp {
   async showFavorites() {
     this.hideAllScreens();
     document.getElementById('favorites-screen').classList.add('active');
-    
+
     const list = document.getElementById('favorites-list');
-    
+
     if (this.favorites.length === 0) {
       list.innerHTML = '<p class="no-favorites">お気に入りがありません</p>';
       return;
     }
-    
+
     list.innerHTML = '';
-    
+
     for (const fav of this.favorites) {
       await this.loadSetCards(fav.setIndex);
       const set = this.sets[fav.setIndex];
       const card = set.cards[fav.cardIndex];
-      
+
       const item = document.createElement('div');
       item.className = 'favorite-item';
       item.innerHTML = `
@@ -446,17 +451,17 @@ class FlashcardApp {
     this.currentSet = this.sets[fav.setIndex];
     this.currentCardIndex = fav.cardIndex;
     this.isFlipped = false;
-    
+
     this.hideAllScreens();
     document.getElementById('card-screen').classList.add('active');
-    
+
     document.getElementById('set-title').textContent = this.currentSet.name;
-    
-    const currentFavIndex = this.favorites.findIndex(f => f.id === fav.id);
-    
+
+    const currentFavIndex = this.favorites.findIndex((f) => f.id === fav.id);
+
     document.getElementById('current-card').textContent = currentFavIndex + 1;
     document.getElementById('total-cards').textContent = this.favorites.length;
-    
+
     this.setFavoritesNavigation(currentFavIndex);
     this.showCard();
   }
