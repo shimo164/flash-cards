@@ -154,9 +154,16 @@ class FlashcardApp {
   }
 
   setNormalNavigation() {
-    document.getElementById('prev-btn').onclick = () => this.previousCard();
-    document.getElementById('next-btn').onclick = () => this.nextCard();
-    document.getElementById('next-btn').textContent = '次のフレーズ';
+    const prevBtn = document.getElementById('prev-btn');
+    const nextBtn = document.getElementById('next-btn');
+    
+    prevBtn.onclick = () => this.previousCard();
+    nextBtn.onclick = () => this.nextCard();
+    nextBtn.textContent = '次のフレーズ';
+    
+    prevBtn.disabled = this.currentCardIndex === 0;
+    nextBtn.disabled = false;
+    
     document.getElementById('to-favorites-btn').style.display = 'none';
   }
 
@@ -193,10 +200,6 @@ class FlashcardApp {
     this.isFlipped = false;
     cardContent.innerHTML = `<div>${card.japanese}</div>`;
 
-    // Update button states
-    document.getElementById('prev-btn').disabled = this.currentCardIndex === 0;
-    document.getElementById('next-btn').disabled = false;
-
     // Update favorite star
     this.updateFavoriteStar();
   }
@@ -218,6 +221,7 @@ class FlashcardApp {
     if (this.currentCardIndex > 0) {
       this.currentCardIndex--;
       document.getElementById('current-card').textContent = this.currentCardIndex + 1;
+      document.getElementById('prev-btn').disabled = this.currentCardIndex === 0;
       this.showCard();
     }
   }
@@ -226,6 +230,7 @@ class FlashcardApp {
     if (this.currentCardIndex < this.currentSet.cards.length - 1) {
       this.currentCardIndex++;
       document.getElementById('current-card').textContent = this.currentCardIndex + 1;
+      document.getElementById('prev-btn').disabled = false;
       this.showCard();
     } else {
       this.showComplete();
