@@ -1,0 +1,107 @@
+{
+  "name": "市場動向を分析する",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "市場を調べましょう。",
+        "english": "Let's research the market."
+      },
+      {
+        "japanese": "売上が上がっています。",
+        "english": "Sales are increasing."
+      },
+      {
+        "japanese": "競合他社が強いです。",
+        "english": "Competitors are strong."
+      },
+      {
+        "japanese": "トレンドが変わりました。",
+        "english": "The trend has changed."
+      },
+      {
+        "japanese": "顧客のニーズは何ですか？",
+        "english": "What are customer needs?"
+      },
+      {
+        "japanese": "価格が重要です。",
+        "english": "Price is important."
+      },
+      {
+        "japanese": "データを分析しましょう。",
+        "english": "Let's analyze the data."
+      },
+      {
+        "japanese": "将来を予測しましょう。",
+        "english": "Let's predict the future."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "市場トレンドの詳細分析を実施しましょう。",
+        "english": "Let's conduct detailed analysis of market trends."
+      },
+      {
+        "japanese": "消費者行動の変化を注意深く観察する必要があります。",
+        "english": "We need to carefully observe changes in consumer behavior."
+      },
+      {
+        "japanese": "競合分析により差別化戦略を策定します。",
+        "english": "We'll develop differentiation strategies through competitive analysis."
+      },
+      {
+        "japanese": "新興市場の成長機会を評価しましょう。",
+        "english": "Let's evaluate growth opportunities in emerging markets."
+      },
+      {
+        "japanese": "デジタル化が業界に与える影響を分析します。",
+        "english": "We'll analyze the impact of digitalization on the industry."
+      },
+      {
+        "japanese": "顧客セグメンテーションを見直す必要があります。",
+        "english": "We need to review customer segmentation."
+      },
+      {
+        "japanese": "予測モデルの精度向上を図りましょう。",
+        "english": "Let's improve the accuracy of prediction models."
+      },
+      {
+        "japanese": "市場参入のタイミングを慎重に検討します。",
+        "english": "We'll carefully consider the timing of market entry."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "マクロ経済環境と業界固有要因を統合した包括的市場分析を実施します。",
+        "english": "We'll conduct comprehensive market analysis integrating macroeconomic environment and industry-specific factors."
+      },
+      {
+        "japanese": "AI技術を活用した高度な予測分析により、市場機会の早期発見を実現しましょう。",
+        "english": "Let's achieve early discovery of market opportunities through advanced predictive analytics using AI technology."
+      },
+      {
+        "japanese": "破壊的イノベーションが既存市場構造に与える影響を戦略的に評価する必要があります。",
+        "english": "We need to strategically evaluate the impact of disruptive innovation on existing market structures."
+      },
+      {
+        "japanese": "グローバル市場の相互連関性と地域特性を考慮した多次元分析を行います。",
+        "english": "We'll conduct multidimensional analysis considering global market interconnectedness and regional characteristics."
+      },
+      {
+        "japanese": "ESGトレンドと消費者価値観の変化が市場動向に与える長期的影響を分析しましょう。",
+        "english": "Let's analyze the long-term impact of ESG trends and changing consumer values on market dynamics."
+      },
+      {
+        "japanese": "デジタルエコシステムの進化による新たなビジネスモデルの出現を予測します。",
+        "english": "We'll predict the emergence of new business models due to digital ecosystem evolution."
+      },
+      {
+        "japanese": "リアルタイムデータストリーミングによる動的市場分析システムを構築しましょう。",
+        "english": "Let's build dynamic market analysis systems through real-time data streaming."
+      },
+      {
+        "japanese": "持続可能な競争優位性確立に向けた戦略的市場ポジショニングを最適化します。",
+        "english": "We'll optimize strategic market positioning for establishing sustainable competitive advantage."
+      }
+    ]
+  }
+}

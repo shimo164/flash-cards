@@ -1,0 +1,107 @@
+{
+  "name": "発表中に聴衆の関心を高める",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "質問はありますか？",
+        "english": "Any questions?"
+      },
+      {
+        "japanese": "見てください。",
+        "english": "Please look."
+      },
+      {
+        "japanese": "面白いですね。",
+        "english": "That's interesting."
+      },
+      {
+        "japanese": "どう思いますか？",
+        "english": "What do you think?"
+      },
+      {
+        "japanese": "例を見せます。",
+        "english": "I'll show an example."
+      },
+      {
+        "japanese": "重要なポイントです。",
+        "english": "This is an important point."
+      },
+      {
+        "japanese": "覚えてください。",
+        "english": "Please remember this."
+      },
+      {
+        "japanese": "参加してください。",
+        "english": "Please participate."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "皆さんのご意見をお聞かせください。",
+        "english": "I'd like to hear your opinions."
+      },
+      {
+        "japanese": "この事例について考えてみましょう。",
+        "english": "Let's think about this case study."
+      },
+      {
+        "japanese": "興味深いデータをご紹介します。",
+        "english": "I'll present some interesting data."
+      },
+      {
+        "japanese": "どなたかご経験をお聞かせいただけますか？",
+        "english": "Could someone share their experience?"
+      },
+      {
+        "japanese": "具体的な例を挙げて説明いたします。",
+        "english": "I'll explain with specific examples."
+      },
+      {
+        "japanese": "この点について議論してみましょう。",
+        "english": "Let's discuss this point."
+      },
+      {
+        "japanese": "注目すべき重要なポイントがあります。",
+        "english": "There's an important point worth noting."
+      },
+      {
+        "japanese": "積極的なご参加をお願いいたします。",
+        "english": "I encourage your active participation."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "戦略的思考を促すため、皆様の多角的な視点をお聞かせください。",
+        "english": "To stimulate strategic thinking, please share your multifaceted perspectives."
+      },
+      {
+        "japanese": "この革新的なアプローチについて、建設的な議論を展開しましょう。",
+        "english": "Let's develop constructive discourse on this innovative approach."
+      },
+      {
+        "japanese": "業界のベストプラクティスと照らし合わせて、ご見解をお聞かせください。",
+        "english": "Please share your insights in light of industry best practices."
+      },
+      {
+        "japanese": "複雑な課題に対する創造的な解決策を共に探求しましょう。",
+        "english": "Let's collaboratively explore creative solutions to complex challenges."
+      },
+      {
+        "japanese": "データドリブンな分析結果が示唆する重要な洞察をご紹介します。",
+        "english": "I'll present crucial insights suggested by data-driven analysis."
+      },
+      {
+        "japanese": "組織変革における皆様の専門知識を活用させていただきたく存じます。",
+        "english": "I'd like to leverage your expertise in organizational transformation."
+      },
+      {
+        "japanese": "持続可能な競争優位性の構築について、深く掘り下げて検討しましょう。",
+        "english": "Let's delve deeply into building sustainable competitive advantages."
+      },
+      {
+        "japanese": "イノベーション創出に向けた集合知の結集をお願いいたします。",
+        "english": "I request the convergence of collective intelligence toward innovation creation."
+      }
+    ]
+  }
+}

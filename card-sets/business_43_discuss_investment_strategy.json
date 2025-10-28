@@ -1,0 +1,107 @@
+{
+  "name": "投資や資産運用の方針を議論する",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "投資をしましょう。",
+        "english": "Let's invest."
+      },
+      {
+        "japanese": "お金を増やしたいです。",
+        "english": "I want to increase money."
+      },
+      {
+        "japanese": "リスクが心配です。",
+        "english": "I'm worried about risks."
+      },
+      {
+        "japanese": "安全な投資はありますか？",
+        "english": "Are there safe investments?"
+      },
+      {
+        "japanese": "利益が出ますか？",
+        "english": "Will there be profits?"
+      },
+      {
+        "japanese": "長期投資がいいですか？",
+        "english": "Is long-term investment good?"
+      },
+      {
+        "japanese": "専門家に相談しましょう。",
+        "english": "Let's consult experts."
+      },
+      {
+        "japanese": "慎重に決めましょう。",
+        "english": "Let's decide carefully."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "投資戦略の見直しを検討しましょう。",
+        "english": "Let's consider reviewing our investment strategy."
+      },
+      {
+        "japanese": "ポートフォリオの多様化が重要です。",
+        "english": "Portfolio diversification is important."
+      },
+      {
+        "japanese": "リスク許容度を明確に定義する必要があります。",
+        "english": "We need to clearly define risk tolerance."
+      },
+      {
+        "japanese": "市場動向を慎重に分析しましょう。",
+        "english": "Let's carefully analyze market trends."
+      },
+      {
+        "japanese": "長期的な資産形成計画を策定します。",
+        "english": "We'll develop long-term asset building plans."
+      },
+      {
+        "japanese": "ESG投資の検討も重要です。",
+        "english": "Considering ESG investment is also important."
+      },
+      {
+        "japanese": "定期的なパフォーマンス評価を実施しましょう。",
+        "english": "Let's conduct regular performance evaluations."
+      },
+      {
+        "japanese": "税務効率も考慮する必要があります。",
+        "english": "We also need to consider tax efficiency."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "マクロ経済環境の変化を考慮した動的資産配分戦略の最適化が不可欠です。",
+        "english": "Optimizing dynamic asset allocation strategies considering macroeconomic environmental changes is essential."
+      },
+      {
+        "japanese": "ESG要件と財務リターンの両立を実現する持続可能投資戦略を構築しましょう。",
+        "english": "Let's build sustainable investment strategies that achieve both ESG requirements and financial returns."
+      },
+      {
+        "japanese": "AI技術を活用した高度なリスク管理と予測分析システムが重要です。",
+        "english": "Advanced risk management and predictive analytics systems leveraging AI technology are crucial."
+      },
+      {
+        "japanese": "地政学的リスクと新興技術の影響を統合した投資判断フレームワークを確立する必要があります。",
+        "english": "We need to establish investment decision frameworks integrating geopolitical risks and emerging technology impacts."
+      },
+      {
+        "japanese": "オルタナティブ投資と伝統的資産の最適な組み合わせによるポートフォリオ構築を実践します。",
+        "english": "We'll practice portfolio construction through optimal combinations of alternative investments and traditional assets."
+      },
+      {
+        "japanese": "長期的価値創造に向けたステークホルダー資本主義の投資哲学を採用しましょう。",
+        "english": "Let's adopt stakeholder capitalism investment philosophy for long-term value creation."
+      },
+      {
+        "japanese": "デジタル資産と暗号通貨の戦略的位置づけについて慎重な検討が求められています。",
+        "english": "Careful consideration of strategic positioning of digital assets and cryptocurrencies is required."
+      },
+      {
+        "japanese": "グローバル分散投資における為替ヘッジ戦略の高度化を図る必要があります。",
+        "english": "We need to advance currency hedging strategies in global diversified investments."
+      }
+    ]
+  }
+}

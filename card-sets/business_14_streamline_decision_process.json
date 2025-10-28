@@ -1,0 +1,107 @@
+{
+  "name": "意思決定の流れを整理する",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "決めましょう。",
+        "english": "Let's decide."
+      },
+      {
+        "japanese": "どちらがいいですか？",
+        "english": "Which is better?"
+      },
+      {
+        "japanese": "賛成です。",
+        "english": "I agree."
+      },
+      {
+        "japanese": "反対です。",
+        "english": "I disagree."
+      },
+      {
+        "japanese": "考える時間をください。",
+        "english": "Please give me time to think."
+      },
+      {
+        "japanese": "投票しましょう。",
+        "english": "Let's vote."
+      },
+      {
+        "japanese": "決まりました。",
+        "english": "It's decided."
+      },
+      {
+        "japanese": "次に進みましょう。",
+        "english": "Let's move on."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "意思決定プロセスを明確にしましょう。",
+        "english": "Let's clarify the decision-making process."
+      },
+      {
+        "japanese": "関係者全員の意見を聞く必要があります。",
+        "english": "We need to hear opinions from all stakeholders."
+      },
+      {
+        "japanese": "データに基づいて判断しましょう。",
+        "english": "Let's make decisions based on data."
+      },
+      {
+        "japanese": "リスクと利益を比較検討します。",
+        "english": "We'll compare and examine risks and benefits."
+      },
+      {
+        "japanese": "合意形成のための議論を行います。",
+        "english": "We'll have discussions for consensus building."
+      },
+      {
+        "japanese": "決定事項を文書化しましょう。",
+        "english": "Let's document the decisions."
+      },
+      {
+        "japanese": "実行計画を策定する必要があります。",
+        "english": "We need to develop an implementation plan."
+      },
+      {
+        "japanese": "進捗を定期的に確認しましょう。",
+        "english": "Let's check progress regularly."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "戦略的意思決定における多層的なガバナンス構造を確立します。",
+        "english": "We'll establish multilayered governance structures for strategic decision-making."
+      },
+      {
+        "japanese": "データドリブンなアプローチと直感的判断の最適な統合を図ります。",
+        "english": "We'll achieve optimal integration of data-driven approaches and intuitive judgment."
+      },
+      {
+        "japanese": "ステークホルダーの多様な利害を調整する包括的な意思決定フレームワークが必要です。",
+        "english": "We need comprehensive decision-making frameworks that coordinate diverse stakeholder interests."
+      },
+      {
+        "japanese": "不確実性の高い環境における適応的意思決定メカニズムを構築しましょう。",
+        "english": "Let's build adaptive decision-making mechanisms in highly uncertain environments."
+      },
+      {
+        "japanese": "組織学習を促進し、意思決定の質を継続的に向上させます。",
+        "english": "We'll promote organizational learning and continuously improve decision-making quality."
+      },
+      {
+        "japanese": "長期的価値創造と短期的成果のバランスを考慮した判断基準を設定します。",
+        "english": "We'll set judgment criteria considering the balance between long-term value creation and short-term results."
+      },
+      {
+        "japanese": "透明性と説明責任を確保しつつ、迅速な意思決定を実現します。",
+        "english": "We'll achieve rapid decision-making while ensuring transparency and accountability."
+      },
+      {
+        "japanese": "イノベーション創出を促進する意思決定文化の醸成が重要です。",
+        "english": "Fostering a decision-making culture that promotes innovation creation is crucial."
+      }
+    ]
+  }
+}

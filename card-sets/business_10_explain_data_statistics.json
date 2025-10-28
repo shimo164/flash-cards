@@ -1,0 +1,107 @@
+{
+  "name": "データや統計を説明する",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "売上が上がりました。",
+        "english": "Sales went up."
+      },
+      {
+        "japanese": "数字を見てください。",
+        "english": "Please look at the numbers."
+      },
+      {
+        "japanese": "グラフを説明します。",
+        "english": "I'll explain the graph."
+      },
+      {
+        "japanese": "結果は良いです。",
+        "english": "The results are good."
+      },
+      {
+        "japanese": "前年より高いです。",
+        "english": "It's higher than last year."
+      },
+      {
+        "japanese": "データが示しています。",
+        "english": "The data shows."
+      },
+      {
+        "japanese": "パーセントで表します。",
+        "english": "It's shown in percentages."
+      },
+      {
+        "japanese": "傾向が見えます。",
+        "english": "We can see the trend."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "売上高が前年同期比で15%増加しています。",
+        "english": "Revenue has increased by 15% compared to the same period last year."
+      },
+      {
+        "japanese": "この統計データから重要な傾向が読み取れます。",
+        "english": "We can identify important trends from this statistical data."
+      },
+      {
+        "japanese": "グラフが示すように、成長率は安定しています。",
+        "english": "As the graph shows, the growth rate is stable."
+      },
+      {
+        "japanese": "分析結果は予想を上回っています。",
+        "english": "The analysis results exceed our expectations."
+      },
+      {
+        "japanese": "市場シェアが着実に拡大しています。",
+        "english": "Market share is steadily expanding."
+      },
+      {
+        "japanese": "データの信頼性について検証しました。",
+        "english": "We verified the reliability of the data."
+      },
+      {
+        "japanese": "成長率は年間平均で8%となっています。",
+        "english": "The growth rate averages 8% annually."
+      },
+      {
+        "japanese": "この指標は業界標準を上回っています。",
+        "english": "This indicator exceeds industry standards."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "多変量解析の結果、収益性に最も影響を与える要因が特定されました。",
+        "english": "Multivariate analysis has identified the factors most significantly impacting profitability."
+      },
+      {
+        "japanese": "統計的有意性を考慮すると、この相関関係は信頼性が高いと判断されます。",
+        "english": "Considering statistical significance, this correlation is deemed highly reliable."
+      },
+      {
+        "japanese": "回帰分析により、将来の市場動向を高精度で予測することが可能です。",
+        "english": "Regression analysis enables highly accurate prediction of future market trends."
+      },
+      {
+        "japanese": "ベンチマーク分析の結果、競合他社との差別化要因が明確になりました。",
+        "english": "Benchmark analysis has clarified differentiation factors from competitors."
+      },
+      {
+        "japanese": "時系列データの分析により、季節性と長期トレンドを分離して評価しました。",
+        "english": "Time series analysis enabled separate evaluation of seasonality and long-term trends."
+      },
+      {
+        "japanese": "統計モデルの妥当性検証により、予測精度の向上が確認されています。",
+        "english": "Statistical model validation confirms improved prediction accuracy."
+      },
+      {
+        "japanese": "異常値の検出と除外により、データの品質向上を図りました。",
+        "english": "We improved data quality through outlier detection and exclusion."
+      },
+      {
+        "japanese": "機械学習アルゴリズムを活用し、複雑なパターンの識別を実現しました。",
+        "english": "We achieved complex pattern identification leveraging machine learning algorithms."
+      }
+    ]
+  }
+}

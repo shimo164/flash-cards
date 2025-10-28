@@ -1,0 +1,107 @@
+{
+  "name": "進捗状況を報告する",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "進捗を報告します。",
+        "english": "I'll report the progress."
+      },
+      {
+        "japanese": "50%完了しました。",
+        "english": "50% is completed."
+      },
+      {
+        "japanese": "順調に進んでいます。",
+        "english": "It's progressing smoothly."
+      },
+      {
+        "japanese": "少し遅れています。",
+        "english": "It's a little behind."
+      },
+      {
+        "japanese": "問題があります。",
+        "english": "There's a problem."
+      },
+      {
+        "japanese": "来週完了予定です。",
+        "english": "It's scheduled to be completed next week."
+      },
+      {
+        "japanese": "助けが必要です。",
+        "english": "I need help."
+      },
+      {
+        "japanese": "報告は以上です。",
+        "english": "That's all for my report."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "プロジェクトの現在の進捗状況をご報告いたします。",
+        "english": "I'll report the current project progress status."
+      },
+      {
+        "japanese": "計画に対して若干の遅れが生じています。",
+        "english": "There's a slight delay compared to the plan."
+      },
+      {
+        "japanese": "主要なマイルストーンは達成されています。",
+        "english": "Major milestones have been achieved."
+      },
+      {
+        "japanese": "リスク要因を特定し、対策を講じています。",
+        "english": "We've identified risk factors and are taking countermeasures."
+      },
+      {
+        "japanese": "品質基準を満たしながら作業を進めています。",
+        "english": "We're proceeding with work while meeting quality standards."
+      },
+      {
+        "japanese": "予算の執行状況も良好です。",
+        "english": "Budget execution status is also favorable."
+      },
+      {
+        "japanese": "次のフェーズに向けた準備を開始しました。",
+        "english": "We've started preparations for the next phase."
+      },
+      {
+        "japanese": "詳細な分析結果は資料をご参照ください。",
+        "english": "Please refer to the materials for detailed analysis results."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "戦略的目標達成に向けた包括的進捗評価をご報告いたします。",
+        "english": "I'll report comprehensive progress evaluation toward strategic objective achievement."
+      },
+      {
+        "japanese": "多次元的KPIによる定量的・定性的分析結果を統合的に評価しました。",
+        "english": "We've comprehensively evaluated quantitative and qualitative analysis results using multidimensional KPIs."
+      },
+      {
+        "japanese": "ステークホルダー価値創造の観点から、成果の意義を詳細に検証しています。",
+        "english": "We're examining the significance of outcomes in detail from a stakeholder value creation perspective."
+      },
+      {
+        "japanese": "予期せぬ市場変動に対する適応的対応により、競争優位性を維持しています。",
+        "english": "We're maintaining competitive advantage through adaptive responses to unexpected market fluctuations."
+      },
+      {
+        "japanese": "イノベーション創出と業務効率化の両面で顕著な成果を実現しました。",
+        "english": "We've achieved remarkable results in both innovation creation and operational efficiency improvement."
+      },
+      {
+        "japanese": "持続可能性とESG要件を統合した進捗管理フレームワークを実践しています。",
+        "english": "We're practicing progress management frameworks integrating sustainability and ESG requirements."
+      },
+      {
+        "japanese": "組織学習の促進により、継続的改善サイクルの高度化を図っています。",
+        "english": "We're advancing continuous improvement cycles through promoting organizational learning."
+      },
+      {
+        "japanese": "長期的価値創造に向けた戦略的投資の効果測定と最適化を継続しています。",
+        "english": "We're continuing effect measurement and optimization of strategic investments for long-term value creation."
+      }
+    ]
+  }
+}

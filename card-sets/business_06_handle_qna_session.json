@@ -1,0 +1,107 @@
+{
+  "name": "発表後の質疑応答を行う",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "質問をどうぞ。",
+        "english": "Please ask questions."
+      },
+      {
+        "japanese": "いい質問ですね。",
+        "english": "That's a good question."
+      },
+      {
+        "japanese": "答えます。",
+        "english": "I'll answer."
+      },
+      {
+        "japanese": "わかりません。",
+        "english": "I don't know."
+      },
+      {
+        "japanese": "後で調べます。",
+        "english": "I'll check later."
+      },
+      {
+        "japanese": "他に質問はありますか？",
+        "english": "Any other questions?"
+      },
+      {
+        "japanese": "時間がありません。",
+        "english": "We don't have time."
+      },
+      {
+        "japanese": "ありがとうございました。",
+        "english": "Thank you very much."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "ご質問をお受けいたします。",
+        "english": "I'll take your questions."
+      },
+      {
+        "japanese": "非常に興味深いご質問ですね。",
+        "english": "That's a very interesting question."
+      },
+      {
+        "japanese": "詳しく説明させていただきます。",
+        "english": "Let me explain in detail."
+      },
+      {
+        "japanese": "申し訳ございませんが、確認が必要です。",
+        "english": "I'm sorry, but I need to confirm that."
+      },
+      {
+        "japanese": "後日回答をお送りいたします。",
+        "english": "I'll send you the answer later."
+      },
+      {
+        "japanese": "他にもご質問がございましたらどうぞ。",
+        "english": "Please feel free to ask if you have other questions."
+      },
+      {
+        "japanese": "お時間の関係で最後の質問とさせていただきます。",
+        "english": "Due to time constraints, this will be the last question."
+      },
+      {
+        "japanese": "貴重なご質問をありがとうございました。",
+        "english": "Thank you for your valuable questions."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "戦略的な観点からの洞察に富んだご質問をお待ちしております。",
+        "english": "I welcome insightful questions from a strategic perspective."
+      },
+      {
+        "japanese": "複雑な課題に対する多面的なアプローチについてお答えいたします。",
+        "english": "I'll address multifaceted approaches to complex challenges."
+      },
+      {
+        "japanese": "実装における具体的な課題について詳細に検討いたします。",
+        "english": "We'll examine specific implementation challenges in detail."
+      },
+      {
+        "japanese": "恐れ入りますが、専門部署との協議が必要な案件です。",
+        "english": "I'm afraid this matter requires consultation with specialized departments."
+      },
+      {
+        "japanese": "包括的な分析結果を含めた詳細な回答を後日提供いたします。",
+        "english": "I'll provide a detailed response including comprehensive analysis results later."
+      },
+      {
+        "japanese": "時間の制約により、残りのご質問は個別にお受けいたします。",
+        "english": "Due to time constraints, I'll address remaining questions individually."
+      },
+      {
+        "japanese": "建設的な議論を通じて、相互理解が深まったことを嬉しく思います。",
+        "english": "I'm pleased that our mutual understanding has deepened through constructive discussion."
+      },
+      {
+        "japanese": "皆様の専門的な視点からのご質問により、議論が一層充実いたしました。",
+        "english": "Your questions from professional perspectives have greatly enriched our discussion."
+      }
+    ]
+  }
+}

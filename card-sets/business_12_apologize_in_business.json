@@ -1,0 +1,107 @@
+{
+  "name": "ビジネスでの謝罪表現",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "すみません。",
+        "english": "I'm sorry."
+      },
+      {
+        "japanese": "申し訳ありません。",
+        "english": "I apologize."
+      },
+      {
+        "japanese": "遅れてすみません。",
+        "english": "Sorry for being late."
+      },
+      {
+        "japanese": "間違えました。",
+        "english": "I made a mistake."
+      },
+      {
+        "japanese": "私のせいです。",
+        "english": "It's my fault."
+      },
+      {
+        "japanese": "気をつけます。",
+        "english": "I'll be careful."
+      },
+      {
+        "japanese": "もう一度お願いします。",
+        "english": "Please try again."
+      },
+      {
+        "japanese": "許してください。",
+        "english": "Please forgive me."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "この度は申し訳ございませんでした。",
+        "english": "I sincerely apologize for this matter."
+      },
+      {
+        "japanese": "ご迷惑をおかけして申し訳ありません。",
+        "english": "I apologize for any inconvenience caused."
+      },
+      {
+        "japanese": "私の不注意が原因でした。",
+        "english": "It was due to my carelessness."
+      },
+      {
+        "japanese": "すぐに対応いたします。",
+        "english": "I will address this immediately."
+      },
+      {
+        "japanese": "今後気をつけるよう努めます。",
+        "english": "I will strive to be more careful in the future."
+      },
+      {
+        "japanese": "責任を持って解決いたします。",
+        "english": "I will take responsibility and resolve this."
+      },
+      {
+        "japanese": "再発防止に努めます。",
+        "english": "I will work to prevent recurrence."
+      },
+      {
+        "japanese": "ご理解いただければ幸いです。",
+        "english": "I would appreciate your understanding."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "この度の件につきまして、深くお詫び申し上げます。",
+        "english": "I deeply apologize regarding this matter."
+      },
+      {
+        "japanese": "組織として重大な責任を感じており、全面的に謝罪いたします。",
+        "english": "As an organization, we feel grave responsibility and offer our full apology."
+      },
+      {
+        "japanese": "ステークホルダーの皆様にご迷惑をおかけしたことを深く反省しております。",
+        "english": "We deeply regret having caused inconvenience to all stakeholders."
+      },
+      {
+        "japanese": "根本的な原因分析を行い、抜本的な改善策を講じてまいります。",
+        "english": "We will conduct fundamental cause analysis and implement comprehensive improvement measures."
+      },
+      {
+        "japanese": "信頼回復に向けて、透明性を持った対応を継続いたします。",
+        "english": "We will continue transparent responses toward restoring trust."
+      },
+      {
+        "japanese": "再発防止のための包括的なガバナンス体制を構築いたします。",
+        "english": "We will establish comprehensive governance systems to prevent recurrence."
+      },
+      {
+        "japanese": "この経験を教訓として、組織全体の品質向上に努めます。",
+        "english": "We will use this experience as a lesson to improve organizational quality overall."
+      },
+      {
+        "japanese": "皆様からの信頼を取り戻すべく、誠心誠意取り組んでまいります。",
+        "english": "We will work with utmost sincerity to regain everyone's trust."
+      }
+    ]
+  }
+}

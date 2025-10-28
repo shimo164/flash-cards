@@ -1,0 +1,107 @@
+{
+  "name": "多文化チームの協働を促す",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "いろいろな国の人がいます。",
+        "english": "There are people from various countries."
+      },
+      {
+        "japanese": "文化が違います。",
+        "english": "Cultures are different."
+      },
+      {
+        "japanese": "お互いを理解しましょう。",
+        "english": "Let's understand each other."
+      },
+      {
+        "japanese": "協力しましょう。",
+        "english": "Let's cooperate."
+      },
+      {
+        "japanese": "言語の問題があります。",
+        "english": "There are language issues."
+      },
+      {
+        "japanese": "尊重が大切です。",
+        "english": "Respect is important."
+      },
+      {
+        "japanese": "一緒に働きましょう。",
+        "english": "Let's work together."
+      },
+      {
+        "japanese": "学び合いましょう。",
+        "english": "Let's learn from each other."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "多文化チームの強みを活かしましょう。",
+        "english": "Let's leverage the strengths of multicultural teams."
+      },
+      {
+        "japanese": "文化的多様性を尊重する環境を作ります。",
+        "english": "We'll create an environment that respects cultural diversity."
+      },
+      {
+        "japanese": "効果的な異文化コミュニケーションが重要です。",
+        "english": "Effective cross-cultural communication is important."
+      },
+      {
+        "japanese": "偏見や先入観を排除しましょう。",
+        "english": "Let's eliminate prejudice and preconceptions."
+      },
+      {
+        "japanese": "包括的なチーム運営を心がけます。",
+        "english": "We'll strive for inclusive team management."
+      },
+      {
+        "japanese": "文化的背景を理解し合いましょう。",
+        "english": "Let's understand each other's cultural backgrounds."
+      },
+      {
+        "japanese": "多様な視点を活用して問題解決を図ります。",
+        "english": "We'll solve problems utilizing diverse perspectives."
+      },
+      {
+        "japanese": "チームビルディング活動を定期的に実施しましょう。",
+        "english": "Let's conduct team building activities regularly."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "文化的多様性を競争優位の源泉として戦略的に活用する組織能力を構築します。",
+        "english": "We'll build organizational capabilities that strategically leverage cultural diversity as a source of competitive advantage."
+      },
+      {
+        "japanese": "包括的リーダーシップによる多文化チームの潜在能力最大化が重要です。",
+        "english": "Maximizing multicultural team potential through inclusive leadership is crucial."
+      },
+      {
+        "japanese": "文化的知性の向上とグローバルマインドセットの醸成を体系的に推進しましょう。",
+        "english": "Let's systematically promote cultural intelligence enhancement and global mindset cultivation."
+      },
+      {
+        "japanese": "異文化間の創造的摩擦をイノベーション創出の触媒として活用する必要があります。",
+        "english": "We need to leverage creative friction between cultures as a catalyst for innovation creation."
+      },
+      {
+        "japanese": "デジタル技術を活用した多文化協働プラットフォームの最適化を図ります。",
+        "english": "We'll optimize multicultural collaboration platforms leveraging digital technology."
+      },
+      {
+        "japanese": "心理的安全性と文化的アイデンティティの尊重を両立させる環境設計が不可欠です。",
+        "english": "Environmental design that balances psychological safety with respect for cultural identity is essential."
+      },
+      {
+        "japanese": "グローバル人材の育成と現地人材の活用を統合した人材戦略を確立しましょう。",
+        "english": "Let's establish talent strategies integrating global talent development with local talent utilization."
+      },
+      {
+        "japanese": "持続可能な多文化組織文化の構築と継承システムの確立を実践します。",
+        "english": "We'll practice building sustainable multicultural organizational culture and establishing inheritance systems."
+      }
+    ]
+  }
+}

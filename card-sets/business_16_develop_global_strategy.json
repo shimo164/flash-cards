@@ -1,0 +1,107 @@
+{
+  "name": "国際戦略を立てて評価する",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "海外に進出しましょう。",
+        "english": "Let's expand overseas."
+      },
+      {
+        "japanese": "どの国がいいですか？",
+        "english": "Which country is good?"
+      },
+      {
+        "japanese": "市場を調べましょう。",
+        "english": "Let's research the market."
+      },
+      {
+        "japanese": "コストが高いです。",
+        "english": "The cost is high."
+      },
+      {
+        "japanese": "リスクがあります。",
+        "english": "There are risks."
+      },
+      {
+        "japanese": "パートナーが必要です。",
+        "english": "We need a partner."
+      },
+      {
+        "japanese": "計画を立てましょう。",
+        "english": "Let's make a plan."
+      },
+      {
+        "japanese": "成功の可能性は？",
+        "english": "What's the chance of success?"
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "グローバル市場への参入戦略を検討しましょう。",
+        "english": "Let's consider global market entry strategies."
+      },
+      {
+        "japanese": "各地域の文化的特性を理解する必要があります。",
+        "english": "We need to understand cultural characteristics of each region."
+      },
+      {
+        "japanese": "現地のパートナー企業との提携を検討します。",
+        "english": "We'll consider partnerships with local companies."
+      },
+      {
+        "japanese": "規制環境と法的要件を調査しましょう。",
+        "english": "Let's investigate regulatory environment and legal requirements."
+      },
+      {
+        "japanese": "投資収益率を慎重に評価する必要があります。",
+        "english": "We need to carefully evaluate return on investment."
+      },
+      {
+        "japanese": "段階的な市場参入計画を立てましょう。",
+        "english": "Let's create a phased market entry plan."
+      },
+      {
+        "japanese": "競合他社の動向を継続的に監視します。",
+        "english": "We'll continuously monitor competitor movements."
+      },
+      {
+        "japanese": "成功指標を明確に定義しましょう。",
+        "english": "Let's clearly define success metrics."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "多極化する世界経済における戦略的ポジショニングの最適化が不可欠です。",
+        "english": "Optimizing strategic positioning in the multipolar global economy is essential."
+      },
+      {
+        "japanese": "地政学的リスクと経済的機会のバランスを考慮した包括的戦略を策定します。",
+        "english": "We'll develop comprehensive strategies considering the balance of geopolitical risks and economic opportunities."
+      },
+      {
+        "japanese": "文化的多様性を競争優位の源泉として活用するグローバル組織能力を構築しましょう。",
+        "english": "Let's build global organizational capabilities that leverage cultural diversity as a source of competitive advantage."
+      },
+      {
+        "japanese": "デジタル技術を活用したグローバルバリューチェーンの最適化を推進します。",
+        "english": "We'll promote optimization of global value chains leveraging digital technology."
+      },
+      {
+        "japanese": "持続可能性とESG要件を統合したグローバル戦略の策定が求められています。",
+        "english": "Developing global strategies that integrate sustainability and ESG requirements is demanded."
+      },
+      {
+        "japanese": "新興市場における破壊的イノベーションの機会を戦略的に捕捉しましょう。",
+        "english": "Let's strategically capture disruptive innovation opportunities in emerging markets."
+      },
+      {
+        "japanese": "グローバルガバナンスと現地適応のバランスを最適化する必要があります。",
+        "english": "We need to optimize the balance between global governance and local adaptation."
+      },
+      {
+        "japanese": "長期的な価値創造に向けたグローバル投資ポートフォリオの戦略的管理を実践します。",
+        "english": "We'll practice strategic management of global investment portfolios for long-term value creation."
+      }
+    ]
+  }
+}

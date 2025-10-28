@@ -1,0 +1,107 @@
+{
+  "name": "賛否を述べる表現",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "賛成です。",
+        "english": "I agree."
+      },
+      {
+        "japanese": "反対です。",
+        "english": "I disagree."
+      },
+      {
+        "japanese": "いいアイデアですね。",
+        "english": "That's a good idea."
+      },
+      {
+        "japanese": "ちょっと難しいと思います。",
+        "english": "I think it's a bit difficult."
+      },
+      {
+        "japanese": "その通りです。",
+        "english": "That's right."
+      },
+      {
+        "japanese": "よくわかりません。",
+        "english": "I'm not sure."
+      },
+      {
+        "japanese": "問題ないと思います。",
+        "english": "I think it's fine."
+      },
+      {
+        "japanese": "もう少し考えたいです。",
+        "english": "I'd like to think about it more."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "この提案に全面的に賛成いたします。",
+        "english": "I fully support this proposal."
+      },
+      {
+        "japanese": "申し訳ございませんが、この件については反対です。",
+        "english": "I'm sorry, but I have to disagree on this matter."
+      },
+      {
+        "japanese": "素晴らしいアプローチだと思います。",
+        "english": "I think this is an excellent approach."
+      },
+      {
+        "japanese": "いくつか懸念点があります。",
+        "english": "I have some concerns about this."
+      },
+      {
+        "japanese": "基本的には賛成ですが、修正が必要です。",
+        "english": "I generally agree, but some modifications are needed."
+      },
+      {
+        "japanese": "別の選択肢も検討すべきだと思います。",
+        "english": "I think we should consider alternative options."
+      },
+      {
+        "japanese": "リスクを慎重に評価する必要があります。",
+        "english": "We need to carefully assess the risks."
+      },
+      {
+        "japanese": "もう少し詳細な検討が必要かもしれません。",
+        "english": "Perhaps we need more detailed consideration."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "戦略的観点から、この提案は極めて合理的だと考えます。",
+        "english": "From a strategic standpoint, I find this proposal highly rational."
+      },
+      {
+        "japanese": "恐れ入りますが、現在の市場環境を考慮すると、この方向性には疑問を感じます。",
+        "english": "I'm afraid I have reservations about this direction given the current market conditions."
+      },
+      {
+        "japanese": "この革新的なアプローチは、競合優位性の確立に大きく貢献するでしょう。",
+        "english": "This innovative approach will significantly contribute to establishing competitive advantage."
+      },
+      {
+        "japanese": "実装における複雑性とコスト効率性のバランスを慎重に検討する必要があります。",
+        "english": "We need to carefully consider the balance between implementation complexity and cost efficiency."
+      },
+      {
+        "japanese": "基本的な方向性には賛同しますが、実行計画の詳細化が不可欠です。",
+        "english": "While I endorse the basic direction, detailed execution planning is essential."
+      },
+      {
+        "japanese": "長期的な持続可能性の観点から、代替案の検討も重要だと思われます。",
+        "english": "From a long-term sustainability perspective, exploring alternatives seems crucial."
+      },
+      {
+        "japanese": "ステークホルダーへの影響を総合的に評価した上で、慎重な判断が求められます。",
+        "english": "Careful judgment is required after comprehensively evaluating the impact on stakeholders."
+      },
+      {
+        "japanese": "組織の戦略的目標との整合性を確保しつつ、段階的な実装を提案いたします。",
+        "english": "I propose phased implementation while ensuring alignment with our strategic objectives."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "name": "財務リスクを分析する",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "リスクがあります。",
+        "english": "There are risks."
+      },
+      {
+        "japanese": "お金が心配です。",
+        "english": "I'm worried about money."
+      },
+      {
+        "japanese": "損失が出るかもしれません。",
+        "english": "We might have losses."
+      },
+      {
+        "japanese": "予算を確認しましょう。",
+        "english": "Let's check the budget."
+      },
+      {
+        "japanese": "コストが高すぎます。",
+        "english": "The cost is too high."
+      },
+      {
+        "japanese": "安全な投資をしましょう。",
+        "english": "Let's make safe investments."
+      },
+      {
+        "japanese": "計画を見直しましょう。",
+        "english": "Let's review the plan."
+      },
+      {
+        "japanese": "慎重に決めましょう。",
+        "english": "Let's decide carefully."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "財務リスクの詳細分析を実施しましょう。",
+        "english": "Let's conduct detailed financial risk analysis."
+      },
+      {
+        "japanese": "市場リスクと信用リスクを評価する必要があります。",
+        "english": "We need to evaluate market risk and credit risk."
+      },
+      {
+        "japanese": "キャッシュフローの予測精度を向上させましょう。",
+        "english": "Let's improve cash flow prediction accuracy."
+      },
+      {
+        "japanese": "リスク許容度を明確に定義します。",
+        "english": "We'll clearly define risk tolerance."
+      },
+      {
+        "japanese": "ヘッジ戦略の検討が重要です。",
+        "english": "Considering hedge strategies is important."
+      },
+      {
+        "japanese": "ストレステストを実施しましょう。",
+        "english": "Let's conduct stress tests."
+      },
+      {
+        "japanese": "リスク管理体制を強化する必要があります。",
+        "english": "We need to strengthen risk management systems."
+      },
+      {
+        "japanese": "定期的なモニタリングを実施します。",
+        "english": "We'll conduct regular monitoring."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "高度な数理モデルを活用した包括的財務リスク評価システムを構築します。",
+        "english": "We'll build comprehensive financial risk assessment systems using advanced mathematical models."
+      },
+      {
+        "japanese": "マクロ経済環境の変動が企業価値に与える影響を定量的に分析しましょう。",
+        "english": "Let's quantitatively analyze the impact of macroeconomic environmental changes on corporate value."
+      },
+      {
+        "japanese": "ESGリスクと財務パフォーマンスの相関関係を統合的に評価する必要があります。",
+        "english": "We need to comprehensively evaluate the correlation between ESG risks and financial performance."
+      },
+      {
+        "japanese": "AI技術を活用したリアルタイムリスク監視と予測システムを開発します。",
+        "english": "We'll develop real-time risk monitoring and prediction systems leveraging AI technology."
+      },
+      {
+        "japanese": "複雑な金融商品とデリバティブのリスク特性を精密に分析しましょう。",
+        "english": "Let's precisely analyze risk characteristics of complex financial products and derivatives."
+      },
+      {
+        "japanese": "地政学的リスクと為替変動の相互作用による財務影響を評価します。",
+        "english": "We'll evaluate financial impacts from the interaction of geopolitical risks and exchange rate fluctuations."
+      },
+      {
+        "japanese": "統合的リスク管理フレームワークによる企業価値の最適化を実現しましょう。",
+        "english": "Let's achieve corporate value optimization through integrated risk management frameworks."
+      },
+      {
+        "japanese": "持続可能な財務戦略の構築に向けたリスク・リターン最適化を実践します。",
+        "english": "We'll practice risk-return optimization for building sustainable financial strategies."
+      }
+    ]
+  }
+}

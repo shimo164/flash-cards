@@ -1,0 +1,107 @@
+{
+  "name": "契約条件の調整と合意を得る",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "契約について話しましょう。",
+        "english": "Let's talk about the contract."
+      },
+      {
+        "japanese": "条件を確認します。",
+        "english": "We'll check the conditions."
+      },
+      {
+        "japanese": "価格を交渉しましょう。",
+        "english": "Let's negotiate the price."
+      },
+      {
+        "japanese": "合意できますか？",
+        "english": "Can we agree?"
+      },
+      {
+        "japanese": "変更が必要です。",
+        "english": "Changes are needed."
+      },
+      {
+        "japanese": "検討します。",
+        "english": "We'll consider it."
+      },
+      {
+        "japanese": "署名しましょう。",
+        "english": "Let's sign."
+      },
+      {
+        "japanese": "契約成立です。",
+        "english": "The contract is concluded."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "契約条件の詳細について協議しましょう。",
+        "english": "Let's discuss the details of contract terms."
+      },
+      {
+        "japanese": "双方にとって有益な条件を模索します。",
+        "english": "We'll seek conditions beneficial to both parties."
+      },
+      {
+        "japanese": "リスク分担について明確にする必要があります。",
+        "english": "We need to clarify risk sharing."
+      },
+      {
+        "japanese": "支払い条件の調整をお願いします。",
+        "english": "Please adjust the payment terms."
+      },
+      {
+        "japanese": "法的要件への準拠を確認しましょう。",
+        "english": "Let's confirm compliance with legal requirements."
+      },
+      {
+        "japanese": "契約期間と更新条件を検討します。",
+        "english": "We'll consider contract duration and renewal conditions."
+      },
+      {
+        "japanese": "知的財産権の取り扱いを明確にしましょう。",
+        "english": "Let's clarify intellectual property rights handling."
+      },
+      {
+        "japanese": "最終的な合意に向けて調整を続けます。",
+        "english": "We'll continue adjustments toward final agreement."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "複雑な契約条件の最適化により、戦略的パートナーシップの価値最大化を実現します。",
+        "english": "We'll achieve strategic partnership value maximization through optimization of complex contract terms."
+      },
+      {
+        "japanese": "多国間契約における法的複雑性とリスク管理の統合的アプローチが不可欠です。",
+        "english": "Integrated approaches to legal complexity and risk management in multinational contracts are essential."
+      },
+      {
+        "japanese": "ESG要件とコンプライアンス基準を統合した持続可能な契約フレームワークを構築しましょう。",
+        "english": "Let's build sustainable contract frameworks integrating ESG requirements and compliance standards."
+      },
+      {
+        "japanese": "デジタル技術を活用したスマートコントラクトの導入による効率化を検討する必要があります。",
+        "english": "We need to consider efficiency improvements through smart contract implementation leveraging digital technology."
+      },
+      {
+        "japanese": "長期的価値創造に向けた戦略的契約条項の設計と最適化を実践します。",
+        "english": "We'll practice design and optimization of strategic contract clauses for long-term value creation."
+      },
+      {
+        "japanese": "地政学的リスクと規制変更に対応する適応的契約構造の確立が重要です。",
+        "english": "Establishing adaptive contract structures responding to geopolitical risks and regulatory changes is crucial."
+      },
+      {
+        "japanese": "知的財産権とデータ主権の保護を統合した包括的契約条項を策定しましょう。",
+        "english": "Let's develop comprehensive contract clauses integrating intellectual property rights and data sovereignty protection."
+      },
+      {
+        "japanese": "ステークホルダー利益の最適化と紛争予防を両立させる高度な契約設計を実現します。",
+        "english": "We'll achieve advanced contract design that balances stakeholder interest optimization with dispute prevention."
+      }
+    ]
+  }
+}

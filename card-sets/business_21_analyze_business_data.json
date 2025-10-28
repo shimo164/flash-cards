@@ -1,0 +1,107 @@
+{
+  "name": "事業データを詳細に検討する",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "データを見ましょう。",
+        "english": "Let's look at the data."
+      },
+      {
+        "japanese": "売上が上がりました。",
+        "english": "Sales have increased."
+      },
+      {
+        "japanese": "数字が重要です。",
+        "english": "Numbers are important."
+      },
+      {
+        "japanese": "グラフを作りましょう。",
+        "english": "Let's make a graph."
+      },
+      {
+        "japanese": "比較してください。",
+        "english": "Please compare."
+      },
+      {
+        "japanese": "傾向が見えます。",
+        "english": "We can see the trend."
+      },
+      {
+        "japanese": "分析が必要です。",
+        "english": "Analysis is needed."
+      },
+      {
+        "japanese": "結論を出しましょう。",
+        "english": "Let's draw a conclusion."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "事業データの詳細分析を実施しましょう。",
+        "english": "Let's conduct detailed analysis of business data."
+      },
+      {
+        "japanese": "KPIの推移を継続的に監視する必要があります。",
+        "english": "We need to continuously monitor KPI trends."
+      },
+      {
+        "japanese": "セグメント別の収益性を評価しましょう。",
+        "english": "Let's evaluate profitability by segment."
+      },
+      {
+        "japanese": "データの信頼性と精度を確保することが重要です。",
+        "english": "Ensuring data reliability and accuracy is important."
+      },
+      {
+        "japanese": "統計的手法を用いた予測モデルを構築します。",
+        "english": "We'll build predictive models using statistical methods."
+      },
+      {
+        "japanese": "競合他社との比較分析を行いましょう。",
+        "english": "Let's conduct comparative analysis with competitors."
+      },
+      {
+        "japanese": "データ可視化により洞察を得やすくします。",
+        "english": "We'll make insights easier to obtain through data visualization."
+      },
+      {
+        "japanese": "意思決定に活用できる形で結果を整理しましょう。",
+        "english": "Let's organize results in a format useful for decision-making."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "高度な分析手法を活用した包括的事業データ評価を実施します。",
+        "english": "We'll conduct comprehensive business data evaluation using advanced analytical methods."
+      },
+      {
+        "japanese": "機械学習アルゴリズムによる予測精度の向上と洞察の深化を図りましょう。",
+        "english": "Let's improve prediction accuracy and deepen insights through machine learning algorithms."
+      },
+      {
+        "japanese": "多次元データ分析により、隠れたビジネス機会を発見する必要があります。",
+        "english": "We need to discover hidden business opportunities through multidimensional data analysis."
+      },
+      {
+        "japanese": "リアルタイムデータストリーミングと予測分析の統合システムを構築します。",
+        "english": "We'll build integrated systems for real-time data streaming and predictive analytics."
+      },
+      {
+        "japanese": "データガバナンスとプライバシー保護を確保した分析フレームワークが重要です。",
+        "english": "Analysis frameworks ensuring data governance and privacy protection are crucial."
+      },
+      {
+        "japanese": "ビッグデータ技術を活用した戦略的意思決定支援システムを開発しましょう。",
+        "english": "Let's develop strategic decision support systems leveraging big data technology."
+      },
+      {
+        "japanese": "データドリブンな組織文化の醸成と分析リテラシーの向上を推進します。",
+        "english": "We'll promote fostering data-driven organizational culture and improving analytical literacy."
+      },
+      {
+        "japanese": "持続可能な競争優位性確立に向けたデータ戦略の最適化を実践します。",
+        "english": "We'll practice optimization of data strategies for establishing sustainable competitive advantage."
+      }
+    ]
+  }
+}

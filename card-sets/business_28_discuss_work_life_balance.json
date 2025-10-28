@@ -1,0 +1,107 @@
+{
+  "name": "働き方と生活の調和を語る",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "残業が多いです。",
+        "english": "I work overtime a lot."
+      },
+      {
+        "japanese": "休みが欲しいです。",
+        "english": "I want some time off."
+      },
+      {
+        "japanese": "家族と過ごす時間が大切です。",
+        "english": "Time with family is important."
+      },
+      {
+        "japanese": "仕事が忙しすぎます。",
+        "english": "Work is too busy."
+      },
+      {
+        "japanese": "早く帰りたいです。",
+        "english": "I want to go home early."
+      },
+      {
+        "japanese": "ストレスがたまります。",
+        "english": "I feel stressed."
+      },
+      {
+        "japanese": "休憩が必要です。",
+        "english": "I need a break."
+      },
+      {
+        "japanese": "バランスが大切ですね。",
+        "english": "Balance is important."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "長時間労働の改善が必要です。",
+        "english": "We need to improve long working hours."
+      },
+      {
+        "japanese": "有給休暇を取りやすい環境を作りましょう。",
+        "english": "Let's create an environment where taking paid leave is easier."
+      },
+      {
+        "japanese": "プライベートな時間を確保することが重要です。",
+        "english": "It's important to secure personal time."
+      },
+      {
+        "japanese": "業務効率を向上させる必要があります。",
+        "english": "We need to improve work efficiency."
+      },
+      {
+        "japanese": "フレックスタイム制度を検討しましょう。",
+        "english": "Let's consider a flexible working hours system."
+      },
+      {
+        "japanese": "メンタルヘルスのサポートが大切です。",
+        "english": "Mental health support is important."
+      },
+      {
+        "japanese": "適切な休息が生産性を向上させます。",
+        "english": "Proper rest improves productivity."
+      },
+      {
+        "japanese": "働き方改革を推進しましょう。",
+        "english": "Let's promote work style reform."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "持続可能な働き方の実現には、組織文化の根本的な変革が不可欠です。",
+        "english": "Achieving sustainable work practices requires fundamental organizational culture transformation."
+      },
+      {
+        "japanese": "従業員のウェルビーイング向上が、長期的な企業価値創造に直結します。",
+        "english": "Enhancing employee well-being directly contributes to long-term corporate value creation."
+      },
+      {
+        "japanese": "多様な働き方を支援する包括的な制度設計が求められています。",
+        "english": "Comprehensive system design supporting diverse work styles is required."
+      },
+      {
+        "japanese": "生産性の最大化と従業員満足度の向上を両立させる戦略的アプローチが必要です。",
+        "english": "A strategic approach that balances productivity maximization with employee satisfaction enhancement is necessary."
+      },
+      {
+        "japanese": "テクノロジーを活用した効率的な業務プロセスの再構築を検討すべきです。",
+        "english": "We should consider reconstructing efficient business processes leveraging technology."
+      },
+      {
+        "japanese": "グローバル競争力を維持しながら、人材の定着率向上を図る必要があります。",
+        "english": "We need to improve talent retention while maintaining global competitiveness."
+      },
+      {
+        "japanese": "組織のレジリエンス強化には、従業員の心理的安全性の確保が重要です。",
+        "english": "Ensuring psychological safety for employees is crucial for strengthening organizational resilience."
+      },
+      {
+        "japanese": "イノベーション創出には、創造性を育む働き方環境の整備が不可欠です。",
+        "english": "Creating work environments that foster creativity is essential for innovation generation."
+      }
+    ]
+  }
+}

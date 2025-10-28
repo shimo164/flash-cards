@@ -1,0 +1,107 @@
+{
+  "name": "海外市場への進出を検討する",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "海外に進出しましょう。",
+        "english": "Let's expand overseas."
+      },
+      {
+        "japanese": "新しい市場です。",
+        "english": "It's a new market."
+      },
+      {
+        "japanese": "どの国がいいですか？",
+        "english": "Which country is good?"
+      },
+      {
+        "japanese": "リスクがあります。",
+        "english": "There are risks."
+      },
+      {
+        "japanese": "調査が必要です。",
+        "english": "Research is needed."
+      },
+      {
+        "japanese": "パートナーを探しましょう。",
+        "english": "Let's find a partner."
+      },
+      {
+        "japanese": "準備をしましょう。",
+        "english": "Let's prepare."
+      },
+      {
+        "japanese": "成功を目指しましょう。",
+        "english": "Let's aim for success."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "海外市場参入戦略を慎重に検討しましょう。",
+        "english": "Let's carefully consider overseas market entry strategies."
+      },
+      {
+        "japanese": "ターゲット市場の詳細分析が必要です。",
+        "english": "Detailed analysis of target markets is necessary."
+      },
+      {
+        "japanese": "現地の規制環境を理解する必要があります。",
+        "english": "We need to understand local regulatory environments."
+      },
+      {
+        "japanese": "文化的適応戦略を策定しましょう。",
+        "english": "Let's develop cultural adaptation strategies."
+      },
+      {
+        "japanese": "投資回収期間を慎重に評価します。",
+        "english": "We'll carefully evaluate the investment recovery period."
+      },
+      {
+        "japanese": "現地パートナーとの提携を検討しましょう。",
+        "english": "Let's consider partnerships with local partners."
+      },
+      {
+        "japanese": "段階的な市場参入計画を立てます。",
+        "english": "We'll create a phased market entry plan."
+      },
+      {
+        "japanese": "競合他社の動向を分析する必要があります。",
+        "english": "We need to analyze competitor movements."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "グローバル市場の複雑性と機会を統合的に評価した戦略的進出計画を策定します。",
+        "english": "We'll develop strategic expansion plans that comprehensively evaluate global market complexity and opportunities."
+      },
+      {
+        "japanese": "地政学的リスクと経済的機会のバランスを考慮した市場選択が重要です。",
+        "english": "Market selection considering the balance of geopolitical risks and economic opportunities is crucial."
+      },
+      {
+        "japanese": "デジタル技術を活用したグローバル市場参入モデルの革新を図りましょう。",
+        "english": "Let's innovate global market entry models leveraging digital technology."
+      },
+      {
+        "japanese": "ESG要件と現地社会への価値創造を統合した持続可能な進出戦略が求められています。",
+        "english": "Sustainable expansion strategies integrating ESG requirements and value creation for local societies are required."
+      },
+      {
+        "japanese": "文化的多様性を競争優位の源泉として活用する現地化戦略を確立する必要があります。",
+        "english": "We need to establish localization strategies that leverage cultural diversity as a source of competitive advantage."
+      },
+      {
+        "japanese": "新興市場における破壊的イノベーションの機会を戦略的に捕捉しましょう。",
+        "english": "Let's strategically capture disruptive innovation opportunities in emerging markets."
+      },
+      {
+        "japanese": "グローバルバリューチェーンの最適化と現地価値創造の両立を実現します。",
+        "english": "We'll achieve both global value chain optimization and local value creation."
+      },
+      {
+        "japanese": "長期的な市場支配力確立に向けた戦略的投資配分の最適化を実践します。",
+        "english": "We'll practice optimization of strategic investment allocation for establishing long-term market dominance."
+      }
+    ]
+  }
+}

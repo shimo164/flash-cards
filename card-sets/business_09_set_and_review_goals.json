@@ -1,0 +1,107 @@
+{
+  "name": "目標設定と成果の確認",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "目標を決めましょう。",
+        "english": "Let's set goals."
+      },
+      {
+        "japanese": "いつまでですか？",
+        "english": "By when?"
+      },
+      {
+        "japanese": "結果はどうでしたか？",
+        "english": "How were the results?"
+      },
+      {
+        "japanese": "達成できました。",
+        "english": "We achieved it."
+      },
+      {
+        "japanese": "まだ途中です。",
+        "english": "We're still in progress."
+      },
+      {
+        "japanese": "難しかったです。",
+        "english": "It was difficult."
+      },
+      {
+        "japanese": "次の目標は？",
+        "english": "What's the next goal?"
+      },
+      {
+        "japanese": "頑張りましょう。",
+        "english": "Let's do our best."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "具体的で測定可能な目標を設定しましょう。",
+        "english": "Let's set specific and measurable goals."
+      },
+      {
+        "japanese": "四半期ごとの進捗を確認します。",
+        "english": "We'll check progress quarterly."
+      },
+      {
+        "japanese": "KPIの達成状況を評価しましょう。",
+        "english": "Let's evaluate KPI achievement status."
+      },
+      {
+        "japanese": "目標達成のための課題を特定します。",
+        "english": "We'll identify challenges for goal achievement."
+      },
+      {
+        "japanese": "改善策を検討する必要があります。",
+        "english": "We need to consider improvement measures."
+      },
+      {
+        "japanese": "チーム全体のパフォーマンスを向上させましょう。",
+        "english": "Let's improve overall team performance."
+      },
+      {
+        "japanese": "次期の目標設定に向けて準備します。",
+        "english": "We'll prepare for next period's goal setting."
+      },
+      {
+        "japanese": "成果を適切に評価し、フィードバックします。",
+        "english": "We'll properly evaluate results and provide feedback."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "戦略的目標と個人目標の整合性を確保した包括的な目標設定を行います。",
+        "english": "We'll conduct comprehensive goal setting ensuring alignment between strategic and individual objectives."
+      },
+      {
+        "japanese": "多次元的な成果指標を用いた定量的・定性的評価システムを構築します。",
+        "english": "We'll build quantitative and qualitative evaluation systems using multidimensional performance indicators."
+      },
+      {
+        "japanese": "継続的なパフォーマンス管理と適応的目標調整のメカニズムを確立します。",
+        "english": "We'll establish mechanisms for continuous performance management and adaptive goal adjustment."
+      },
+      {
+        "japanese": "組織学習の促進と個人成長の最大化を両立する評価体系を設計します。",
+        "english": "We'll design evaluation systems that balance organizational learning promotion with individual growth maximization."
+      },
+      {
+        "japanese": "ステークホルダー価値創造に直結する成果測定フレームワークを導入します。",
+        "english": "We'll introduce outcome measurement frameworks directly linked to stakeholder value creation."
+      },
+      {
+        "japanese": "イノベーション創出と業務効率化の両面から目標達成度を評価します。",
+        "english": "We'll evaluate goal achievement from both innovation creation and operational efficiency perspectives."
+      },
+      {
+        "japanese": "長期的視点と短期的成果のバランスを考慮した目標管理を実践します。",
+        "english": "We'll practice goal management considering the balance between long-term perspective and short-term results."
+      },
+      {
+        "japanese": "組織全体の持続可能な成長に貢献する個人目標の設定を支援します。",
+        "english": "We'll support setting individual goals that contribute to sustainable organizational growth."
+      }
+    ]
+  }
+}

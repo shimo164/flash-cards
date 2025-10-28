@@ -1,0 +1,107 @@
+{
+  "name": "会議で参加者の意見を引き出す",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "どう思いますか？",
+        "english": "What do you think?"
+      },
+      {
+        "japanese": "ご意見をお聞かせください。",
+        "english": "Please share your opinion."
+      },
+      {
+        "japanese": "何かアイデアはありますか？",
+        "english": "Do you have any ideas?"
+      },
+      {
+        "japanese": "他にご質問はありますか？",
+        "english": "Any other questions?"
+      },
+      {
+        "japanese": "田中さんはいかがですか？",
+        "english": "How about you, Mr. Tanaka?"
+      },
+      {
+        "japanese": "皆さんのお考えを聞きたいです。",
+        "english": "I'd like to hear everyone's thoughts."
+      },
+      {
+        "japanese": "何かコメントはありますか？",
+        "english": "Any comments?"
+      },
+      {
+        "japanese": "ご質問をどうぞ。",
+        "english": "Please ask your questions."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "この件についてどのようにお考えでしょうか？",
+        "english": "What are your thoughts on this matter?"
+      },
+      {
+        "japanese": "皆さんからの貴重なご意見をお聞かせください。",
+        "english": "I'd appreciate your valuable input on this."
+      },
+      {
+        "japanese": "異なる視点からのご意見はありますか？",
+        "english": "Are there any different perspectives on this?"
+      },
+      {
+        "japanese": "まだ発言されていない方はいらっしゃいますか？",
+        "english": "Is there anyone who hasn't spoken yet?"
+      },
+      {
+        "japanese": "この提案に対するご感想はいかがですか？",
+        "english": "What's your reaction to this proposal?"
+      },
+      {
+        "japanese": "他部署の観点からはどうでしょうか？",
+        "english": "How does this look from your department's perspective?"
+      },
+      {
+        "japanese": "懸念事項があれば遠慮なくお聞かせください。",
+        "english": "Please feel free to share any concerns you might have."
+      },
+      {
+        "japanese": "建設的なご意見をお待ちしています。",
+        "english": "I'm looking forward to your constructive feedback."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "この戦略的課題について、皆さんの洞察をお聞かせいただけますでしょうか？",
+        "english": "Could you share your insights on this strategic challenge?"
+      },
+      {
+        "japanese": "多角的な視点から、この問題をどのように捉えていらっしゃいますか？",
+        "english": "How do you perceive this issue from multiple angles?"
+      },
+      {
+        "japanese": "ステークホルダーの立場から、どのような懸念が想定されますか？",
+        "english": "What concerns might stakeholders have from their perspective?"
+      },
+      {
+        "japanese": "この提案の潜在的なリスクと機会について、ご見解をお聞かせください。",
+        "english": "Please share your views on the potential risks and opportunities of this proposal."
+      },
+      {
+        "japanese": "実装における課題について、現場の専門知識を活かしたご意見をいただけますか？",
+        "english": "Could you leverage your field expertise to comment on implementation challenges?"
+      },
+      {
+        "japanese": "長期的な影響を考慮した場合、どのような戦略的調整が必要でしょうか？",
+        "english": "Considering long-term implications, what strategic adjustments might be necessary?"
+      },
+      {
+        "japanese": "業界のベストプラクティスと照らし合わせて、いかがお考えでしょうか？",
+        "english": "How does this align with industry best practices in your opinion?"
+      },
+      {
+        "japanese": "組織全体の目標達成に向けて、どのような貢献が期待できるとお考えですか？",
+        "english": "What contribution do you think this could make toward our organizational objectives?"
+      }
+    ]
+  }
+}

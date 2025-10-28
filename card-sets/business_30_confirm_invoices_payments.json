@@ -1,0 +1,107 @@
+{
+  "name": "請求処理や支払いを確認する",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "請求書を確認してください。",
+        "english": "Please check the invoice."
+      },
+      {
+        "japanese": "支払いはいつですか？",
+        "english": "When is the payment?"
+      },
+      {
+        "japanese": "金額が間違っています。",
+        "english": "The amount is wrong."
+      },
+      {
+        "japanese": "領収書をください。",
+        "english": "Please give me a receipt."
+      },
+      {
+        "japanese": "支払いが遅れています。",
+        "english": "The payment is late."
+      },
+      {
+        "japanese": "確認しました。",
+        "english": "I confirmed it."
+      },
+      {
+        "japanese": "問題ありません。",
+        "english": "No problem."
+      },
+      {
+        "japanese": "すぐに支払います。",
+        "english": "I'll pay immediately."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "請求書の詳細を確認させていただきます。",
+        "english": "Let me verify the invoice details."
+      },
+      {
+        "japanese": "支払い条件について確認したいことがあります。",
+        "english": "I have some questions about the payment terms."
+      },
+      {
+        "japanese": "計算に誤りがあるようです。",
+        "english": "There seems to be an error in the calculation."
+      },
+      {
+        "japanese": "正式な領収書を発行していただけますか？",
+        "english": "Could you issue an official receipt?"
+      },
+      {
+        "japanese": "支払い期限の延長をお願いできますか？",
+        "english": "Could we request an extension of the payment deadline?"
+      },
+      {
+        "japanese": "承認プロセスを完了いたします。",
+        "english": "We'll complete the approval process."
+      },
+      {
+        "japanese": "経理部門と調整いたします。",
+        "english": "I'll coordinate with the accounting department."
+      },
+      {
+        "japanese": "速やかに処理いたします。",
+        "english": "We'll process this promptly."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "請求書の妥当性について、詳細な監査を実施させていただきます。",
+        "english": "We'll conduct a detailed audit regarding the validity of this invoice."
+      },
+      {
+        "japanese": "契約条項に基づく支払い条件の再確認が必要です。",
+        "english": "Reconfirmation of payment terms based on contractual provisions is necessary."
+      },
+      {
+        "japanese": "財務規程に従い、適切な承認手続きを経て処理いたします。",
+        "english": "We'll process this through proper approval procedures in accordance with financial regulations."
+      },
+      {
+        "japanese": "税務上の取り扱いについて、専門部署との協議が必要です。",
+        "english": "Consultation with specialized departments regarding tax treatment is required."
+      },
+      {
+        "japanese": "キャッシュフロー管理の観点から、支払いスケジュールの最適化を検討します。",
+        "english": "We'll consider optimizing the payment schedule from a cash flow management perspective."
+      },
+      {
+        "japanese": "内部統制システムに従い、適切な証憑管理を実施いたします。",
+        "english": "We'll implement proper documentation management in accordance with internal control systems."
+      },
+      {
+        "japanese": "リスク管理の観点から、支払い承認プロセスの強化が必要です。",
+        "english": "Strengthening the payment approval process is necessary from a risk management perspective."
+      },
+      {
+        "japanese": "財務透明性の確保と効率的な資金運用の両立を図ります。",
+        "english": "We'll achieve both financial transparency and efficient fund management."
+      }
+    ]
+  }
+}

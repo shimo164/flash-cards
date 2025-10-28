@@ -1,0 +1,107 @@
+{
+  "name": "持続可能性と国際化を議論する",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "環境を守りましょう。",
+        "english": "Let's protect the environment."
+      },
+      {
+        "japanese": "リサイクルが大切です。",
+        "english": "Recycling is important."
+      },
+      {
+        "japanese": "世界中で事業をしています。",
+        "english": "We do business worldwide."
+      },
+      {
+        "japanese": "地球温暖化が心配です。",
+        "english": "I'm worried about global warming."
+      },
+      {
+        "japanese": "エネルギーを節約しましょう。",
+        "english": "Let's save energy."
+      },
+      {
+        "japanese": "国際的な協力が必要です。",
+        "english": "International cooperation is needed."
+      },
+      {
+        "japanese": "未来のために行動しましょう。",
+        "english": "Let's act for the future."
+      },
+      {
+        "japanese": "責任を持ちましょう。",
+        "english": "Let's be responsible."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "持続可能な事業運営について検討しましょう。",
+        "english": "Let's consider sustainable business operations."
+      },
+      {
+        "japanese": "ESG要件への対応が重要になっています。",
+        "english": "Responding to ESG requirements is becoming important."
+      },
+      {
+        "japanese": "グローバル市場での競争力を維持する必要があります。",
+        "english": "We need to maintain competitiveness in global markets."
+      },
+      {
+        "japanese": "カーボンニュートラルの実現を目指しましょう。",
+        "english": "Let's aim to achieve carbon neutrality."
+      },
+      {
+        "japanese": "サプライチェーンの透明性を向上させます。",
+        "english": "We'll improve supply chain transparency."
+      },
+      {
+        "japanese": "ステークホルダーとの対話を重視しましょう。",
+        "english": "Let's value dialogue with stakeholders."
+      },
+      {
+        "japanese": "長期的な価値創造を追求します。",
+        "english": "We'll pursue long-term value creation."
+      },
+      {
+        "japanese": "国際的な規制動向を注視する必要があります。",
+        "english": "We need to monitor international regulatory trends."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "持続可能性とグローバル競争力の両立を実現する統合戦略が不可欠です。",
+        "english": "Integrated strategies that achieve both sustainability and global competitiveness are essential."
+      },
+      {
+        "japanese": "ESG要件を競争優位の源泉として活用する戦略的アプローチを採用しましょう。",
+        "english": "Let's adopt strategic approaches that leverage ESG requirements as sources of competitive advantage."
+      },
+      {
+        "japanese": "サーキュラーエコノミーの原則に基づく事業モデル変革を推進する必要があります。",
+        "english": "We need to promote business model transformation based on circular economy principles."
+      },
+      {
+        "japanese": "気候変動リスクと機会を統合したレジリエントな事業戦略を構築しましょう。",
+        "english": "Let's build resilient business strategies integrating climate change risks and opportunities."
+      },
+      {
+        "japanese": "グローバルバリューチェーンにおける人権と環境配慮の徹底が求められています。",
+        "english": "Thorough consideration of human rights and environmental factors in global value chains is required."
+      },
+      {
+        "japanese": "ステークホルダー資本主義の実践による長期的価値創造を実現します。",
+        "english": "We'll achieve long-term value creation through practicing stakeholder capitalism."
+      },
+      {
+        "japanese": "デジタル技術を活用した持続可能性の測定と改善システムを構築しましょう。",
+        "english": "Let's build sustainability measurement and improvement systems leveraging digital technology."
+      },
+      {
+        "japanese": "国際協調と地域適応を両立させる持続可能な国際化戦略を策定します。",
+        "english": "We'll develop sustainable internationalization strategies that balance international coordination with regional adaptation."
+      }
+    ]
+  }
+}

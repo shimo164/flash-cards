@@ -1,0 +1,107 @@
+{
+  "name": "部署間での情報共有",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "情報を共有しましょう。",
+        "english": "Let's share information."
+      },
+      {
+        "japanese": "他の部署に連絡します。",
+        "english": "I'll contact other departments."
+      },
+      {
+        "japanese": "会議に参加してください。",
+        "english": "Please join the meeting."
+      },
+      {
+        "japanese": "資料を送ります。",
+        "english": "I'll send the materials."
+      },
+      {
+        "japanese": "協力をお願いします。",
+        "english": "Please cooperate."
+      },
+      {
+        "japanese": "進捗を教えてください。",
+        "english": "Please tell me the progress."
+      },
+      {
+        "japanese": "問題がありますか？",
+        "english": "Are there any problems?"
+      },
+      {
+        "japanese": "一緒に働きましょう。",
+        "english": "Let's work together."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "部署横断的な情報共有を強化しましょう。",
+        "english": "Let's strengthen cross-departmental information sharing."
+      },
+      {
+        "japanese": "関連部署との連携を密にする必要があります。",
+        "english": "We need to strengthen coordination with related departments."
+      },
+      {
+        "japanese": "定期的な進捗報告会を開催しましょう。",
+        "english": "Let's hold regular progress reporting meetings."
+      },
+      {
+        "japanese": "プロジェクトの依存関係を明確にします。",
+        "english": "We'll clarify project dependencies."
+      },
+      {
+        "japanese": "効率的なコミュニケーション手段を確立しましょう。",
+        "english": "Let's establish efficient communication methods."
+      },
+      {
+        "japanese": "重要な決定事項は全部署に周知します。",
+        "english": "We'll inform all departments of important decisions."
+      },
+      {
+        "japanese": "課題解決のための協働体制を構築します。",
+        "english": "We'll build collaborative systems for problem solving."
+      },
+      {
+        "japanese": "ナレッジシェアリングの仕組みを整備しましょう。",
+        "english": "Let's establish knowledge sharing mechanisms."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "組織横断的な知識統合により、シナジー効果の最大化を実現します。",
+        "english": "We'll maximize synergy effects through cross-organizational knowledge integration."
+      },
+      {
+        "japanese": "戦略的整合性を確保した部署間協働フレームワークの構築が不可欠です。",
+        "english": "Building inter-departmental collaboration frameworks ensuring strategic alignment is essential."
+      },
+      {
+        "japanese": "デジタル技術を活用した情報共有プラットフォームの高度化を図りましょう。",
+        "english": "Let's advance information sharing platforms leveraging digital technology."
+      },
+      {
+        "japanese": "多様な専門性を統合したイノベーション創出エコシステムを確立します。",
+        "english": "We'll establish innovation creation ecosystems integrating diverse expertise."
+      },
+      {
+        "japanese": "組織サイロの解消と水平的協働文化の醸成が重要な課題です。",
+        "english": "Eliminating organizational silos and fostering horizontal collaboration culture is a crucial challenge."
+      },
+      {
+        "japanese": "ステークホルダー価値創造に向けた部署間の戦略的連携を強化しましょう。",
+        "english": "Let's strengthen strategic inter-departmental collaboration toward stakeholder value creation."
+      },
+      {
+        "japanese": "複雑な組織課題に対する集合知の活用と最適解の探求を実践します。",
+        "english": "We'll practice leveraging collective intelligence and pursuing optimal solutions for complex organizational challenges."
+      },
+      {
+        "japanese": "持続可能な組織学習を促進する部署間ナレッジマネジメントシステムを構築します。",
+        "english": "We'll build inter-departmental knowledge management systems that promote sustainable organizational learning."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "name": "協働チームを育成する",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "チームで働きましょう。",
+        "english": "Let's work as a team."
+      },
+      {
+        "japanese": "協力が大切です。",
+        "english": "Cooperation is important."
+      },
+      {
+        "japanese": "助け合いましょう。",
+        "english": "Let's help each other."
+      },
+      {
+        "japanese": "一緒に頑張りましょう。",
+        "english": "Let's work hard together."
+      },
+      {
+        "japanese": "役割を分担しましょう。",
+        "english": "Let's divide the roles."
+      },
+      {
+        "japanese": "コミュニケーションを取りましょう。",
+        "english": "Let's communicate."
+      },
+      {
+        "japanese": "信頼が重要です。",
+        "english": "Trust is important."
+      },
+      {
+        "japanese": "成功を目指しましょう。",
+        "english": "Let's aim for success."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "効果的なチーム協働体制を構築しましょう。",
+        "english": "Let's build an effective team collaboration system."
+      },
+      {
+        "japanese": "メンバーの強みを活かした役割分担を行います。",
+        "english": "We'll assign roles that leverage members' strengths."
+      },
+      {
+        "japanese": "オープンなコミュニケーション文化を育成しましょう。",
+        "english": "Let's foster an open communication culture."
+      },
+      {
+        "japanese": "相互信頼の構築がチーム成功の鍵です。",
+        "english": "Building mutual trust is key to team success."
+      },
+      {
+        "japanese": "定期的なチームビルディング活動を実施します。",
+        "english": "We'll conduct regular team building activities."
+      },
+      {
+        "japanese": "多様性を尊重し、包括的な環境を作りましょう。",
+        "english": "Let's respect diversity and create an inclusive environment."
+      },
+      {
+        "japanese": "共通目標に向けた結束力を高めます。",
+        "english": "We'll strengthen unity toward common goals."
+      },
+      {
+        "japanese": "継続的な学習と成長を支援し合いましょう。",
+        "english": "Let's support each other's continuous learning and growth."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "高度な協働能力を持つ自律的チームの育成が組織競争力の源泉です。",
+        "english": "Developing autonomous teams with advanced collaboration capabilities is the source of organizational competitiveness."
+      },
+      {
+        "japanese": "多様性を競争優位に転換する包括的チーム運営手法を確立しましょう。",
+        "english": "Let's establish inclusive team management methods that convert diversity into competitive advantage."
+      },
+      {
+        "japanese": "心理的安全性と高いパフォーマンス基準の両立を実現する必要があります。",
+        "english": "We need to achieve both psychological safety and high performance standards."
+      },
+      {
+        "japanese": "デジタル技術を活用したバーチャル協働環境の最適化を図ります。",
+        "english": "We'll optimize virtual collaboration environments leveraging digital technology."
+      },
+      {
+        "japanese": "組織学習能力の向上を通じて、適応的チーム能力を強化しましょう。",
+        "english": "Let's strengthen adaptive team capabilities through enhancing organizational learning abilities."
+      },
+      {
+        "japanese": "イノベーション創出に向けた創造的協働プロセスの体系化が重要です。",
+        "english": "Systematizing creative collaboration processes for innovation creation is crucial."
+      },
+      {
+        "japanese": "グローバル環境における文化的多様性を活用したチーム統合を実践します。",
+        "english": "We'll practice team integration leveraging cultural diversity in global environments."
+      },
+      {
+        "japanese": "持続可能な高パフォーマンス文化の醸成と継承システムを構築します。",
+        "english": "We'll build systems for fostering and inheriting sustainable high-performance culture."
+      }
+    ]
+  }
+}

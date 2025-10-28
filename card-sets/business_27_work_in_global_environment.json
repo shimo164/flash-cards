@@ -1,0 +1,107 @@
+{
+  "name": "国際的な職場での対応",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "英語で話しましょう。",
+        "english": "Let's speak in English."
+      },
+      {
+        "japanese": "文化が違います。",
+        "english": "The culture is different."
+      },
+      {
+        "japanese": "時差があります。",
+        "english": "There's a time difference."
+      },
+      {
+        "japanese": "理解しました。",
+        "english": "I understand."
+      },
+      {
+        "japanese": "ゆっくり話してください。",
+        "english": "Please speak slowly."
+      },
+      {
+        "japanese": "国際チームです。",
+        "english": "It's an international team."
+      },
+      {
+        "japanese": "協力しましょう。",
+        "english": "Let's cooperate."
+      },
+      {
+        "japanese": "勉強になります。",
+        "english": "It's educational."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "グローバルな職場環境に適応する必要があります。",
+        "english": "We need to adapt to the global workplace environment."
+      },
+      {
+        "japanese": "文化的な違いを理解し、尊重しましょう。",
+        "english": "Let's understand and respect cultural differences."
+      },
+      {
+        "japanese": "多様なバックグラウンドを持つ同僚と協働します。",
+        "english": "We'll collaborate with colleagues from diverse backgrounds."
+      },
+      {
+        "japanese": "効果的な異文化コミュニケーションを心がけましょう。",
+        "english": "Let's strive for effective cross-cultural communication."
+      },
+      {
+        "japanese": "タイムゾーンを考慮したスケジュール調整が重要です。",
+        "english": "Schedule coordination considering time zones is important."
+      },
+      {
+        "japanese": "国際的なビジネスマナーを身につけましょう。",
+        "english": "Let's acquire international business etiquette."
+      },
+      {
+        "japanese": "言語の壁を乗り越える工夫が必要です。",
+        "english": "We need to devise ways to overcome language barriers."
+      },
+      {
+        "japanese": "グローバルチームの一員として貢献しましょう。",
+        "english": "Let's contribute as a member of the global team."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "グローバル環境における文化的知性の向上が競争優位性の源泉となります。",
+        "english": "Enhancing cultural intelligence in global environments becomes a source of competitive advantage."
+      },
+      {
+        "japanese": "多文化チームにおける包括的リーダーシップの発揮が不可欠です。",
+        "english": "Demonstrating inclusive leadership in multicultural teams is essential."
+      },
+      {
+        "japanese": "地政学的複雑性を理解した戦略的意思決定能力を開発しましょう。",
+        "english": "Let's develop strategic decision-making capabilities that understand geopolitical complexity."
+      },
+      {
+        "japanese": "デジタル技術を活用したグローバル協働プラットフォームの最適化を図ります。",
+        "english": "We'll optimize global collaboration platforms leveraging digital technology."
+      },
+      {
+        "japanese": "文化的多様性をイノベーション創出の触媒として活用する必要があります。",
+        "english": "We need to leverage cultural diversity as a catalyst for innovation creation."
+      },
+      {
+        "japanese": "グローバルガバナンスと現地適応の最適なバランスを実現しましょう。",
+        "english": "Let's achieve optimal balance between global governance and local adaptation."
+      },
+      {
+        "japanese": "持続可能な国際協働関係の構築と維持が長期的成功の鍵です。",
+        "english": "Building and maintaining sustainable international collaborative relationships is key to long-term success."
+      },
+      {
+        "japanese": "複雑なグローバル課題に対する集合知の活用と最適解の探求を実践します。",
+        "english": "We'll practice leveraging collective intelligence and pursuing optimal solutions for complex global challenges."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "name": "意見交換を活性化させる表現",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "話し合いましょう。",
+        "english": "Let's discuss."
+      },
+      {
+        "japanese": "どう思いますか？",
+        "english": "What do you think?"
+      },
+      {
+        "japanese": "意見を聞かせてください。",
+        "english": "Please share your opinion."
+      },
+      {
+        "japanese": "他の考えはありますか？",
+        "english": "Are there other ideas?"
+      },
+      {
+        "japanese": "賛成ですか？",
+        "english": "Do you agree?"
+      },
+      {
+        "japanese": "質問はありますか？",
+        "english": "Any questions?"
+      },
+      {
+        "japanese": "みんなで考えましょう。",
+        "english": "Let's think together."
+      },
+      {
+        "japanese": "いいアイデアですね。",
+        "english": "That's a good idea."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "活発な議論を促進しましょう。",
+        "english": "Let's promote active discussion."
+      },
+      {
+        "japanese": "多様な視点からのご意見をお聞かせください。",
+        "english": "Please share opinions from diverse perspectives."
+      },
+      {
+        "japanese": "建設的な意見交換を行いましょう。",
+        "english": "Let's have constructive opinion exchange."
+      },
+      {
+        "japanese": "異なる立場からの見解も重要です。",
+        "english": "Views from different positions are also important."
+      },
+      {
+        "japanese": "創造的なアイデアを歓迎します。",
+        "english": "We welcome creative ideas."
+      },
+      {
+        "japanese": "批判的思考を大切にしましょう。",
+        "english": "Let's value critical thinking."
+      },
+      {
+        "japanese": "全員の参加を促したいと思います。",
+        "english": "I'd like to encourage everyone's participation."
+      },
+      {
+        "japanese": "議論を深めるための質問をしましょう。",
+        "english": "Let's ask questions to deepen the discussion."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "多角的な視点を統合した建設的対話の促進が重要です。",
+        "english": "Promoting constructive dialogue that integrates multifaceted perspectives is crucial."
+      },
+      {
+        "japanese": "イノベーション創出に向けた創造的思考の活性化を図りましょう。",
+        "english": "Let's activate creative thinking toward innovation creation."
+      },
+      {
+        "japanese": "心理的安全性を確保しつつ、挑戦的な議論を展開する必要があります。",
+        "english": "We need to develop challenging discussions while ensuring psychological safety."
+      },
+      {
+        "japanese": "組織の知的資産を最大化する知識共有プラットフォームを構築しましょう。",
+        "english": "Let's build knowledge sharing platforms that maximize organizational intellectual assets."
+      },
+      {
+        "japanese": "多様性を競争優位の源泉として活用する議論文化を醸成します。",
+        "english": "We'll foster discussion culture that leverages diversity as a source of competitive advantage."
+      },
+      {
+        "japanese": "戦略的思考と実践的洞察の融合による価値創造を促進しましょう。",
+        "english": "Let's promote value creation through fusion of strategic thinking and practical insights."
+      },
+      {
+        "japanese": "複雑な課題に対する集合知の結集と最適解の探求が必要です。",
+        "english": "Convergence of collective intelligence and pursuit of optimal solutions for complex challenges is necessary."
+      },
+      {
+        "japanese": "持続可能な組織学習を実現する対話的意思決定プロセスを確立します。",
+        "english": "We'll establish dialogical decision-making processes that realize sustainable organizational learning."
+      }
+    ]
+  }
+}

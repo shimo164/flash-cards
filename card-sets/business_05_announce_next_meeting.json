@@ -1,0 +1,107 @@
+{
+  "name": "次回の会議予定を知らせる",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "次回の会議は来週です。",
+        "english": "The next meeting is next week."
+      },
+      {
+        "japanese": "月曜日に会議があります。",
+        "english": "We have a meeting on Monday."
+      },
+      {
+        "japanese": "時間は午後2時です。",
+        "english": "The time is 2 PM."
+      },
+      {
+        "japanese": "場所は会議室Aです。",
+        "english": "The location is Conference Room A."
+      },
+      {
+        "japanese": "資料を準備してください。",
+        "english": "Please prepare the materials."
+      },
+      {
+        "japanese": "参加をお願いします。",
+        "english": "Please attend."
+      },
+      {
+        "japanese": "質問があれば連絡してください。",
+        "english": "Please contact me if you have questions."
+      },
+      {
+        "japanese": "カレンダーに入れてください。",
+        "english": "Please put it in your calendar."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "次回の会議は来週火曜日の午前10時からです。",
+        "english": "The next meeting will be next Tuesday at 10 AM."
+      },
+      {
+        "japanese": "会議室の予約を確認いたします。",
+        "english": "I'll confirm the conference room reservation."
+      },
+      {
+        "japanese": "議題については後日お送りします。",
+        "english": "I'll send the agenda later."
+      },
+      {
+        "japanese": "事前に資料をご確認ください。",
+        "english": "Please review the materials in advance."
+      },
+      {
+        "japanese": "出席の可否をお知らせください。",
+        "english": "Please let me know if you can attend."
+      },
+      {
+        "japanese": "リモート参加も可能です。",
+        "english": "Remote participation is also available."
+      },
+      {
+        "japanese": "変更があれば早めにご連絡します。",
+        "english": "I'll contact you early if there are any changes."
+      },
+      {
+        "japanese": "重要な決定事項を扱います。",
+        "english": "We'll handle important decisions."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "戦略的重要性を考慮し、次回会議を来週火曜日に設定いたします。",
+        "english": "Considering strategic importance, we'll schedule the next meeting for next Tuesday."
+      },
+      {
+        "japanese": "包括的な議題と関連資料を事前配布いたします。",
+        "english": "We'll distribute comprehensive agenda items and related materials in advance."
+      },
+      {
+        "japanese": "ステークホルダーの参加可否を早急に確認する必要があります。",
+        "english": "We need to urgently confirm stakeholder availability."
+      },
+      {
+        "japanese": "ハイブリッド形式での開催を予定しており、技術的準備を進めます。",
+        "english": "We're planning a hybrid format and will proceed with technical preparations."
+      },
+      {
+        "japanese": "重要な意思決定項目について事前検討をお願いいたします。",
+        "english": "Please conduct preliminary consideration of critical decision items."
+      },
+      {
+        "japanese": "会議の成果最大化のため、準備時間を十分確保してください。",
+        "english": "Please ensure sufficient preparation time to maximize meeting outcomes."
+      },
+      {
+        "japanese": "緊急事態による変更の可能性も含めて調整いたします。",
+        "english": "We'll coordinate including the possibility of changes due to emergencies."
+      },
+      {
+        "japanese": "組織全体への影響を考慮した効率的な進行を計画しています。",
+        "english": "We're planning efficient proceedings considering organization-wide impact."
+      }
+    ]
+  }
+}

@@ -1,6 +1,7 @@
 class FlashcardApp {
   constructor() {
     this.currentSet = null;
+    this.currentLevel = null;
     this.currentCardIndex = 0;
     this.isFlipped = false;
     this.sets = [];
@@ -19,38 +20,15 @@ class FlashcardApp {
 
   async loadSets() {
     try {
-      // Load only set metadata (fast)
       const configResponse = await fetch('helper/set-metadata.json');
       const config = await configResponse.json();
 
-      // Store metadata only, don't load card data yet
       this.sets = config.sets.map((set) => ({
         filename: set.filename,
         name: set.name,
-        cardCount: set.cardCount,
-        cards: null, // Will be loaded when needed
+        cardCounts: set.cardCounts,
+        levels: null,
       }));
-    } catch (error) {
-      console.error('Failed to load sets configuration:', error);
-      // Fallback to old method if metadata file doesn't exist
-      await this.loadSetsOldWay();
-    }
-  }
-
-  async loadSetsOldWay() {
-    try {
-      const configResponse = await fetch('helper/set-list.json');
-      const config = await configResponse.json();
-
-      for (const fileName of config.sets) {
-        try {
-          const response = await fetch(`card-sets/${fileName}`);
-          const setData = await response.json();
-          this.sets.push(setData);
-        } catch (error) {
-          console.error(`Failed to load card-sets/${fileName}:`, error);
-        }
-      }
     } catch (error) {
       console.error('Failed to load sets configuration:', error);
     }
@@ -58,14 +36,14 @@ class FlashcardApp {
 
   async loadSetCards(setIndex) {
     const set = this.sets[setIndex];
-    if (set.cards) {
-      return; // Already loaded
+    if (set.levels) {
+      return;
     }
 
     try {
       const response = await fetch(`card-sets/${set.filename}`);
       const setData = await response.json();
-      set.cards = setData.cards;
+      set.levels = setData.levels;
     } catch (error) {
       console.error(`Failed to load cards for ${set.filename}:`, error);
     }
@@ -117,26 +95,44 @@ class FlashcardApp {
     const setList = document.getElementById('set-list');
     setList.innerHTML = '';
 
-    // Filter sets based on current level filter
-    const filteredSets = this.sets.filter((set, index) => {
-      if (this.currentLevelFilter === 'all') {
-        return true;
-      }
-      return set.name.includes(`(${this.currentLevelFilter})`);
+    const filteredSets = this.sets.filter((set) => {
+      if (this.currentLevelFilter === 'all') return true;
+      const levelMap = { '初級': 'L1', '中級': 'L2', '上級': 'L3' };
+      return set.cardCounts[levelMap[this.currentLevelFilter]] > 0;
     });
 
     filteredSets.forEach((set) => {
       const originalIndex = this.sets.findIndex((s) => s.name === set.name);
       const setItem = document.createElement('div');
       setItem.className = 'set-item';
-      setItem.textContent = set.name;
-      setItem.addEventListener('click', () => this.startSet(originalIndex));
+      
+      const title = document.createElement('div');
+      title.className = 'set-title';
+      title.textContent = set.name;
+      setItem.appendChild(title);
+      
+      const levels = document.createElement('div');
+      levels.className = 'set-levels';
+      
+      ['L1', 'L2', 'L3'].forEach((level) => {
+        const btn = document.createElement('button');
+        btn.className = `level-select-btn level-${level}`;
+        btn.textContent = level === 'L1' ? '初級' : level === 'L2' ? '中級' : '上級';
+        btn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          this.startSet(originalIndex, level);
+        });
+        levels.appendChild(btn);
+      });
+      
+      setItem.appendChild(levels);
       setList.appendChild(setItem);
     });
   }
 
-  async startSet(setIndex) {
+  async startSet(setIndex, level) {
     this.currentSet = this.sets[setIndex];
+    this.currentLevel = level;
     await this.loadSetCards(setIndex);
 
     this.currentCardIndex = 0;
@@ -145,9 +141,10 @@ class FlashcardApp {
     this.hideAllScreens();
     document.getElementById('card-screen').classList.add('active');
 
-    document.getElementById('set-title').textContent = this.currentSet.name;
+    const levelName = level === 'L1' ? '初級' : level === 'L2' ? '中級' : '上級';
+    document.getElementById('set-title').textContent = `${this.currentSet.name} (${levelName})`;
     document.getElementById('current-card').textContent = 1;
-    document.getElementById('total-cards').textContent = this.currentSet.cards.length;
+    document.getElementById('total-cards').textContent = this.currentSet.levels[level].length;
 
     this.setNormalNavigation();
     this.showCard();
@@ -193,19 +190,19 @@ class FlashcardApp {
   }
 
   showCard() {
-    const card = this.currentSet.cards[this.currentCardIndex];
+    const cards = this.currentSet.levels[this.currentLevel];
+    const card = cards[this.currentCardIndex];
     const cardContent = document.getElementById('card-content');
 
-    // Reset flip state and show Japanese first
     this.isFlipped = false;
     cardContent.innerHTML = `<div>${card.japanese}</div>`;
 
-    // Update favorite star
     this.updateFavoriteStar();
   }
 
   flipCard() {
-    const card = this.currentSet.cards[this.currentCardIndex];
+    const cards = this.currentSet.levels[this.currentLevel];
+    const card = cards[this.currentCardIndex];
     const cardContent = document.getElementById('card-content');
 
     this.isFlipped = !this.isFlipped;
@@ -227,7 +224,8 @@ class FlashcardApp {
   }
 
   nextCard() {
-    if (this.currentCardIndex < this.currentSet.cards.length - 1) {
+    const cards = this.currentSet.levels[this.currentLevel];
+    if (this.currentCardIndex < cards.length - 1) {
       this.currentCardIndex++;
       document.getElementById('current-card').textContent = this.currentCardIndex + 1;
       document.getElementById('prev-btn').disabled = false;
@@ -241,132 +239,42 @@ class FlashcardApp {
     this.hideAllScreens();
     document.getElementById('complete-screen').classList.add('active');
 
-    // Display completed set name
-    document.getElementById('completed-set-name').textContent = `${this.currentSet.name}`;
+    const levelName = this.currentLevel === 'L1' ? '初級' : this.currentLevel === 'L2' ? '中級' : '上級';
+    document.getElementById('completed-set-name').textContent = `${this.currentSet.name} (${levelName})`;
 
     this.renderNavigationLinks();
   }
 
   renderNavigationLinks() {
     const navContainer = document.getElementById('navigation-links');
-    const currentSet = this.currentSet;
-
-    // Parse current set info
-    const currentName = currentSet.name;
-    const match = currentName.match(/^(.+)\((初級|中級|上級)\)$/);
-
-    if (!match) {
-      navContainer.innerHTML = '';
-      return;
-    }
-
-    const baseName = match[1];
-    const currentLevel = match[2];
-
-    // Map level to file suffix
-    const levelMap = { 初級: 'L1', 中級: 'L2', 上級: 'L3' };
-    const currentLevelSuffix = levelMap[currentLevel];
-
-    // Find related sets
-    const relatedSets = this.sets
-      .filter((set, index) => {
-        if (set.name.startsWith(baseName)) {
-          return { set, index };
-        }
-        return null;
-      })
-      .map((item, originalIndex) => {
-        const setIndex = this.sets.findIndex((s) => s.name === item.name);
-        return { set: item, index: setIndex };
-      });
-
-    // Find adjacent theme sets with same level
-    const currentFilename = currentSet.filename || '';
-    const themeMatch = currentFilename.match(/business_(\d+)_(.+)_L\d\.json/);
-
-    let adjacentSets = [];
-    if (themeMatch) {
-      const currentNum = parseInt(themeMatch[1]);
-      const prevNum = String(currentNum - 1).padStart(2, '0');
-      const nextNum = String(currentNum + 1).padStart(2, '0');
-
-      adjacentSets = this.sets
-        .filter((set, index) => {
-          const filename = set.filename || '';
-          const isPrev =
-            filename.includes(`business_${prevNum}_`) &&
-            filename.includes(`_${currentLevelSuffix}.json`);
-          const isNext =
-            filename.includes(`business_${nextNum}_`) &&
-            filename.includes(`_${currentLevelSuffix}.json`);
-          return isPrev || isNext;
-        })
-        .map((set) => {
-          const setIndex = this.sets.findIndex((s) => s.name === set.name);
-          return { set, index: setIndex };
-        });
-    }
-
+    const currentSetIndex = this.sets.findIndex(s => s.name === this.currentSet.name);
+    
     let html = '<h3>関連セット</h3>';
 
-    // Adjacent themes
-    if (adjacentSets.length > 0) {
-      html += '<div class="nav-section">';
-      html += `<h4>他のテーマ (${currentLevel})</h4>`;
-      html += '<div class="theme-nav-links">';
-
-      const currentFilename = currentSet.filename || '';
-      const themeMatch = currentFilename.match(/business_(\d+)_(.+)_L\d\.json/);
-
-      if (themeMatch) {
-        const currentNum = parseInt(themeMatch[1]);
-        const prevNum = String(currentNum - 1).padStart(2, '0');
-        const nextNum = String(currentNum + 1).padStart(2, '0');
-
-        // Find prev and next sets
-        const prevSet = adjacentSets.find(({ set }) => {
-          const filename = set.filename || '';
-          return filename.includes(`business_${prevNum}_`);
-        });
-
-        const nextSet = adjacentSets.find(({ set }) => {
-          const filename = set.filename || '';
-          return filename.includes(`business_${nextNum}_`);
-        });
-
-        if (prevSet) {
-          html += `<button class="theme-nav-btn prev-btn" onclick="app.startSet(${prevSet.index})">前</button>`;
-        }
-        if (nextSet) {
-          html += `<button class="theme-nav-btn next-btn" onclick="app.startSet(${nextSet.index})">次</button>`;
-        }
+    // Other levels
+    html += '<div class="nav-section"><h4>他のレベル</h4><div class="nav-links">';
+    ['L1', 'L2', 'L3'].forEach((level) => {
+      if (level !== this.currentLevel) {
+        const levelName = level === 'L1' ? '初級' : level === 'L2' ? '中級' : '上級';
+        html += `<button class="nav-link" onclick="app.startSet(${currentSetIndex}, '${level}')">${levelName}</button>`;
       }
+    });
+    html += '</div></div>';
 
-      html += '</div></div>';
+    // Adjacent themes
+    if (currentSetIndex > 0) {
+      html += `<button class="theme-nav-btn prev-btn" onclick="app.startSet(${currentSetIndex - 1}, '${this.currentLevel}')">前のテーマ</button>`;
     }
-
-    // Level navigation
-    if (relatedSets.length > 1) {
-      html += '<div class="nav-section">';
-      html += '<h4>他のレベル</h4>';
-      html += '<div class="nav-links">';
-
-      relatedSets.forEach(({ set, index }) => {
-        const levelMatch = set.name.match(/\((初級|中級|上級)\)$/);
-        const level = levelMatch ? levelMatch[1] : '';
-        if (level && level !== currentLevel) {
-          html += `<button class="nav-link" onclick="app.startSet(${index})">${level}</button>`;
-        }
-      });
-
-      html += '</div></div>';
+    if (currentSetIndex < this.sets.length - 1) {
+      html += `<button class="theme-nav-btn next-btn" onclick="app.startSet(${currentSetIndex + 1}, '${this.currentLevel}')">次のテーマ</button>`;
     }
 
     navContainer.innerHTML = html;
   }
 
   backToCards() {
-    this.currentCardIndex = this.currentSet.cards.length - 1;
+    const cards = this.currentSet.levels[this.currentLevel];
+    this.currentCardIndex = cards.length - 1;
     this.isFlipped = false;
     this.hideAllScreens();
     document.getElementById('card-screen').classList.add('active');
@@ -389,7 +297,7 @@ class FlashcardApp {
   }
 
   getCardId() {
-    return `${this.currentSet.name}|${this.currentCardIndex}`;
+    return `${this.currentSet.name}|${this.currentLevel}|${this.currentCardIndex}`;
   }
 
   toggleFavorite() {
@@ -402,6 +310,7 @@ class FlashcardApp {
       this.favorites.push({
         id: cardId,
         setName: this.currentSet.name,
+        level: this.currentLevel,
         setIndex: this.sets.findIndex((s) => s.name === this.currentSet.name),
         cardIndex: this.currentCardIndex,
         timestamp: Date.now(),
@@ -436,13 +345,15 @@ class FlashcardApp {
     for (const fav of this.favorites) {
       await this.loadSetCards(fav.setIndex);
       const set = this.sets[fav.setIndex];
-      const card = set.cards[fav.cardIndex];
+      const card = set.levels[fav.level][fav.cardIndex];
+      
+      const levelName = fav.level === 'L1' ? '初級' : fav.level === 'L2' ? '中級' : '上級';
 
       const item = document.createElement('div');
       item.className = 'favorite-item';
       item.innerHTML = `
         <div class="favorite-content">
-          <div class="favorite-set">${fav.setName}</div>
+          <div class="favorite-set">${fav.setName} (${levelName})</div>
           <div class="favorite-text">${card.japanese}</div>
         </div>
       `;
@@ -454,13 +365,15 @@ class FlashcardApp {
   async openFavoriteCard(fav) {
     await this.loadSetCards(fav.setIndex);
     this.currentSet = this.sets[fav.setIndex];
+    this.currentLevel = fav.level;
     this.currentCardIndex = fav.cardIndex;
     this.isFlipped = false;
 
     this.hideAllScreens();
     document.getElementById('card-screen').classList.add('active');
 
-    document.getElementById('set-title').textContent = this.currentSet.name;
+    const levelName = fav.level === 'L1' ? '初級' : fav.level === 'L2' ? '中級' : '上級';
+    document.getElementById('set-title').textContent = `${this.currentSet.name} (${levelName})`;
 
     const currentFavIndex = this.favorites.findIndex((f) => f.id === fav.id);
 

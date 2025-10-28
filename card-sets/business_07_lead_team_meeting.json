@@ -1,0 +1,107 @@
+{
+  "name": "チーム会議を主導する",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "会議を始めましょう。",
+        "english": "Let's start the meeting."
+      },
+      {
+        "japanese": "今日の議題です。",
+        "english": "Here's today's agenda."
+      },
+      {
+        "japanese": "意見を聞かせてください。",
+        "english": "Please share your opinions."
+      },
+      {
+        "japanese": "質問はありますか？",
+        "english": "Any questions?"
+      },
+      {
+        "japanese": "次に進みましょう。",
+        "english": "Let's move on."
+      },
+      {
+        "japanese": "決めましょう。",
+        "english": "Let's decide."
+      },
+      {
+        "japanese": "時間がありません。",
+        "english": "We don't have time."
+      },
+      {
+        "japanese": "会議を終わります。",
+        "english": "Let's end the meeting."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "効率的な会議進行を心がけましょう。",
+        "english": "Let's focus on efficient meeting management."
+      },
+      {
+        "japanese": "各チームメンバーからの報告をお願いします。",
+        "english": "Please provide reports from each team member."
+      },
+      {
+        "japanese": "建設的な議論を促進しましょう。",
+        "english": "Let's facilitate constructive discussion."
+      },
+      {
+        "japanese": "課題の優先順位を決める必要があります。",
+        "english": "We need to prioritize the issues."
+      },
+      {
+        "japanese": "アクションアイテムを明確にしましょう。",
+        "english": "Let's clarify the action items."
+      },
+      {
+        "japanese": "責任者と期限を設定します。",
+        "english": "We'll assign responsibilities and deadlines."
+      },
+      {
+        "japanese": "進捗状況を定期的に確認しましょう。",
+        "english": "Let's check progress regularly."
+      },
+      {
+        "japanese": "次回までの宿題を整理します。",
+        "english": "We'll organize homework for next time."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "戦略的目標達成に向けたチーム会議を主導いたします。",
+        "english": "I'll lead the team meeting toward achieving strategic objectives."
+      },
+      {
+        "japanese": "多様な視点を統合し、革新的な解決策を創出しましょう。",
+        "english": "Let's integrate diverse perspectives and create innovative solutions."
+      },
+      {
+        "japanese": "組織横断的な協力体制の構築が不可欠です。",
+        "english": "Building cross-organizational cooperation is essential."
+      },
+      {
+        "japanese": "データドリブンな意思決定プロセスを確立しましょう。",
+        "english": "Let's establish data-driven decision-making processes."
+      },
+      {
+        "japanese": "チームの自律性とアカウンタビリティを向上させます。",
+        "english": "We'll enhance team autonomy and accountability."
+      },
+      {
+        "japanese": "継続的改善の文化を醸成することが重要です。",
+        "english": "Fostering a culture of continuous improvement is crucial."
+      },
+      {
+        "japanese": "ステークホルダーとの戦略的整合性を確保しましょう。",
+        "english": "Let's ensure strategic alignment with stakeholders."
+      },
+      {
+        "japanese": "組織学習能力の向上を通じて競争優位性を構築します。",
+        "english": "We'll build competitive advantage through enhanced organizational learning capabilities."
+      }
+    ]
+  }
+}

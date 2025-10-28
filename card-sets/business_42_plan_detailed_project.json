@@ -1,0 +1,107 @@
+{
+  "name": "詳細なプロジェクト設計を立てる",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "詳しい計画を立てましょう。",
+        "english": "Let's make a detailed plan."
+      },
+      {
+        "japanese": "何をしますか？",
+        "english": "What will we do?"
+      },
+      {
+        "japanese": "いつまでですか？",
+        "english": "By when?"
+      },
+      {
+        "japanese": "誰が担当しますか？",
+        "english": "Who will be in charge?"
+      },
+      {
+        "japanese": "予算はいくらですか？",
+        "english": "What's the budget?"
+      },
+      {
+        "japanese": "ステップを決めましょう。",
+        "english": "Let's decide the steps."
+      },
+      {
+        "japanese": "資料を準備します。",
+        "english": "We'll prepare materials."
+      },
+      {
+        "japanese": "確認しましょう。",
+        "english": "Let's confirm."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "包括的なプロジェクト設計を策定しましょう。",
+        "english": "Let's develop comprehensive project design."
+      },
+      {
+        "japanese": "作業分解構造を詳細に定義する必要があります。",
+        "english": "We need to define work breakdown structure in detail."
+      },
+      {
+        "japanese": "リソース配分計画を最適化しましょう。",
+        "english": "Let's optimize resource allocation plans."
+      },
+      {
+        "japanese": "品質基準と成果物を明確に設定します。",
+        "english": "We'll clearly set quality standards and deliverables."
+      },
+      {
+        "japanese": "リスク管理計画を統合する必要があります。",
+        "english": "We need to integrate risk management plans."
+      },
+      {
+        "japanese": "ステークホルダーとの調整を図りましょう。",
+        "english": "Let's coordinate with stakeholders."
+      },
+      {
+        "japanese": "進捗監視システムを構築します。",
+        "english": "We'll build progress monitoring systems."
+      },
+      {
+        "japanese": "変更管理プロセスを確立しましょう。",
+        "english": "Let's establish change management processes."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "戦略的目標と整合した高度なプロジェクト設計フレームワークを構築します。",
+        "english": "We'll build advanced project design frameworks aligned with strategic objectives."
+      },
+      {
+        "japanese": "複雑性科学の原理を応用した適応的プロジェクト構造の設計が重要です。",
+        "english": "Designing adaptive project structures applying complexity science principles is crucial."
+      },
+      {
+        "japanese": "AI技術を活用した動的リソース最適化システムを統合しましょう。",
+        "english": "Let's integrate dynamic resource optimization systems leveraging AI technology."
+      },
+      {
+        "japanese": "多様なステークホルダーの価値創造を最大化するプロジェクト設計を実現する必要があります。",
+        "english": "We need to achieve project designs that maximize value creation for diverse stakeholders."
+      },
+      {
+        "japanese": "持続可能性とイノベーション創出を両立させる統合的設計手法を確立します。",
+        "english": "We'll establish integrated design methodologies that balance sustainability and innovation creation."
+      },
+      {
+        "japanese": "不確実性の高い環境における確率的プロジェクト計画手法を実践しましょう。",
+        "english": "Let's practice probabilistic project planning methodologies in highly uncertain environments."
+      },
+      {
+        "japanese": "グローバル分散チームの協働を最適化するデジタルプロジェクト基盤を構築します。",
+        "english": "We'll build digital project foundations that optimize collaboration among globally distributed teams."
+      },
+      {
+        "japanese": "長期的価値創造に向けた戦略的プロジェクトポートフォリオ設計を実現します。",
+        "english": "We'll achieve strategic project portfolio design for long-term value creation."
+      }
+    ]
+  }
+}

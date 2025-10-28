@@ -1,0 +1,107 @@
+{
+  "name": "組織改革の課題を共有する",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "問題があります。",
+        "english": "We have a problem."
+      },
+      {
+        "japanese": "変化が必要です。",
+        "english": "We need change."
+      },
+      {
+        "japanese": "古いやり方です。",
+        "english": "It's an old way."
+      },
+      {
+        "japanese": "新しいシステムが必要です。",
+        "english": "We need a new system."
+      },
+      {
+        "japanese": "効率が悪いです。",
+        "english": "It's inefficient."
+      },
+      {
+        "japanese": "改善しましょう。",
+        "english": "Let's improve."
+      },
+      {
+        "japanese": "計画を立てます。",
+        "english": "We'll make a plan."
+      },
+      {
+        "japanese": "協力が必要です。",
+        "english": "We need cooperation."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "構造的な課題について議論する必要があります。",
+        "english": "We need to discuss structural challenges."
+      },
+      {
+        "japanese": "組織変革の必要性が高まっています。",
+        "english": "The need for organizational transformation is increasing."
+      },
+      {
+        "japanese": "現在のプロセスには限界があります。",
+        "english": "Current processes have limitations."
+      },
+      {
+        "japanese": "デジタル化への対応が急務です。",
+        "english": "Responding to digitalization is urgent."
+      },
+      {
+        "japanese": "業務効率の向上が課題となっています。",
+        "english": "Improving operational efficiency is a challenge."
+      },
+      {
+        "japanese": "変革管理の戦略を策定しましょう。",
+        "english": "Let's develop a change management strategy."
+      },
+      {
+        "japanese": "段階的な実装計画が重要です。",
+        "english": "A phased implementation plan is important."
+      },
+      {
+        "japanese": "全社的な協力体制が不可欠です。",
+        "english": "Company-wide cooperation is essential."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "組織のレジリエンス強化に向けた根本的な構造改革が必要です。",
+        "english": "Fundamental structural reform is needed to strengthen organizational resilience."
+      },
+      {
+        "japanese": "デジタルトランスフォーメーションにおける文化的変革の重要性を認識すべきです。",
+        "english": "We should recognize the importance of cultural transformation in digital transformation."
+      },
+      {
+        "japanese": "既存のサイロ化された組織構造が革新を阻害している現状があります。",
+        "english": "The current siloed organizational structure is hindering innovation."
+      },
+      {
+        "japanese": "アジャイルな組織運営への移行には包括的なケイパビリティ開発が不可欠です。",
+        "english": "Transitioning to agile organizational management requires comprehensive capability development."
+      },
+      {
+        "japanese": "ステークホルダーの多様な期待に応える適応的な組織設計が求められています。",
+        "english": "Adaptive organizational design that meets diverse stakeholder expectations is required."
+      },
+      {
+        "japanese": "変革抵抗の克服には心理的安全性の確保と透明性の向上が重要です。",
+        "english": "Overcoming resistance to change requires ensuring psychological safety and improving transparency."
+      },
+      {
+        "japanese": "持続可能な変革には組織学習能力の体系的な強化が必要です。",
+        "english": "Sustainable transformation requires systematic strengthening of organizational learning capabilities."
+      },
+      {
+        "japanese": "戦略的整合性を保ちながら、組織の動的能力を向上させることが課題です。",
+        "english": "The challenge is to improve organizational dynamic capabilities while maintaining strategic alignment."
+      }
+    ]
+  }
+}

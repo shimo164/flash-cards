@@ -1,0 +1,107 @@
+{
+  "name": "顧客調査の実施",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "顧客に聞きましょう。",
+        "english": "Let's ask customers."
+      },
+      {
+        "japanese": "アンケートを作ります。",
+        "english": "We'll create a survey."
+      },
+      {
+        "japanese": "意見を聞かせてください。",
+        "english": "Please share your opinion."
+      },
+      {
+        "japanese": "満足していますか？",
+        "english": "Are you satisfied?"
+      },
+      {
+        "japanese": "何が欲しいですか？",
+        "english": "What do you want?"
+      },
+      {
+        "japanese": "改善点はありますか？",
+        "english": "Are there any improvements?"
+      },
+      {
+        "japanese": "データを集めましょう。",
+        "english": "Let's collect data."
+      },
+      {
+        "japanese": "結果を分析します。",
+        "english": "We'll analyze the results."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "包括的な顧客調査を実施しましょう。",
+        "english": "Let's conduct comprehensive customer research."
+      },
+      {
+        "japanese": "定量的・定性的データの両方を収集します。",
+        "english": "We'll collect both quantitative and qualitative data."
+      },
+      {
+        "japanese": "顧客セグメント別の分析が重要です。",
+        "english": "Analysis by customer segment is important."
+      },
+      {
+        "japanese": "ユーザージャーニーマップを作成しましょう。",
+        "english": "Let's create user journey maps."
+      },
+      {
+        "japanese": "インタビューとアンケートを組み合わせます。",
+        "english": "We'll combine interviews and surveys."
+      },
+      {
+        "japanese": "顧客の潜在ニーズを発見する必要があります。",
+        "english": "We need to discover customers' latent needs."
+      },
+      {
+        "japanese": "競合他社との比較分析を行いましょう。",
+        "english": "Let's conduct comparative analysis with competitors."
+      },
+      {
+        "japanese": "調査結果を戦略に反映させます。",
+        "english": "We'll reflect research results in our strategy."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "高度な分析手法を活用した顧客インサイトの深化が競争優位の源泉となります。",
+        "english": "Deepening customer insights using advanced analytical methods becomes a source of competitive advantage."
+      },
+      {
+        "japanese": "AI技術とビッグデータを統合した予測的顧客行動分析を実践しましょう。",
+        "english": "Let's practice predictive customer behavior analysis integrating AI technology and big data."
+      },
+      {
+        "japanese": "エスノグラフィー手法による文化的コンテクストの理解が重要です。",
+        "english": "Understanding cultural context through ethnographic methods is crucial."
+      },
+      {
+        "japanese": "リアルタイム顧客フィードバックシステムの構築により、動的な価値創造を実現します。",
+        "english": "We'll achieve dynamic value creation by building real-time customer feedback systems."
+      },
+      {
+        "japanese": "多様なタッチポイントにおける顧客体験の統合的最適化を図る必要があります。",
+        "english": "We need to achieve integrated optimization of customer experience across diverse touchpoints."
+      },
+      {
+        "japanese": "行動経済学の原理を応用した顧客心理の深層理解を追求しましょう。",
+        "english": "Let's pursue deep understanding of customer psychology applying behavioral economics principles."
+      },
+      {
+        "japanese": "グローバル市場における文化的多様性を考慮した調査設計が不可欠です。",
+        "english": "Research design considering cultural diversity in global markets is essential."
+      },
+      {
+        "japanese": "持続可能な顧客関係構築に向けた長期的価値共創モデルを開発します。",
+        "english": "We'll develop long-term value co-creation models for building sustainable customer relationships."
+      }
+    ]
+  }
+}

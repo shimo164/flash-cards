@@ -1,0 +1,107 @@
+{
+  "name": "話題を切り替える表現",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "次の話題に移りましょう。",
+        "english": "Let's move to the next topic."
+      },
+      {
+        "japanese": "別の件ですが。",
+        "english": "On another matter."
+      },
+      {
+        "japanese": "ところで。",
+        "english": "By the way."
+      },
+      {
+        "japanese": "話は変わりますが。",
+        "english": "Changing the subject."
+      },
+      {
+        "japanese": "次に。",
+        "english": "Next."
+      },
+      {
+        "japanese": "それでは。",
+        "english": "Well then."
+      },
+      {
+        "japanese": "続いて。",
+        "english": "Following that."
+      },
+      {
+        "japanese": "最後に。",
+        "english": "Finally."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "この件については以上です。次の議題に移りましょう。",
+        "english": "That's all for this matter. Let's move to the next agenda item."
+      },
+      {
+        "japanese": "関連する話題として、別の重要な点があります。",
+        "english": "As a related topic, there's another important point."
+      },
+      {
+        "japanese": "視点を変えて、別の角度から検討してみましょう。",
+        "english": "Let's change perspective and consider from a different angle."
+      },
+      {
+        "japanese": "この話題から発展して、次の課題について議論します。",
+        "english": "Developing from this topic, we'll discuss the next issue."
+      },
+      {
+        "japanese": "時間の関係で、次の重要な項目に進みたいと思います。",
+        "english": "Due to time constraints, I'd like to proceed to the next important item."
+      },
+      {
+        "japanese": "この点については後ほど詳しく検討し、今は次に進みましょう。",
+        "english": "We'll examine this point in detail later, for now let's proceed to the next."
+      },
+      {
+        "japanese": "同様に重要な別の課題について触れたいと思います。",
+        "english": "I'd like to touch on another equally important issue."
+      },
+      {
+        "japanese": "最後の議題として、将来の計画について話し合いましょう。",
+        "english": "As the final agenda item, let's discuss future plans."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "この戦略的課題の検討を踏まえ、次の重要な論点に議論を発展させましょう。",
+        "english": "Building on our examination of this strategic issue, let's develop the discussion to the next crucial point."
+      },
+      {
+        "japanese": "多角的な分析の観点から、関連する別の重要な側面について検討する必要があります。",
+        "english": "From a multifaceted analysis perspective, we need to examine another important related aspect."
+      },
+      {
+        "japanese": "この議論の文脈において、より広範な戦略的含意について考察を深めたいと思います。",
+        "english": "In the context of this discussion, I'd like to deepen our consideration of broader strategic implications."
+      },
+      {
+        "japanese": "包括的な理解を深めるため、異なる視点からの洞察を統合して次の段階に進みましょう。",
+        "english": "To deepen comprehensive understanding, let's integrate insights from different perspectives and proceed to the next stage."
+      },
+      {
+        "japanese": "この重要な論点を基盤として、組織全体への影響について戦略的に検討いたします。",
+        "english": "Using this important point as a foundation, we'll strategically examine the impact on the entire organization."
+      },
+      {
+        "japanese": "時間的制約を考慮しつつ、最も重要な戦略的優先事項に焦点を移したいと思います。",
+        "english": "Considering time constraints, I'd like to shift focus to the most important strategic priorities."
+      },
+      {
+        "japanese": "この分析結果を踏まえ、長期的価値創造の観点から次の重要な課題を検討しましょう。",
+        "english": "Based on these analysis results, let's examine the next important challenge from a long-term value creation perspective."
+      },
+      {
+        "japanese": "議論の総括として、持続可能な競争優位性確立に向けた統合的アプローチについて検討いたします。",
+        "english": "As a summary of our discussion, we'll examine integrated approaches toward establishing sustainable competitive advantage."
+      }
+    ]
+  }
+}

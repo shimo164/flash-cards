@@ -1,0 +1,107 @@
+{
+  "name": "会議をまとめて終える",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "会議を終わります。",
+        "english": "Let's end the meeting."
+      },
+      {
+        "japanese": "お疲れ様でした。",
+        "english": "Thank you for your hard work."
+      },
+      {
+        "japanese": "まとめましょう。",
+        "english": "Let's summarize."
+      },
+      {
+        "japanese": "決まったことを確認します。",
+        "english": "Let's confirm what we decided."
+      },
+      {
+        "japanese": "次回は来週です。",
+        "english": "Next time is next week."
+      },
+      {
+        "japanese": "ありがとうございました。",
+        "english": "Thank you very much."
+      },
+      {
+        "japanese": "宿題があります。",
+        "english": "We have homework."
+      },
+      {
+        "japanese": "また会いましょう。",
+        "english": "See you again."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "それでは会議をまとめさせていただきます。",
+        "english": "Let me summarize the meeting."
+      },
+      {
+        "japanese": "本日は貴重なお時間をありがとうございました。",
+        "english": "Thank you for your valuable time today."
+      },
+      {
+        "japanese": "決定事項を整理いたします。",
+        "english": "Let me organize the decisions made."
+      },
+      {
+        "japanese": "アクションアイテムを確認しましょう。",
+        "english": "Let's confirm the action items."
+      },
+      {
+        "japanese": "次回の会議は来月の予定です。",
+        "english": "The next meeting is scheduled for next month."
+      },
+      {
+        "japanese": "議事録は後日共有いたします。",
+        "english": "Meeting minutes will be shared later."
+      },
+      {
+        "japanese": "フォローアップが必要な項目があります。",
+        "english": "There are items that need follow-up."
+      },
+      {
+        "japanese": "有意義な議論をありがとうございました。",
+        "english": "Thank you for the meaningful discussion."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "本日の戦略的議論を総括し、会議を終了させていただきます。",
+        "english": "Let me conclude today's strategic discussions and close the meeting."
+      },
+      {
+        "japanese": "皆様の建設的なご参加により、重要な合意形成が実現できました。",
+        "english": "Your constructive participation has enabled us to reach important consensus."
+      },
+      {
+        "japanese": "決定事項の実行責任者と期限を明確化いたします。",
+        "english": "We'll clarify implementation responsibilities and deadlines for decisions made."
+      },
+      {
+        "japanese": "戦略的優先順位に基づくアクションプランを策定いたします。",
+        "english": "We'll develop action plans based on strategic priorities."
+      },
+      {
+        "japanese": "次回会議では進捗状況の詳細な評価を実施いたします。",
+        "english": "We'll conduct detailed progress evaluation at the next meeting."
+      },
+      {
+        "japanese": "包括的な議事録と関連資料を速やかに配布いたします。",
+        "english": "We'll promptly distribute comprehensive meeting minutes and related materials."
+      },
+      {
+        "japanese": "継続的なモニタリングと適時の軌道修正を実施してまいります。",
+        "english": "We'll implement continuous monitoring and timely course corrections."
+      },
+      {
+        "japanese": "組織目標達成に向けた重要な一歩を踏み出すことができました。",
+        "english": "We've taken an important step toward achieving our organizational objectives."
+      }
+    ]
+  }
+}

@@ -109,15 +109,58 @@ h2 {
   background: white;
   padding: 10px;
   border-radius: 15px;
-  cursor: pointer;
   transition: all 0.3s ease;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-  font-size: 18px;
-  font-weight: 500;
 }
 
 .set-item:hover {
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+.set-title {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.set-levels {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.level-select-btn {
+  flex: 1;
+  background: #4f6bcd;
+  color: white;
+  border: none;
+  padding: 5px 16px;
+  border-radius: 12px;
+  font-size: 12px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.level-select-btn.level-L1 {
+  background: #c8f5c8;
+  color: #2d5016;
+}
+
+.level-select-btn.level-L2 {
+  background: #fffacd;
+  color: #6b5e00;
+}
+
+.level-select-btn.level-L3 {
+  background: #ffd9d9;
+  color: #8b0000;
+}
+
+.level-select-btn:hover {
+  transform: translateY(-1px);
+  filter: brightness(0.95);
 }
 
 .header {

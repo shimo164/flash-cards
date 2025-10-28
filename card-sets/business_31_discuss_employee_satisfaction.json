@@ -1,0 +1,107 @@
+{
+  "name": "従業員の意識や満足度を話し合う",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "仕事は楽しいですか？",
+        "english": "Do you enjoy your work?"
+      },
+      {
+        "japanese": "満足していますか？",
+        "english": "Are you satisfied?"
+      },
+      {
+        "japanese": "何か問題がありますか？",
+        "english": "Are there any problems?"
+      },
+      {
+        "japanese": "改善したいことはありますか？",
+        "english": "Is there anything you'd like to improve?"
+      },
+      {
+        "japanese": "チームワークはどうですか？",
+        "english": "How is the teamwork?"
+      },
+      {
+        "japanese": "上司との関係はいいですか？",
+        "english": "Is your relationship with your boss good?"
+      },
+      {
+        "japanese": "給料に満足ですか？",
+        "english": "Are you satisfied with your salary?"
+      },
+      {
+        "japanese": "意見を聞かせてください。",
+        "english": "Please share your opinion."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "職場環境についてどのように感じていますか？",
+        "english": "How do you feel about the work environment?"
+      },
+      {
+        "japanese": "エンゲージメントレベルを向上させる方法を検討しましょう。",
+        "english": "Let's consider ways to improve engagement levels."
+      },
+      {
+        "japanese": "キャリア開発の機会について話し合いましょう。",
+        "english": "Let's discuss career development opportunities."
+      },
+      {
+        "japanese": "ワークライフバランスの改善が必要ですか？",
+        "english": "Do we need to improve work-life balance?"
+      },
+      {
+        "japanese": "コミュニケーションの課題はありますか？",
+        "english": "Are there any communication challenges?"
+      },
+      {
+        "japanese": "モチベーション向上のための提案をお聞かせください。",
+        "english": "Please share suggestions for improving motivation."
+      },
+      {
+        "japanese": "福利厚生制度についてご意見をください。",
+        "english": "Please give your opinion on the benefits system."
+      },
+      {
+        "japanese": "組織文化の改善点を教えてください。",
+        "english": "Please tell us about areas for improving organizational culture."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "従業員エンゲージメントの包括的な評価指標を確立する必要があります。",
+        "english": "We need to establish comprehensive evaluation metrics for employee engagement."
+      },
+      {
+        "japanese": "組織コミットメントと個人の価値観の整合性を図ることが重要です。",
+        "english": "Aligning organizational commitment with individual values is crucial."
+      },
+      {
+        "japanese": "心理的安全性の確保が創造性とイノベーションの基盤となります。",
+        "english": "Ensuring psychological safety forms the foundation for creativity and innovation."
+      },
+      {
+        "japanese": "多様性とインクルージョンの推進が組織力強化に直結します。",
+        "english": "Promoting diversity and inclusion directly contributes to organizational strength."
+      },
+      {
+        "japanese": "内発的動機の向上が持続可能な高パフォーマンスを実現します。",
+        "english": "Enhancing intrinsic motivation achieves sustainable high performance."
+      },
+      {
+        "japanese": "組織学習能力の向上が競争優位性の源泉となります。",
+        "english": "Improving organizational learning capabilities becomes a source of competitive advantage."
+      },
+      {
+        "japanese": "従業員の自律性とエンパワーメントが組織の適応力を高めます。",
+        "english": "Employee autonomy and empowerment enhance organizational adaptability."
+      },
+      {
+        "japanese": "戦略的人材マネジメントによる価値創造の最大化を目指します。",
+        "english": "We aim to maximize value creation through strategic human resource management."
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "name": "経営戦略を検討する会議",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "戦略を話し合いましょう。",
+        "english": "Let's discuss strategy."
+      },
+      {
+        "japanese": "計画が必要です。",
+        "english": "We need a plan."
+      },
+      {
+        "japanese": "目標を決めましょう。",
+        "english": "Let's set goals."
+      },
+      {
+        "japanese": "予算はどうですか？",
+        "english": "How about the budget?"
+      },
+      {
+        "japanese": "競合他社を調べましょう。",
+        "english": "Let's research competitors."
+      },
+      {
+        "japanese": "市場を分析します。",
+        "english": "We'll analyze the market."
+      },
+      {
+        "japanese": "リスクがあります。",
+        "english": "There are risks."
+      },
+      {
+        "japanese": "成功の可能性は？",
+        "english": "What's the chance of success?"
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "長期的な戦略について検討しましょう。",
+        "english": "Let's consider long-term strategy."
+      },
+      {
+        "japanese": "市場分析の結果を共有します。",
+        "english": "I'll share the market analysis results."
+      },
+      {
+        "japanese": "競合優位性を確立する必要があります。",
+        "english": "We need to establish competitive advantage."
+      },
+      {
+        "japanese": "投資収益率を検討しましょう。",
+        "english": "Let's consider return on investment."
+      },
+      {
+        "japanese": "リスク管理戦略が重要です。",
+        "english": "Risk management strategy is important."
+      },
+      {
+        "japanese": "ステークホルダーの期待を考慮します。",
+        "english": "We'll consider stakeholder expectations."
+      },
+      {
+        "japanese": "実行可能性を評価しましょう。",
+        "english": "Let's evaluate feasibility."
+      },
+      {
+        "japanese": "段階的な実装計画を立てます。",
+        "english": "We'll create a phased implementation plan."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "持続可能な競争優位性の構築に向けた包括的戦略を策定します。",
+        "english": "We'll develop comprehensive strategies for building sustainable competitive advantage."
+      },
+      {
+        "japanese": "マクロ経済環境の変化を踏まえた戦略的適応が必要です。",
+        "english": "Strategic adaptation considering macroeconomic environmental changes is necessary."
+      },
+      {
+        "japanese": "デジタルトランスフォーメーションを核とした事業変革を推進します。",
+        "english": "We'll promote business transformation centered on digital transformation."
+      },
+      {
+        "japanese": "ステークホルダー価値の最大化と社会的責任の両立を図ります。",
+        "english": "We'll achieve both stakeholder value maximization and social responsibility."
+      },
+      {
+        "japanese": "イノベーション創出のためのエコシステム構築が不可欠です。",
+        "english": "Building an ecosystem for innovation creation is essential."
+      },
+      {
+        "japanese": "グローバル市場での戦略的ポジショニングを再定義しましょう。",
+        "english": "Let's redefine strategic positioning in global markets."
+      },
+      {
+        "japanese": "組織能力の向上と戦略実行力の強化を同時に進めます。",
+        "english": "We'll simultaneously advance organizational capability improvement and strategic execution enhancement."
+      },
+      {
+        "japanese": "長期的価値創造に向けた投資配分の最適化を検討します。",
+        "english": "We'll consider optimizing investment allocation for long-term value creation."
+      }
+    ]
+  }
+}
