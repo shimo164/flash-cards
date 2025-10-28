@@ -66,6 +66,16 @@ class FlashcardApp {
       this.toggleFavorite();
     });
 
+    // Hamburger menu
+    document.getElementById('hamburger-menu').addEventListener('click', (e) => {
+      e.stopPropagation();
+      document.getElementById('dropdown-menu').classList.toggle('active');
+    });
+    
+    document.addEventListener('click', () => {
+      document.getElementById('dropdown-menu').classList.remove('active');
+    });
+
     // Level filter buttons
     document.querySelectorAll('.level-btn').forEach((btn) => {
       btn.addEventListener('click', (e) => this.setLevelFilter(e.target.dataset.level));
