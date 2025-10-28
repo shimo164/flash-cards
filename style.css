@@ -6,16 +6,10 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  /* background: #4a5bb8; */
-  /* background: #6b7ce8; */
-  /* background: #3d4a9f; */
-  /* background: #5d5fcd;  */
-  /* TODO: remove these color candidates*/
   background: #4f6bcd;
   min-height: 100vh;
   min-height: 100dvh;
   min-height: 100svh;
-
   display: flex;
   align-items: center;
   justify-content: center;
@@ -44,30 +38,20 @@ h2 {
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
+/* Menu Screen */
+#message-screen {
+  color: white;
+}
+
+#message-screen p {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
 .level-filter {
   margin-bottom: 15px;
   text-align: center;
   color: white;
-}
-
-.favorites-link {
-  margin-bottom: 15px;
-  text-align: center;
-}
-
-.favorites-btn {
-  background: rgba(255, 255, 255, 0.3);
-  border: 1px solid rgba(255, 255, 255, 0.4);
-  color: white;
-  padding: 10px 20px;
-  border-radius: 20px;
-  font-size: 16px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-
-.favorites-btn:hover {
-  background: rgba(255, 255, 255, 0.4);
 }
 
 .level-filter span {
@@ -96,10 +80,30 @@ h2 {
   background: rgba(255, 255, 255, 0.4);
   border-color: rgba(255, 255, 255, 0.6);
   border-width: 2px;
-  border-style: solid;
   font-weight: bold;
 }
 
+.favorites-link {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.favorites-btn {
+  background: rgba(255, 255, 255, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.favorites-btn:hover {
+  background: rgba(255, 255, 255, 0.4);
+}
+
+/* Set List */
 .set-list {
   display: flex;
   flex-direction: column;
@@ -134,9 +138,9 @@ h2 {
 
 .level-select-btn {
   flex: 1;
-  background: #4f6bcd;
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.3);
   color: white;
-  border: none;
   padding: 5px 16px;
   border-radius: 12px;
   font-size: 12px;
@@ -144,26 +148,34 @@ h2 {
   transition: all 0.2s ease;
 }
 
-.level-select-btn.level-L1 {
-  background: #c8f5c8;
-  color: #2d5016;
-}
-
-.level-select-btn.level-L2 {
-  background: #fffacd;
-  color: #6b5e00;
-}
-
-.level-select-btn.level-L3 {
-  background: #ffd9d9;
-  color: #8b0000;
-}
-
 .level-select-btn:hover {
   transform: translateY(-1px);
   filter: brightness(0.95);
 }
 
+/* Level Colors */
+.level-select-btn.level-L1,
+.nav-link.level-L1 {
+  background: #c8f5c8;
+  color: #2d5016;
+  border-color: #90ee90;
+}
+
+.level-select-btn.level-L2,
+.nav-link.level-L2 {
+  background: #fffacd;
+  color: #6b5e00;
+  border-color: #fff59d;
+}
+
+.level-select-btn.level-L3,
+.nav-link.level-L3 {
+  background: #ffd9d9;
+  color: #8b0000;
+  border-color: #ffb3b3;
+}
+
+/* Card Screen */
 .header {
   margin-bottom: 5px;
   color: white;
@@ -190,23 +202,14 @@ h2 {
   border: 1px solid rgba(255, 255, 255, 0.3);
   color: white;
   padding: 8px 16px;
-  border-radius: 15px;
+  border-radius: 20px;
   font-size: 14px;
   cursor: pointer;
   transition: all 0.3s ease;
 }
 
-.menu-from-set {
-  display: flex;
-  align-items: right;
-  margin-bottom: 5px;
-  color: white;
-  font-size: 18px;
-  font-weight: 500;
-}
-
 .card-container {
-  margin-bottom: 30px;
+  margin-bottom: 15px;
   perspective: 1000px;
 }
 
@@ -222,27 +225,6 @@ h2 {
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
   transition: transform 0.2s ease;
   position: relative;
-}
-
-.favorite-star {
-  position: absolute;
-  top: 8px; /* star size height: 42, width: 28 */
-  right: 15px;
-  font-size: 28px;
-  background: none;
-  border: none;
-  cursor: pointer;
-  color: #b0b0b0;
-  transition: all 0.2s ease;
-  z-index: 10;
-}
-
-.favorite-star:hover {
-  transform: scale(1.2);
-}
-
-.favorite-star.active {
-  color: #ffd700;
 }
 
 .card:active {
@@ -264,15 +246,36 @@ h2 {
   font-size: 12px;
   line-height: 1.4;
   text-align: center;
-  /* put bottom of .card */
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 
+.favorite-star {
+  position: absolute;
+  top: 8px;
+  right: 15px;
+  font-size: 28px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #b0b0b0;
+  transition: all 0.2s ease;
+  z-index: 10;
+}
+
+.favorite-star:hover {
+  transform: scale(1.2);
+}
+
+.favorite-star.active {
+  color: #ffd700;
+}
+
+/* Controls */
 .controls {
   display: flex;
-  gap: 20px;
+  gap: 10px;
   justify-content: center;
 }
 
@@ -290,6 +293,12 @@ h2 {
   height: 54px;
 }
 
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+}
+
 #prev-btn {
   width: 100px;
   font-size: 14px;
@@ -300,20 +309,7 @@ h2 {
   font-size: 16px;
 }
 
-.btn:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-  transform: none;
-}
-
-#message-screen {
-  color: white;
-}
-#message-screen p {
-  font-size: 18px;
-  margin-bottom: 10px;
-}
-
+/* Complete Screen */
 #complete-screen {
   color: white;
 }
@@ -345,12 +341,6 @@ h2 {
   margin-bottom: 20px;
 }
 
-.nav-section h4 {
-  margin-bottom: 10px;
-  font-size: 16px;
-  opacity: 0.8;
-}
-
 .nav-links {
   display: flex;
   flex-wrap: wrap;
@@ -358,52 +348,27 @@ h2 {
   justify-content: center;
 }
 
-.theme-nav-links {
-  display: flex;
-  gap: 10px;
-  justify-content: center;
-  align-items: center;
-}
-
-.theme-nav-btn {
-  background: rgba(255, 255, 255, 0.2);
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  color: white;
-  padding: 8px 16px;
-  border-radius: 15px;
-  font-size: 14px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  text-decoration: none;
-  white-space: nowrap;
-  margin: 0 5px;
-}
-
-.theme-nav-btn:hover {
-  background: rgba(255, 255, 255, 0.3);
-  transform: translateY(-2px);
-}
-
-.prev-btn {
-  width: 100px;
-}
-
-.next-btn {
-  width: 200px;
-}
-
 .nav-link {
   background: rgba(255, 255, 255, 0.2);
   border: 1px solid rgba(255, 255, 255, 0.3);
   color: white;
-  padding: 8px 16px;
+  padding: 5px 16px;
   border-radius: 15px;
   font-size: 14px;
   cursor: pointer;
   transition: all 0.3s ease;
   text-decoration: none;
+  width: 160px;
 }
 
+.theme-nav-section {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+/* Favorites Screen */
 .favorites-list {
   display: flex;
   flex-direction: column;

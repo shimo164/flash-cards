@@ -97,7 +97,7 @@ class FlashcardApp {
 
     const filteredSets = this.sets.filter((set) => {
       if (this.currentLevelFilter === 'all') return true;
-      const levelMap = { '初級': 'L1', '中級': 'L2', '上級': 'L3' };
+      const levelMap = { 初級: 'L1', 中級: 'L2', 上級: 'L3' };
       return set.cardCounts[levelMap[this.currentLevelFilter]] > 0;
     });
 
@@ -105,15 +105,15 @@ class FlashcardApp {
       const originalIndex = this.sets.findIndex((s) => s.name === set.name);
       const setItem = document.createElement('div');
       setItem.className = 'set-item';
-      
+
       const title = document.createElement('div');
       title.className = 'set-title';
       title.textContent = set.name;
       setItem.appendChild(title);
-      
+
       const levels = document.createElement('div');
       levels.className = 'set-levels';
-      
+
       ['L1', 'L2', 'L3'].forEach((level) => {
         const btn = document.createElement('button');
         btn.className = `level-select-btn level-${level}`;
@@ -124,7 +124,7 @@ class FlashcardApp {
         });
         levels.appendChild(btn);
       });
-      
+
       setItem.appendChild(levels);
       setList.appendChild(setItem);
     });
@@ -153,14 +153,14 @@ class FlashcardApp {
   setNormalNavigation() {
     const prevBtn = document.getElementById('prev-btn');
     const nextBtn = document.getElementById('next-btn');
-    
+
     prevBtn.onclick = () => this.previousCard();
     nextBtn.onclick = () => this.nextCard();
     nextBtn.textContent = '次のフレーズ';
-    
+
     prevBtn.disabled = this.currentCardIndex === 0;
     nextBtn.disabled = false;
-    
+
     document.getElementById('to-favorites-btn').style.display = 'none';
   }
 
@@ -239,35 +239,44 @@ class FlashcardApp {
     this.hideAllScreens();
     document.getElementById('complete-screen').classList.add('active');
 
-    const levelName = this.currentLevel === 'L1' ? '初級' : this.currentLevel === 'L2' ? '中級' : '上級';
-    document.getElementById('completed-set-name').textContent = `${this.currentSet.name} (${levelName})`;
+    const levelName =
+      this.currentLevel === 'L1' ? '初級' : this.currentLevel === 'L2' ? '中級' : '上級';
+    document.getElementById(
+      'completed-set-name',
+    ).textContent = `${this.currentSet.name} (${levelName})`;
 
     this.renderNavigationLinks();
   }
 
   renderNavigationLinks() {
     const navContainer = document.getElementById('navigation-links');
-    const currentSetIndex = this.sets.findIndex(s => s.name === this.currentSet.name);
-    
+    const currentSetIndex = this.sets.findIndex((s) => s.name === this.currentSet.name);
+
     let html = '<h3>関連セット</h3>';
 
     // Other levels
-    html += '<div class="nav-section"><h4>他のレベル</h4><div class="nav-links">';
+    html += '<div class="nav-section"><div class="nav-links">';
     ['L1', 'L2', 'L3'].forEach((level) => {
       if (level !== this.currentLevel) {
         const levelName = level === 'L1' ? '初級' : level === 'L2' ? '中級' : '上級';
-        html += `<button class="nav-link" onclick="app.startSet(${currentSetIndex}, '${level}')">${levelName}</button>`;
+        html += `<button class="nav-link level-${level}" onclick="app.startSet(${currentSetIndex}, '${level}')">${levelName}</button>`;
       }
     });
     html += '</div></div>';
 
     // Adjacent themes
+    html += '<div class="theme-nav-section">';
     if (currentSetIndex > 0) {
-      html += `<button class="theme-nav-btn prev-btn" onclick="app.startSet(${currentSetIndex - 1}, '${this.currentLevel}')">前のテーマ</button>`;
+      html += `<button class="btn" onclick="app.startSet(${currentSetIndex - 1}, '${
+        this.currentLevel
+      }')">前のテーマ</button>`;
     }
     if (currentSetIndex < this.sets.length - 1) {
-      html += `<button class="theme-nav-btn next-btn" onclick="app.startSet(${currentSetIndex + 1}, '${this.currentLevel}')">次のテーマ</button>`;
+      html += `<button class="btn" onclick="app.startSet(${currentSetIndex + 1}, '${
+        this.currentLevel
+      }')">次のテーマ</button>`;
     }
+    html += '</div>';
 
     navContainer.innerHTML = html;
   }
@@ -346,7 +355,7 @@ class FlashcardApp {
       await this.loadSetCards(fav.setIndex);
       const set = this.sets[fav.setIndex];
       const card = set.levels[fav.level][fav.cardIndex];
-      
+
       const levelName = fav.level === 'L1' ? '初級' : fav.level === 'L2' ? '中級' : '上級';
 
       const item = document.createElement('div');
