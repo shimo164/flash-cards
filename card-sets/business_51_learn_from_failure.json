@@ -1,0 +1,35 @@
+{
+  "name": "失敗から学ぶ",
+  "levels": {
+    "L1": [
+      {"japanese": "失敗から学びましょう。", "english": "Let's learn from failure."},
+      {"japanese": "次は成功します。", "english": "We'll succeed next time."},
+      {"japanese": "何が問題でしたか。", "english": "What was the problem?"},
+      {"japanese": "改善点を見つけます。", "english": "I'll find areas for improvement."},
+      {"japanese": "失敗は成功のもとです。", "english": "Failure is the mother of success."},
+      {"japanese": "経験になりました。", "english": "It was a learning experience."},
+      {"japanese": "次に活かします。", "english": "I'll apply it next time."},
+      {"japanese": "前向きに考えましょう。", "english": "Let's think positively."}
+    ],
+    "L2": [
+      {"japanese": "失敗の原因を分析し、今後の改善に活かしましょう。", "english": "Let's analyze the cause of failure and apply it to future improvements."},
+      {"japanese": "失敗を恐れずにチャレンジすることが成長につながります。", "english": "Challenging without fear of failure leads to growth."},
+      {"japanese": "失敗から得られる教訓は、成功よりも価値があることがあります。", "english": "Lessons from failure can be more valuable than success."},
+      {"japanese": "失敗を共有することで、チーム全体の学びになります。", "english": "Sharing failures becomes learning for the entire team."},
+      {"japanese": "失敗を責めるのではなく、改善策を一緒に考えましょう。", "english": "Rather than blaming failure, let's think of improvements together."},
+      {"japanese": "失敗の経験を次のプロジェクトに活かす仕組みを作ります。", "english": "We'll create a system to apply failure experience to the next project."},
+      {"japanese": "失敗を通じて、より強いチームになることができます。", "english": "Through failure, we can become a stronger team."},
+      {"japanese": "失敗から学ぶ姿勢が、イノベーションを生み出します。", "english": "The attitude of learning from failure creates innovation."}
+    ],
+    "L3": [
+      {"japanese": "失敗を組織的な学習機会として捉え、知見の蓄積を図ります。", "english": "We'll view failure as an organizational learning opportunity and accumulate knowledge."},
+      {"japanese": "失敗の本質的な要因を深く掘り下げ、根本的な改善策を導き出します。", "english": "We'll deeply examine the essential factors of failure and derive fundamental improvements."},
+      {"japanese": "失敗に対する心理的安全性を確保し、オープンな議論を促進します。", "english": "We'll ensure psychological safety regarding failure and promote open discussion."},
+      {"japanese": "失敗事例のデータベース化により、組織全体での知識共有を実現します。", "english": "By creating a failure case database, we'll achieve organization-wide knowledge sharing."},
+      {"japanese": "失敗から得られる洞察を体系的に分析し、戦略的な意思決定に活用します。", "english": "We'll systematically analyze insights from failure and utilize them in strategic decision-making."},
+      {"japanese": "失敗を許容する文化の醸成が、イノベーティブな組織への変革を促します。", "english": "Cultivating a culture that tolerates failure promotes transformation into an innovative organization."},
+      {"japanese": "失敗の経験を通じて獲得した知見を、次世代の育成に活かします。", "english": "We'll apply knowledge gained through failure experience to nurturing the next generation."},
+      {"japanese": "失敗を恐れない挑戦的な姿勢が、持続的な成長の原動力となります。", "english": "A challenging attitude without fear of failure becomes the driving force for sustainable growth."}
+    ]
+  }
+}

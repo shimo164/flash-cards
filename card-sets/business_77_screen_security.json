@@ -1,0 +1,35 @@
+{
+  "name": "PCの画面に関する注意",
+  "levels": {
+    "L1": [
+      {"japanese": "離席するときは画面をオフにしてください。", "english": "Please turn off the screen when leaving your seat."},
+      {"japanese": "スクリーンセーバーでもよいです。", "english": "A screensaver is also fine."},
+      {"japanese": "セキュリティのルールです。", "english": "It's a security rule."},
+      {"japanese": "画面をロックしてください。", "english": "Please lock the screen."},
+      {"japanese": "パスワードを入力します。", "english": "I'll enter the password."},
+      {"japanese": "凡事徹底していきましょう。", "english": "Let's be thorough with the basics."},
+      {"japanese": "情報を守ります。", "english": "We'll protect information."},
+      {"japanese": "ルールを守ってください。", "english": "Please follow the rules."}
+    ],
+    "L2": [
+      {"japanese": "離席時には必ず画面をオフにするか、ロックをかけてください。", "english": "When leaving your seat, always turn off the screen or lock it."},
+      {"japanese": "スクリーンセーバーの自動起動設定も、セキュリティ対策として有効です。", "english": "Automatic screensaver activation is also effective as a security measure."},
+      {"japanese": "これは情報漏洩を防ぐための重要なセキュリティルールです。", "english": "This is an important security rule to prevent information leakage."},
+      {"japanese": "基本的なセキュリティ対策を凡事徹底することが大切です。", "english": "It's important to be thorough with basic security measures."},
+      {"japanese": "画面ロックのショートカットキーを覚えておくと便利です。", "english": "It's convenient to remember the screen lock shortcut key."},
+      {"japanese": "他の人に画面を見られないよう、常に注意を払いましょう。", "english": "Let's always be careful not to let others see your screen."},
+      {"japanese": "セキュリティ意識の向上が、組織全体の情報保護につながります。", "english": "Raising security awareness leads to organization-wide information protection."},
+      {"japanese": "小さな習慣の積み重ねが、大きなセキュリティリスクを防ぎます。", "english": "Accumulation of small habits prevents major security risks."}
+    ],
+    "L3": [
+      {"japanese": "画面セキュリティの徹底が、情報資産保護の第一線となります。", "english": "Thorough screen security becomes the front line of information asset protection."},
+      {"japanese": "自動ロック機能の標準化により、ヒューマンエラーによるリスクを低減します。", "english": "We'll reduce human error risks through automatic lock function standardization."},
+      {"japanese": "セキュリティポリシーの遵守が、組織の信頼性を担保します。", "english": "Security policy compliance ensures organizational credibility."},
+      {"japanese": "基本的なセキュリティ対策の凡事徹底が、高度な脅威への耐性を構築します。", "english": "Thorough implementation of basic security measures builds resilience against advanced threats."},
+      {"japanese": "画面セキュリティの習慣化により、情報漏洩リスクを最小化します。", "english": "We'll minimize information leakage risk through habitualizing screen security."},
+      {"japanese": "セキュリティ意識の組織文化への定着が、持続的な情報保護を実現します。", "english": "Embedding security awareness in organizational culture achieves sustainable information protection."},
+      {"japanese": "物理的セキュリティと技術的セキュリティの統合により、多層防御を構築します。", "english": "We'll build multi-layered defense through integrating physical and technical security."},
+      {"japanese": "セキュリティ基本動作の徹底が、コンプライアンス遵守の基盤となります。", "english": "Thorough basic security actions become the foundation of compliance adherence."}
+    ]
+  }
+}

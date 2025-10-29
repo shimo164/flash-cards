@@ -1,0 +1,107 @@
+{
+  "name": "台風の対応について",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "台風が来ています。",
+        "english": "A typhoon is coming."
+      },
+      {
+        "japanese": "帰れなくなるかもしれません。",
+        "english": "You might not be able to go home."
+      },
+      {
+        "japanese": "明日はリモートにしましょう。",
+        "english": "Let's work remotely tomorrow."
+      },
+      {
+        "japanese": "必要な人だけ来てください。",
+        "english": "Please come only if necessary."
+      },
+      {
+        "japanese": "連絡してください。",
+        "english": "Please contact us."
+      },
+      {
+        "japanese": "ホテルに泊まってください。",
+        "english": "Please stay at a hotel."
+      },
+      {
+        "japanese": "会社がお金を出します。",
+        "english": "The company will pay."
+      },
+      {
+        "japanese": "安全が重要です。",
+        "english": "Safety is important."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "大型台風が接近しており、交通機関に影響が出る可能性があります。",
+        "english": "A large typhoon is approaching and may affect transportation."
+      },
+      {
+        "japanese": "帰宅困難になる恐れがあるため、早めの帰宅を推奨します。",
+        "english": "We recommend leaving early as there's a risk of being unable to return home."
+      },
+      {
+        "japanese": "明日は原則リモートワークとし、出社は最小限にしてください。",
+        "english": "Tomorrow will be remote work in principle, please minimize office attendance."
+      },
+      {
+        "japanese": "業務上どうしても出社が必要な方のみ、上司に相談してください。",
+        "english": "Only those who absolutely must come to the office for work should consult their supervisor."
+      },
+      {
+        "japanese": "帰宅が困難な場合は、会社負担でホテルに宿泊してください。",
+        "english": "If returning home is difficult, please stay at a hotel at company expense."
+      },
+      {
+        "japanese": "何よりも安全を最優先に行動してください。",
+        "english": "Above all, please act with safety as the top priority."
+      },
+      {
+        "japanese": "状況の変化については、随時連絡いたします。",
+        "english": "We'll contact you as the situation changes."
+      },
+      {
+        "japanese": "無理な出社や帰宅は避け、安全を確保してください。",
+        "english": "Please avoid forcing yourself to come to or leave the office, and ensure your safety."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "自然災害発生時の事業継続計画に基づき、適切な対応を実施します。",
+        "english": "We'll implement appropriate responses based on the business continuity plan for natural disasters."
+      },
+      {
+        "japanese": "従業員の安全確保を最優先事項とし、柔軟な勤務体制を採用します。",
+        "english": "We'll adopt flexible work arrangements with employee safety as the top priority."
+      },
+      {
+        "japanese": "気象情報を継続的に監視し、状況に応じた迅速な意思決定を行います。",
+        "english": "We'll continuously monitor weather information and make swift decisions according to the situation."
+      },
+      {
+        "japanese": "リモートワーク体制への円滑な移行により、業務の継続性を確保します。",
+        "english": "We'll ensure business continuity through smooth transition to remote work arrangements."
+      },
+      {
+        "japanese": "緊急時の宿泊費用補助など、従業員の安全を支援する制度を整備しています。",
+        "english": "We've established systems to support employee safety, including emergency accommodation expense subsidies."
+      },
+      {
+        "japanese": "災害対応における明確なコミュニケーションラインを確立し、情報共有を徹底します。",
+        "english": "We'll establish clear communication lines for disaster response and thoroughly share information."
+      },
+      {
+        "japanese": "従業員の安全確保と事業継続のバランスを最適化した対応を実施します。",
+        "english": "We'll implement responses that optimize the balance between employee safety and business continuity."
+      },
+      {
+        "japanese": "自然災害への組織的な対応力強化が、レジリエントな経営基盤を構築します。",
+        "english": "Strengthening organizational disaster response capability builds a resilient management foundation."
+      }
+    ]
+  }
+}

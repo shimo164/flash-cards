@@ -1,0 +1,35 @@
+{
+  "name": "ランチに誘う",
+  "levels": {
+    "L1": [
+      {"japanese": "一緒にランチに行きませんか。", "english": "Would you like to have lunch together?"},
+      {"japanese": "社食に行きましょう。", "english": "Let's go to the cafeteria."},
+      {"japanese": "外に食べに行きませんか。", "english": "Shall we eat out?"},
+      {"japanese": "何が食べたいですか。", "english": "What would you like to eat?"},
+      {"japanese": "12時に行きましょう。", "english": "Let's go at 12 o'clock."},
+      {"japanese": "いいお店を知っています。", "english": "I know a good restaurant."},
+      {"japanese": "今日は忙しいですか。", "english": "Are you busy today?"},
+      {"japanese": "また誘ってください。", "english": "Please invite me again."}
+    ],
+    "L2": [
+      {"japanese": "お昼休みに一緒にランチはいかがですか。", "english": "How about having lunch together during lunch break?"},
+      {"japanese": "社員食堂で食べるか、外に出るか、どちらがいいですか。", "english": "Would you prefer the cafeteria or eating out?"},
+      {"japanese": "近くに美味しいレストランがあるので、ご一緒しませんか。", "english": "There's a delicious restaurant nearby, would you like to join me?"},
+      {"japanese": "ランチを食べながら、プロジェクトについて話しましょう。", "english": "Let's talk about the project over lunch."},
+      {"japanese": "今日のランチは私がご馳走します。", "english": "Lunch is on me today."},
+      {"japanese": "新しくできたお店に行ってみませんか。", "english": "Shall we try the new restaurant?"},
+      {"japanese": "ランチの時間を使って、リフレッシュしましょう。", "english": "Let's use lunch time to refresh."},
+      {"japanese": "定期的にランチミーティングを設けるのはどうでしょうか。", "english": "How about having regular lunch meetings?"}
+    ],
+    "L3": [
+      {"japanese": "ランチを通じたインフォーマルなコミュニケーションが、チームの結束を強化します。", "english": "Informal communication through lunch strengthens team cohesion."},
+      {"japanese": "社員食堂の利用は、部門を超えた交流の機会を提供します。", "english": "Using the cafeteria provides opportunities for cross-departmental interaction."},
+      {"japanese": "ランチミーティングを活用し、リラックスした雰囲気での意見交換を促進しましょう。", "english": "Let's utilize lunch meetings to promote opinion exchange in a relaxed atmosphere."},
+      {"japanese": "外食の機会を通じて、職場外での関係性構築を図ることができます。", "english": "Through dining out opportunities, we can build relationships outside the workplace."},
+      {"japanese": "ランチタイムの有効活用が、ワークライフバランスの向上に寄与します。", "english": "Effective use of lunch time contributes to improving work-life balance."},
+      {"japanese": "多様な食の選択肢を提供することで、従業員の満足度を高めます。", "english": "Providing diverse food options enhances employee satisfaction."},
+      {"japanese": "ランチを通じた非公式なネットワーキングが、組織の活性化につながります。", "english": "Informal networking through lunch leads to organizational revitalization."},
+      {"japanese": "食事を共にする時間が、相互理解と信頼関係の醸成を促進します。", "english": "Time spent sharing meals promotes mutual understanding and trust building."}
+    ]
+  }
+}

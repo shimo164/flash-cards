@@ -1,0 +1,35 @@
+{
+  "name": "締め切りに追われているが諦めない",
+  "levels": {
+    "L1": [
+      {"japanese": "締め切りが近いです。", "english": "The deadline is near."},
+      {"japanese": "頑張ります。", "english": "I'll do my best."},
+      {"japanese": "諦めません。", "english": "I won't give up."},
+      {"japanese": "時間がありません。", "english": "I don't have time."},
+      {"japanese": "最後まで頑張ります。", "english": "I'll work hard until the end."},
+      {"japanese": "できると信じています。", "english": "I believe I can do it."},
+      {"japanese": "集中します。", "english": "I'll concentrate."},
+      {"japanese": "必ず終わらせます。", "english": "I'll definitely finish it."}
+    ],
+    "L2": [
+      {"japanese": "締め切りまで時間がありませんが、最善を尽くします。", "english": "There's little time until the deadline, but I'll do my best."},
+      {"japanese": "プレッシャーを感じていますが、諦めずに取り組みます。", "english": "I feel pressure, but I'll work on it without giving up."},
+      {"japanese": "優先順位をつけて、効率的に作業を進めます。", "english": "I'll prioritize and work efficiently."},
+      {"japanese": "困難な状況ですが、必ず乗り越えてみせます。", "english": "It's a difficult situation, but I'll definitely overcome it."},
+      {"japanese": "チームで協力して、締め切りに間に合わせましょう。", "english": "Let's cooperate as a team to meet the deadline."},
+      {"japanese": "時間管理を徹底し、無駄を省いて作業します。", "english": "I'll thoroughly manage time and work without waste."},
+      {"japanese": "プレッシャーをモチベーションに変えて頑張ります。", "english": "I'll turn pressure into motivation and work hard."},
+      {"japanese": "最後まで諦めない姿勢が、成功への鍵です。", "english": "The attitude of never giving up is the key to success."}
+    ],
+    "L3": [
+      {"japanese": "厳しい締め切りに直面していますが、戦略的なアプローチで対応します。", "english": "Facing a tight deadline, I'll respond with a strategic approach."},
+      {"japanese": "時間的制約を克服するため、リソースの最適配分を実施します。", "english": "To overcome time constraints, I'll implement optimal resource allocation."},
+      {"japanese": "プレッシャー下でのパフォーマンス維持が、プロフェッショナルの証です。", "english": "Maintaining performance under pressure is proof of professionalism."},
+      {"japanese": "締め切りへの挑戦を、成長の機会として捉えています。", "english": "I view the deadline challenge as an opportunity for growth."},
+      {"japanese": "困難な状況においても、品質を妥協することなく完遂します。", "english": "Even in difficult situations, I'll complete without compromising quality."},
+      {"japanese": "逆境を乗り越える経験が、将来の強靭性を培います。", "english": "Experience overcoming adversity cultivates future resilience."},
+      {"japanese": "締め切りプレッシャーを組織的な課題として捉え、改善策を提案します。", "english": "I'll view deadline pressure as an organizational issue and propose improvements."},
+      {"japanese": "持続可能なペースと短期的な集中力のバランスを保ちながら遂行します。", "english": "I'll execute while balancing sustainable pace and short-term concentration."}
+    ]
+  }
+}

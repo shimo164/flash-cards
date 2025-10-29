@@ -1,0 +1,35 @@
+{
+  "name": "資料の場所を聞く",
+  "levels": {
+    "L1": [
+      {"japanese": "この資料を探しています。", "english": "I'm looking for this document."},
+      {"japanese": "あなたが知っていると聞きました。", "english": "I heard you know about it."},
+      {"japanese": "これですか。", "english": "Is this it?"},
+      {"japanese": "これは古いです。", "english": "This is old."},
+      {"japanese": "他の人にも聞いてみましょう。", "english": "Let's ask other people too."},
+      {"japanese": "検索してみましょう。", "english": "Let's try searching."},
+      {"japanese": "どこにありますか。", "english": "Where is it?"},
+      {"japanese": "見つかりました。", "english": "I found it."}
+    ],
+    "L2": [
+      {"japanese": "○○に関する資料を探しているのですが、ご存知ですか。", "english": "I'm looking for documents about ○○, do you know about them?"},
+      {"japanese": "あなたがその資料の場所を知っていると伺いました。", "english": "I heard that you know where those documents are."},
+      {"japanese": "これが該当する資料でしょうか。", "english": "Would this be the relevant document?"},
+      {"japanese": "この資料は古いバージョンのようです。最新版はありますか。", "english": "This document seems to be an old version. Is there a latest version?"},
+      {"japanese": "他の部署の方にも確認してみましょう。", "english": "Let's check with people from other departments too."},
+      {"japanese": "社内の文書管理システムで検索してみてください。", "english": "Please try searching in the company's document management system."},
+      {"japanese": "資料の保管場所について、ルールを確認しましょう。", "english": "Let's check the rules about document storage locations."},
+      {"japanese": "見つかったら、共有フォルダに整理しておきましょう。", "english": "Once found, let's organize it in the shared folder."}
+    ],
+    "L3": [
+      {"japanese": "効率的な文書管理システムの構築により、情報検索の生産性を向上させます。", "english": "We'll improve information search productivity through building an efficient document management system."},
+      {"japanese": "文書のバージョン管理と適切なアーカイブにより、情報の正確性を担保します。", "english": "We'll ensure information accuracy through document version control and proper archiving."},
+      {"japanese": "ナレッジマネジメントの最適化により、組織の知的資産を効果的に活用します。", "english": "We'll effectively utilize organizational intellectual assets through knowledge management optimization."},
+      {"japanese": "文書検索性の向上が、業務効率と意思決定速度の改善に直結します。", "english": "Improved document searchability directly leads to better work efficiency and decision-making speed."},
+      {"japanese": "メタデータの標準化により、文書の分類と検索を効率化します。", "english": "We'll streamline document classification and search through metadata standardization."},
+      {"japanese": "文書管理ポリシーの徹底により、情報の散逸を防止します。", "english": "We'll prevent information dispersion through thorough document management policy implementation."},
+      {"japanese": "AIを活用した文書検索機能の導入により、情報アクセスを革新します。", "english": "We'll revolutionize information access through AI-powered document search function implementation."},
+      {"japanese": "組織的な文書管理の成熟度向上が、業務の質的向上を実現します。", "english": "Improving organizational document management maturity achieves qualitative work improvement."}
+    ]
+  }
+}

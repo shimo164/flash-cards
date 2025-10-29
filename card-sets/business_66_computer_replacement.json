@@ -1,0 +1,107 @@
+{
+  "name": "支給パソコンを交換したい",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "パソコンが遅いです。",
+        "english": "The computer is slow."
+      },
+      {
+        "japanese": "スペックが低いです。",
+        "english": "The specs are low."
+      },
+      {
+        "japanese": "交換したいです。",
+        "english": "I want to replace it."
+      },
+      {
+        "japanese": "仕事に支障があります。",
+        "english": "It's affecting my work."
+      },
+      {
+        "japanese": "新しいパソコンが必要です。",
+        "english": "I need a new computer."
+      },
+      {
+        "japanese": "どこに申請しますか。",
+        "english": "Where should I apply?"
+      },
+      {
+        "japanese": "メモリが足りません。",
+        "english": "There's not enough memory."
+      },
+      {
+        "japanese": "改善してください。",
+        "english": "Please improve it."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "現在のパソコンのスペックでは、業務に支障が出ています。",
+        "english": "The current computer specs are hindering my work."
+      },
+      {
+        "japanese": "より高性能なパソコンへの交換を申請したいです。",
+        "english": "I'd like to apply for replacement with a higher-performance computer."
+      },
+      {
+        "japanese": "メモリ不足により、アプリケーションが頻繁にフリーズします。",
+        "english": "Due to insufficient memory, applications frequently freeze."
+      },
+      {
+        "japanese": "業務効率の向上のため、スペックアップが必要です。",
+        "english": "Spec upgrade is necessary to improve work efficiency."
+      },
+      {
+        "japanese": "IT部門に交換申請書を提出してください。",
+        "english": "Please submit a replacement application to the IT department."
+      },
+      {
+        "japanese": "交換の必要性を具体的に説明してください。",
+        "english": "Please explain the necessity of replacement specifically."
+      },
+      {
+        "japanese": "予算の都合もありますので、承認には時間がかかる場合があります。",
+        "english": "Due to budget considerations, approval may take time."
+      },
+      {
+        "japanese": "代替案として、メモリ増設も検討できます。",
+        "english": "As an alternative, we can consider memory expansion."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "業務生産性の定量的な分析に基づき、機器更新の必要性を提示します。",
+        "english": "We'll present equipment renewal necessity based on quantitative analysis of work productivity."
+      },
+      {
+        "japanese": "TCOの観点から、適切な更新サイクルを確立します。",
+        "english": "We'll establish an appropriate renewal cycle from a TCO perspective."
+      },
+      {
+        "japanese": "従業員の生産性向上と機器投資のバランスを最適化します。",
+        "english": "We'll optimize the balance between employee productivity improvement and equipment investment."
+      },
+      {
+        "japanese": "標準化されたスペック基準により、機器調達の効率化を図ります。",
+        "english": "We'll achieve equipment procurement efficiency through standardized spec criteria."
+      },
+      {
+        "japanese": "業務要件に応じた段階的なスペック設定により、コスト最適化を実現します。",
+        "english": "We'll achieve cost optimization through tiered spec settings according to work requirements."
+      },
+      {
+        "japanese": "機器性能の定期的な評価により、適切な更新タイミングを判断します。",
+        "english": "We'll determine appropriate renewal timing through regular equipment performance evaluation."
+      },
+      {
+        "japanese": "クラウドベースのソリューション活用により、ローカル機器への依存を軽減します。",
+        "english": "We'll reduce dependence on local equipment through cloud-based solution utilization."
+      },
+      {
+        "japanese": "機器更新戦略の最適化が、組織全体の生産性向上に寄与します。",
+        "english": "Equipment renewal strategy optimization contributes to organization-wide productivity improvement."
+      }
+    ]
+  }
+}

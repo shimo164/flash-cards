@@ -1,0 +1,35 @@
+{
+  "name": "新しくアカウントを作成するための申請",
+  "levels": {
+    "L1": [
+      {"japanese": "アカウントを作りたいです。", "english": "I want to create an account."},
+      {"japanese": "申請書を書きます。", "english": "I'll write an application."},
+      {"japanese": "承認が必要です。", "english": "Approval is needed."},
+      {"japanese": "どこに申請しますか。", "english": "Where should I apply?"},
+      {"japanese": "アカウント名を教えてください。", "english": "Please tell me the account name."},
+      {"japanese": "パスワードを設定します。", "english": "I'll set a password."},
+      {"japanese": "いつできますか。", "english": "When will it be ready?"},
+      {"japanese": "ありがとうございます。", "english": "Thank you."}
+    ],
+    "L2": [
+      {"japanese": "新しいシステムアカウントの作成を申請したいです。", "english": "I'd like to apply for creating a new system account."},
+      {"japanese": "アカウント申請フォームに必要事項を記入してください。", "english": "Please fill in the required information on the account application form."},
+      {"japanese": "申請理由と使用目的を明記してください。", "english": "Please clearly state the reason for application and purpose of use."},
+      {"japanese": "上司の承認を得てから、IT部門に提出してください。", "english": "Please obtain supervisor approval before submitting to the IT department."},
+      {"japanese": "アカウント作成には、通常2-3営業日かかります。", "english": "Account creation usually takes 2-3 business days."},
+      {"japanese": "セキュリティポリシーに従って、適切な権限を設定します。", "english": "We'll set appropriate permissions according to security policy."},
+      {"japanese": "アカウント情報は厳重に管理してください。", "english": "Please manage account information strictly."},
+      {"japanese": "アカウント作成後、初回ログイン時にパスワード変更が必要です。", "english": "After account creation, password change is required at first login."}
+    ],
+    "L3": [
+      {"japanese": "アカウント管理の一元化により、セキュリティリスクの低減を図ります。", "english": "We'll reduce security risks through centralized account management."},
+      {"japanese": "アカウント申請プロセスの自動化により、承認時間を大幅に短縮します。", "english": "We'll significantly reduce approval time through account application process automation."},
+      {"japanese": "最小権限の原則に基づき、必要最小限のアクセス権を付与します。", "english": "We'll grant minimum necessary access rights based on the principle of least privilege."},
+      {"japanese": "アカウントライフサイクル管理の徹底により、不要なアカウントを削減します。", "english": "We'll reduce unnecessary accounts through thorough account lifecycle management."},
+      {"japanese": "多要素認証の導入により、アカウントセキュリティを強化します。", "english": "We'll strengthen account security through multi-factor authentication implementation."},
+      {"japanese": "アカウント申請の監査証跡を保持し、コンプライアンスを確保します。", "english": "We'll maintain audit trails of account applications to ensure compliance."},
+      {"japanese": "ロールベースのアクセス制御により、権限管理を効率化します。", "english": "We'll streamline permission management through role-based access control."},
+      {"japanese": "アカウント管理の最適化が、組織全体のセキュリティ態勢を向上させます。", "english": "Account management optimization improves organization-wide security posture."}
+    ]
+  }
+}

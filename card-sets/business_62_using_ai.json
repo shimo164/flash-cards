@@ -1,0 +1,35 @@
+{
+  "name": "AIを利用したい",
+  "levels": {
+    "L1": [
+      {"japanese": "AIを使いたいです。", "english": "I want to use AI."},
+      {"japanese": "AIで効率化できます。", "english": "We can improve efficiency with AI."},
+      {"japanese": "AIツールを試しましょう。", "english": "Let's try AI tools."},
+      {"japanese": "AIが助けてくれます。", "english": "AI will help us."},
+      {"japanese": "AIの使い方を教えてください。", "english": "Please teach me how to use AI."},
+      {"japanese": "AIで時間を節約できます。", "english": "We can save time with AI."},
+      {"japanese": "AIは便利です。", "english": "AI is convenient."},
+      {"japanese": "AIを導入しましょう。", "english": "Let's introduce AI."}
+    ],
+    "L2": [
+      {"japanese": "AIツールを活用して、業務効率を向上させたいです。", "english": "I want to improve work efficiency by utilizing AI tools."},
+      {"japanese": "AIによる自動化で、単純作業を削減できます。", "english": "We can reduce simple tasks through AI automation."},
+      {"japanese": "AIの導入について、上司に提案したいと思います。", "english": "I'd like to propose AI introduction to my supervisor."},
+      {"japanese": "AIを使うことで、より創造的な仕事に集中できます。", "english": "By using AI, we can focus on more creative work."},
+      {"japanese": "AIツールの利用ガイドラインを確認してください。", "english": "Please check the AI tool usage guidelines."},
+      {"japanese": "AIの活用事例を社内で共有しましょう。", "english": "Let's share AI utilization examples within the company."},
+      {"japanese": "AIと人間の協働が、最良の成果を生み出します。", "english": "Collaboration between AI and humans produces the best results."},
+      {"japanese": "AIリテラシーの向上が、競争力強化につながります。", "english": "Improving AI literacy leads to strengthening competitiveness."}
+    ],
+    "L3": [
+      {"japanese": "AI技術の戦略的活用により、組織の生産性を飛躍的に向上させます。", "english": "Through strategic utilization of AI technology, we'll dramatically improve organizational productivity."},
+      {"japanese": "AIの導入に際しては、倫理的配慮とガバナンスの確立が不可欠です。", "english": "When introducing AI, establishing ethical considerations and governance is essential."},
+      {"japanese": "AI活用の成熟度を段階的に高め、組織全体のデジタル変革を推進します。", "english": "We'll gradually increase AI utilization maturity and promote organization-wide digital transformation."},
+      {"japanese": "AIと人間の最適な役割分担により、付加価値の最大化を図ります。", "english": "We'll maximize added value through optimal role distribution between AI and humans."},
+      {"japanese": "AI導入のROIを定量的に評価し、継続的な改善を実施します。", "english": "We'll quantitatively evaluate AI introduction ROI and implement continuous improvement."},
+      {"japanese": "AIリテラシー向上のための体系的な教育プログラムを展開します。", "english": "We'll deploy systematic educational programs for AI literacy improvement."},
+      {"japanese": "AI活用における情報セキュリティとプライバシー保護を徹底します。", "english": "We'll thoroughly ensure information security and privacy protection in AI utilization."},
+      {"japanese": "AI技術の進化に対応した、柔軟な組織体制の構築が重要です。", "english": "Building a flexible organizational structure responsive to AI technology evolution is important."}
+    ]
+  }
+}

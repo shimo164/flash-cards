@@ -1,0 +1,35 @@
+{
+  "name": "社内の郵便が届いたので受け取りたい",
+  "levels": {
+    "L1": [
+      {"japanese": "郵便が届きました。", "english": "Mail has arrived."},
+      {"japanese": "受け取りに行きます。", "english": "I'll go pick it up."},
+      {"japanese": "どこで受け取れますか。", "english": "Where can I receive it?"},
+      {"japanese": "サインをします。", "english": "I'll sign for it."},
+      {"japanese": "荷物があります。", "english": "There's a package."},
+      {"japanese": "通知が来ました。", "english": "I got a notification."},
+      {"japanese": "ありがとうございます。", "english": "Thank you."},
+      {"japanese": "確認しました。", "english": "I've confirmed it."}
+    ],
+    "L2": [
+      {"japanese": "社内便が届いているとの連絡を受けました。", "english": "I received notice that internal mail has arrived."},
+      {"japanese": "郵便物の受け取りは、総務部の窓口でお願いします。", "english": "Please pick up mail at the general affairs department counter."},
+      {"japanese": "受け取りの際は、社員証を提示してください。", "english": "Please present your employee ID when picking up."},
+      {"japanese": "不在時の郵便物は、一定期間保管されます。", "english": "Mail during absence is kept for a certain period."},
+      {"japanese": "大きな荷物の場合は、事前に連絡があります。", "english": "For large packages, you'll be contacted in advance."},
+      {"japanese": "郵便物の転送が必要な場合は、申請してください。", "english": "If mail forwarding is needed, please apply."},
+      {"japanese": "重要書類は、直接手渡しで受け取ってください。", "english": "Please receive important documents in person."},
+      {"japanese": "受け取り後は、受領印を押してください。", "english": "Please stamp your receipt seal after receiving."}
+    ],
+    "L3": [
+      {"japanese": "効率的な社内郵便システムの運用により、業務の円滑化を図ります。", "english": "We'll facilitate smooth operations through efficient internal mail system operation."},
+      {"japanese": "デジタル化の推進により、物理的な郵便物の削減を目指します。", "english": "We aim to reduce physical mail through promoting digitalization."},
+      {"japanese": "郵便物管理の最適化により、セキュリティとトレーサビリティを向上させます。", "english": "We'll improve security and traceability through mail management optimization."},
+      {"japanese": "自動通知システムの導入により、受け取りの利便性を高めます。", "english": "We'll enhance pickup convenience through automatic notification system implementation."},
+      {"japanese": "郵便物の適切な保管期間設定により、スペースの有効活用を実現します。", "english": "We'll achieve effective space utilization through appropriate mail retention period settings."},
+      {"japanese": "環境配慮の観点から、ペーパーレス化を積極的に推進します。", "english": "We'll actively promote paperless operations from an environmental perspective."},
+      {"japanese": "郵便物管理プロセスの標準化により、業務効率を向上させます。", "english": "We'll improve operational efficiency through mail management process standardization."},
+      {"japanese": "デジタルとフィジカルのハイブリッド管理により、最適な郵便システムを構築します。", "english": "We'll build an optimal mail system through digital and physical hybrid management."}
+    ]
+  }
+}

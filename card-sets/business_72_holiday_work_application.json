@@ -1,0 +1,107 @@
+{
+  "name": "休日に働く",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "休日に働きます。",
+        "english": "I'll work on a holiday."
+      },
+      {
+        "japanese": "申請が必要です。",
+        "english": "Application is needed."
+      },
+      {
+        "japanese": "承認をもらいます。",
+        "english": "I'll get approval."
+      },
+      {
+        "japanese": "代休を取ります。",
+        "english": "I'll take a compensatory day off."
+      },
+      {
+        "japanese": "残業申請をします。",
+        "english": "I'll apply for overtime."
+      },
+      {
+        "japanese": "どこに申請しますか。",
+        "english": "Where should I apply?"
+      },
+      {
+        "japanese": "理由を書きます。",
+        "english": "I'll write the reason."
+      },
+      {
+        "japanese": "ありがとうございます。",
+        "english": "Thank you."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "休日出勤が必要な場合は、事前に申請してください。",
+        "english": "If holiday work is necessary, please apply in advance."
+      },
+      {
+        "japanese": "休日労働の申請には、上司の承認が必要です。",
+        "english": "Holiday work application requires supervisor approval."
+      },
+      {
+        "japanese": "休日出勤後は、代休を取得することができます。",
+        "english": "After holiday work, you can take a compensatory day off."
+      },
+      {
+        "japanese": "緊急の場合でも、事後申請を必ず行ってください。",
+        "english": "Even in emergencies, please be sure to apply retroactively."
+      },
+      {
+        "japanese": "休日労働の時間は、適切に記録してください。",
+        "english": "Please properly record holiday work hours."
+      },
+      {
+        "japanese": "労働基準法に基づき、適切な手続きを踏んでください。",
+        "english": "Please follow proper procedures based on labor standards law."
+      },
+      {
+        "japanese": "休日出勤の頻度が高い場合は、業務の見直しが必要です。",
+        "english": "If holiday work frequency is high, work review is necessary."
+      },
+      {
+        "japanese": "ワークライフバランスを考慮し、計画的に休暇を取得しましょう。",
+        "english": "Considering work-life balance, let's take planned leave."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "休日労働管理の適正化により、労働法規の遵守を徹底します。",
+        "english": "We'll thoroughly comply with labor laws through proper holiday work management."
+      },
+      {
+        "japanese": "休日出勤の必要性を精査し、業務プロセスの最適化を図ります。",
+        "english": "We'll optimize business processes by scrutinizing holiday work necessity."
+      },
+      {
+        "japanese": "代休取得の促進により、従業員の健康管理とワークライフバランスを支援します。",
+        "english": "We'll support employee health management and work-life balance through promoting compensatory leave."
+      },
+      {
+        "japanese": "休日労働の実態分析により、組織的な課題を特定し改善します。",
+        "english": "We'll identify and improve organizational issues through holiday work analysis."
+      },
+      {
+        "japanese": "適切な労働時間管理が、持続可能な組織運営の基盤となります。",
+        "english": "Proper working hours management becomes the foundation of sustainable organizational operation."
+      },
+      {
+        "japanese": "休日労働申請プロセスのデジタル化により、管理効率を向上させます。",
+        "english": "We'll improve management efficiency through digitalization of holiday work application process."
+      },
+      {
+        "japanese": "労働時間の可視化により、過重労働の防止を実現します。",
+        "english": "We'll prevent overwork through working hours visualization."
+      },
+      {
+        "japanese": "従業員の健康と生産性のバランスを重視した、労働環境を構築します。",
+        "english": "We'll build a work environment that emphasizes balance between employee health and productivity."
+      }
+    ]
+  }
+}

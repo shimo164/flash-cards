@@ -1,0 +1,35 @@
+{
+  "name": "長期休暇について話す",
+  "levels": {
+    "L1": [
+      {"japanese": "休みは多いですか。", "english": "Are there many holidays?"},
+      {"japanese": "夏休みはいつですか。", "english": "When is summer vacation?"},
+      {"japanese": "何連休ですか。", "english": "How many consecutive days off?"},
+      {"japanese": "休暇を取ります。", "english": "I'll take a vacation."},
+      {"japanese": "旅行に行きます。", "english": "I'll go on a trip."},
+      {"japanese": "休みをやりくりします。", "english": "I'll manage my days off."},
+      {"japanese": "有給休暇があります。", "english": "There's paid leave."},
+      {"japanese": "リフレッシュします。", "english": "I'll refresh."}
+    ],
+    "L2": [
+      {"japanese": "当社の年間休日数は、どのくらいですか。", "english": "How many annual holidays does the company have?"},
+      {"japanese": "夏季休暇は、通常5日間の連休が取得できます。", "english": "Summer vacation usually allows 5 consecutive days off."},
+      {"japanese": "有給休暇と組み合わせて、長期休暇を計画できます。", "english": "You can plan long vacations by combining with paid leave."},
+      {"japanese": "休暇の取得は、業務の状況を考慮して計画してください。", "english": "Please plan vacation taking considering work situation."},
+      {"japanese": "長期休暇前には、引き継ぎをしっかり行いましょう。", "english": "Let's properly hand over work before long vacations."},
+      {"japanese": "休暇中の緊急連絡先を、チームに共有してください。", "english": "Please share emergency contact information with the team during vacation."},
+      {"japanese": "計画的な休暇取得が、ワークライフバランスの向上につながります。", "english": "Planned vacation taking leads to improved work-life balance."},
+      {"japanese": "休暇を有効活用して、心身のリフレッシュを図りましょう。", "english": "Let's effectively use vacation for physical and mental refreshment."}
+    ],
+    "L3": [
+      {"japanese": "戦略的な休暇計画により、生産性と従業員満足度の両立を実現します。", "english": "We'll achieve both productivity and employee satisfaction through strategic vacation planning."},
+      {"japanese": "休暇取得率の向上が、組織の健全性を示す重要な指標となります。", "english": "Improved vacation utilization rate becomes an important indicator of organizational health."},
+      {"japanese": "長期休暇の取得促進により、従業員のエンゲージメント向上を図ります。", "english": "We'll improve employee engagement through promoting long vacation taking."},
+      {"japanese": "休暇管理システムの最適化により、公平な休暇取得機会を提供します。", "english": "We'll provide fair vacation opportunities through vacation management system optimization."},
+      {"japanese": "ワークライフインテグレーションの観点から、柔軟な休暇制度を設計します。", "english": "We'll design flexible vacation systems from a work-life integration perspective."},
+      {"japanese": "休暇取得の文化醸成が、持続可能な組織運営の基盤となります。", "english": "Cultivating vacation-taking culture becomes the foundation of sustainable organizational operation."},
+      {"japanese": "適切な休暇管理により、バーンアウトの防止と長期的な生産性維持を実現します。", "english": "We'll prevent burnout and maintain long-term productivity through proper vacation management."},
+      {"japanese": "休暇制度の充実が、優秀な人材の獲得と定着に寄与します。", "english": "Enhanced vacation systems contribute to acquiring and retaining excellent talent."}
+    ]
+  }
+}

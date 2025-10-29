@@ -1,0 +1,35 @@
+{
+  "name": "コーヒーブレイクに誘う",
+  "levels": {
+    "L1": [
+      {"japanese": "コーヒーを飲みに行きませんか。", "english": "Would you like to get coffee?"},
+      {"japanese": "ビルの中にカフェがあります。", "english": "There's a cafe in the building."},
+      {"japanese": "テイクアウトもできます。", "english": "We can also get takeout."},
+      {"japanese": "見晴らしのいい場所があります。", "english": "There's a place with a nice view."},
+      {"japanese": "少し休憩しましょう。", "english": "Let's take a short break."},
+      {"japanese": "リフレッシュしましょう。", "english": "Let's refresh."},
+      {"japanese": "15分だけ休みましょう。", "english": "Let's take a 15-minute break."},
+      {"japanese": "いいカフェを知っています。", "english": "I know a good cafe."}
+    ],
+    "L2": [
+      {"japanese": "少し休憩して、コーヒーでも飲みませんか。", "english": "Shall we take a break and have some coffee?"},
+      {"japanese": "ビル内のカフェは雰囲気が良くて、リラックスできますよ。", "english": "The cafe in the building has a nice atmosphere and is relaxing."},
+      {"japanese": "テイクアウトして、見晴らしのいい場所で飲むのもいいですね。", "english": "It's also nice to get takeout and drink at a place with a good view."},
+      {"japanese": "コーヒーブレイクを取って、気分転換しましょう。", "english": "Let's take a coffee break and change our mood."},
+      {"japanese": "午後の作業に備えて、少しリフレッシュしませんか。", "english": "Shall we refresh a bit before the afternoon work?"},
+      {"japanese": "カフェで軽く話しながら、アイデアを出し合いましょう。", "english": "Let's exchange ideas while chatting lightly at the cafe."},
+      {"japanese": "コーヒーを飲みながら、プロジェクトについて相談したいです。", "english": "I'd like to discuss the project over coffee."},
+      {"japanese": "定期的なコーヒーブレイクが、生産性向上につながります。", "english": "Regular coffee breaks lead to improved productivity."}
+    ],
+    "L3": [
+      {"japanese": "コーヒーブレイクを活用した非公式なコミュニケーションが、創造性を刺激します。", "english": "Informal communication through coffee breaks stimulates creativity."},
+      {"japanese": "ビル内の快適なカフェスペースは、従業員の福利厚生の一環として重要です。", "english": "The comfortable cafe space in the building is important as part of employee welfare."},
+      {"japanese": "見晴らしの良い環境での休憩が、精神的なリフレッシュを促進します。", "english": "Breaks in an environment with a good view promote mental refreshment."},
+      {"japanese": "短時間の休憩を戦略的に取り入れることで、持続的な集中力を維持できます。", "english": "By strategically incorporating short breaks, we can maintain sustained concentration."},
+      {"japanese": "カフェでのインフォーマルな対話が、部門間の壁を取り払います。", "english": "Informal dialogue at the cafe breaks down barriers between departments."},
+      {"japanese": "コーヒーブレイクの文化醸成が、働きやすい職場環境の構築に寄与します。", "english": "Cultivating a coffee break culture contributes to building a comfortable workplace."},
+      {"japanese": "リラックスした雰囲気での会話が、革新的なアイデアの創出につながります。", "english": "Conversations in a relaxed atmosphere lead to the creation of innovative ideas."},
+      {"japanese": "適切な休憩の取り方が、長期的なパフォーマンス維持の鍵となります。", "english": "Proper break-taking becomes the key to maintaining long-term performance."}
+    ]
+  }
+}

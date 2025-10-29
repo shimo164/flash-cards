@@ -1,0 +1,35 @@
+{
+  "name": "会議の連絡、変更、キャンセル",
+  "levels": {
+    "L1": [
+      {"japanese": "会議の時間を変更します。", "english": "I'll change the meeting time."},
+      {"japanese": "会議をキャンセルします。", "english": "I'll cancel the meeting."},
+      {"japanese": "会議の場所が変わりました。", "english": "The meeting location has changed."},
+      {"japanese": "会議は明日です。", "english": "The meeting is tomorrow."},
+      {"japanese": "会議の時間を教えてください。", "english": "Please tell me the meeting time."},
+      {"japanese": "会議に参加できません。", "english": "I can't attend the meeting."},
+      {"japanese": "会議の予定を確認します。", "english": "I'll confirm the meeting schedule."},
+      {"japanese": "会議の連絡をします。", "english": "I'll notify about the meeting."}
+    ],
+    "L2": [
+      {"japanese": "急な変更で申し訳ありませんが、会議を延期させていただきます。", "english": "I apologize for the sudden change, but we'll postpone the meeting."},
+      {"japanese": "会議の開始時間を30分遅らせていただけますか。", "english": "Could we delay the meeting start time by 30 minutes?"},
+      {"japanese": "会議室の予約が取れなかったため、オンラインに変更します。", "english": "Since we couldn't book a meeting room, we'll switch to online."},
+      {"japanese": "参加者の都合により、会議を来週に変更いたします。", "english": "Due to participants' schedules, we'll reschedule the meeting to next week."},
+      {"japanese": "会議のキャンセルについて、関係者全員に連絡しました。", "english": "I've notified all stakeholders about the meeting cancellation."},
+      {"japanese": "会議の議題が変更になりましたので、お知らせします。", "english": "I'm informing you that the meeting agenda has changed."},
+      {"japanese": "緊急の案件が発生したため、本日の会議は中止します。", "english": "Due to an urgent matter, today's meeting is cancelled."},
+      {"japanese": "会議の日程調整について、ご協力をお願いします。", "english": "I'd appreciate your cooperation in rescheduling the meeting."}
+    ],
+    "L3": [
+      {"japanese": "諸般の事情により、予定されていた会議を延期せざるを得ない状況となりました。", "english": "Due to various circumstances, we're compelled to postpone the scheduled meeting."},
+      {"japanese": "参加者の過半数が都合がつかないため、会議の再調整を検討しております。", "english": "Since the majority of participants are unavailable, we're considering rescheduling."},
+      {"japanese": "会議の中止に伴う影響を最小限に抑えるため、代替案を提示いたします。", "english": "To minimize the impact of the meeting cancellation, I'll present alternative options."},
+      {"japanese": "突発的な事態により、やむを得ず会議をキャンセルすることになりました。", "english": "Due to an unforeseen situation, we're regrettably forced to cancel the meeting."},
+      {"japanese": "会議の変更について、関係各位に速やかに周知徹底いたします。", "english": "I'll promptly and thoroughly inform all relevant parties about the meeting change."},
+      {"japanese": "スケジュール調整の複雑さを考慮し、柔軟な対応をお願い申し上げます。", "english": "Considering the complexity of schedule coordination, I request your flexible accommodation."},
+      {"japanese": "会議の延期により生じる業務への影響について、事前に対策を講じます。", "english": "We'll take preventive measures regarding the work impact caused by the meeting postponement."},
+      {"japanese": "緊急性と重要性を勘案し、会議の優先順位を再評価いたします。", "english": "Considering urgency and importance, we'll reassess the meeting's priority."}
+    ]
+  }
+}

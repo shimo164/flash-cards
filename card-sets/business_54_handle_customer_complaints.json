@@ -1,0 +1,35 @@
+{
+  "name": "お客様からのクレームに対応する",
+  "levels": {
+    "L1": [
+      {"japanese": "申し訳ございません。", "english": "I apologize."},
+      {"japanese": "お話を伺います。", "english": "I'll listen to you."},
+      {"japanese": "すぐに確認します。", "english": "I'll check right away."},
+      {"japanese": "対応いたします。", "english": "I'll handle it."},
+      {"japanese": "ご不便をおかけしました。", "english": "We apologize for the inconvenience."},
+      {"japanese": "改善いたします。", "english": "We'll improve it."},
+      {"japanese": "ご意見ありがとうございます。", "english": "Thank you for your feedback."},
+      {"japanese": "今後気をつけます。", "english": "We'll be careful in the future."}
+    ],
+    "L2": [
+      {"japanese": "この度は大変ご迷惑をおかけし、誠に申し訳ございません。", "english": "We sincerely apologize for the great inconvenience caused."},
+      {"japanese": "お客様のご不満を真摯に受け止め、迅速に対応させていただきます。", "english": "We'll take your dissatisfaction seriously and respond promptly."},
+      {"japanese": "状況を詳しくお聞かせいただけますでしょうか。", "english": "Could you please tell us the situation in detail?"},
+      {"japanese": "問題の原因を調査し、適切な解決策をご提案いたします。", "english": "We'll investigate the cause and propose an appropriate solution."},
+      {"japanese": "お客様のご期待に添えず、深くお詫び申し上げます。", "english": "We deeply apologize for not meeting your expectations."},
+      {"japanese": "再発防止に向けて、社内で徹底した改善を行います。", "english": "We'll implement thorough improvements internally to prevent recurrence."},
+      {"japanese": "貴重なご意見として、サービス向上に活かさせていただきます。", "english": "We'll utilize your valuable feedback for service improvement."},
+      {"japanese": "ご満足いただけるよう、最善を尽くしてまいります。", "english": "We'll do our best to ensure your satisfaction."}
+    ],
+    "L3": [
+      {"japanese": "お客様の信頼を損ねる事態を招いたことを、深く反省しております。", "english": "We deeply regret causing a situation that damaged your trust."},
+      {"japanese": "クレームの本質的な要因を徹底的に分析し、根本的な解決を図ります。", "english": "We'll thoroughly analyze the essential factors of the complaint and achieve fundamental resolution."},
+      {"japanese": "お客様の立場に立った誠実な対応を通じて、信頼関係の回復に努めます。", "english": "We'll work to restore trust through sincere response from the customer's perspective."},
+      {"japanese": "クレーム対応を組織的な改善機会として捉え、サービス品質の向上を実現します。", "english": "We'll view complaint handling as an organizational improvement opportunity to enhance service quality."},
+      {"japanese": "お客様の期待値を正確に把握し、それを上回る価値提供を目指します。", "english": "We'll accurately understand customer expectations and aim to provide value exceeding them."},
+      {"japanese": "クレーム対応のプロセスを標準化し、一貫性のある高品質な対応を保証します。", "english": "We'll standardize the complaint handling process to ensure consistent high-quality response."},
+      {"japanese": "お客様からのフィードバックを経営層まで共有し、戦略的な改善を推進します。", "english": "We'll share customer feedback up to management level and promote strategic improvements."},
+      {"japanese": "クレーム対応を通じて構築される信頼関係が、長期的な顧客価値の創造につながります。", "english": "Trust built through complaint handling leads to long-term customer value creation."}
+    ]
+  }
+}

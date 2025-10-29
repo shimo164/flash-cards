@@ -1,0 +1,107 @@
+{
+  "name": "ゴミの分別について話す",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "ゴミの分別をしてください。",
+        "english": "Please sort the waste."
+      },
+      {
+        "japanese": "これは燃えるゴミです。",
+        "english": "This is burnable waste."
+      },
+      {
+        "japanese": "プラスチックは別です。",
+        "english": "Plastic is separate."
+      },
+      {
+        "japanese": "リサイクルできます。",
+        "english": "It can be recycled."
+      },
+      {
+        "japanese": "分別が細かいです。",
+        "english": "The sorting is detailed."
+      },
+      {
+        "japanese": "どこに捨てますか。",
+        "english": "Where should I throw it?"
+      },
+      {
+        "japanese": "ルールを守ってください。",
+        "english": "Please follow the rules."
+      },
+      {
+        "japanese": "環境に優しいです。",
+        "english": "It's environmentally friendly."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "当社では、ゴミの分別を細かく行っています。",
+        "english": "Our company practices detailed waste sorting."
+      },
+      {
+        "japanese": "燃えるゴミ、プラスチック、紙類、缶・瓶に分けてください。",
+        "english": "Please separate into burnable waste, plastic, paper, and cans/bottles."
+      },
+      {
+        "japanese": "リサイクル可能なものは、必ず分別してください。",
+        "english": "Please be sure to sort recyclable items."
+      },
+      {
+        "japanese": "ゴミの分別ルールは、掲示板に詳しく書いてあります。",
+        "english": "Waste sorting rules are detailed on the bulletin board."
+      },
+      {
+        "japanese": "環境保護のため、皆様のご協力をお願いします。",
+        "english": "We request your cooperation for environmental protection."
+      },
+      {
+        "japanese": "分別が不明な場合は、総務部に確認してください。",
+        "english": "If you're unsure about sorting, please check with the general affairs department."
+      },
+      {
+        "japanese": "適切な分別が、リサイクル率の向上につながります。",
+        "english": "Proper sorting leads to improved recycling rates."
+      },
+      {
+        "japanese": "ゴミの削減と分別は、企業の社会的責任です。",
+        "english": "Waste reduction and sorting are corporate social responsibilities."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "包括的な廃棄物管理システムの構築が、持続可能な経営の基盤です。",
+        "english": "Building a comprehensive waste management system is the foundation of sustainable management."
+      },
+      {
+        "japanese": "詳細な分別基準の設定により、リサイクル効率の最大化を図っています。",
+        "english": "We're maximizing recycling efficiency through detailed sorting standards."
+      },
+      {
+        "japanese": "従業員の環境意識向上が、組織全体のサステナビリティ推進につながります。",
+        "english": "Raising employee environmental awareness leads to organization-wide sustainability promotion."
+      },
+      {
+        "japanese": "廃棄物削減の取り組みを、環境報告書で定期的に開示しています。",
+        "english": "We regularly disclose waste reduction efforts in environmental reports."
+      },
+      {
+        "japanese": "循環型社会の実現に向けた、積極的な資源管理を実践しています。",
+        "english": "We practice proactive resource management toward realizing a circular society."
+      },
+      {
+        "japanese": "廃棄物分別の徹底が、企業価値の向上に寄与します。",
+        "english": "Thorough waste sorting contributes to enhancing corporate value."
+      },
+      {
+        "japanese": "環境配慮型の組織文化醸成が、長期的な競争優位性を生み出します。",
+        "english": "Cultivating an environmentally conscious organizational culture creates long-term competitive advantage."
+      },
+      {
+        "japanese": "廃棄物管理の最適化を通じて、コスト削減と環境保護を両立します。",
+        "english": "Through waste management optimization, we achieve both cost reduction and environmental protection."
+      }
+    ]
+  }
+}

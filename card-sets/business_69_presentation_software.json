@@ -1,0 +1,35 @@
+{
+  "name": "プレゼンソフトの使い方",
+  "levels": {
+    "L1": [
+      {"japanese": "スライドを作ります。", "english": "I'll create slides."},
+      {"japanese": "画像を挿入します。", "english": "I'll insert an image."},
+      {"japanese": "アニメーションをつけます。", "english": "I'll add animation."},
+      {"japanese": "発表します。", "english": "I'll present."},
+      {"japanese": "スライドショーを開始します。", "english": "I'll start the slideshow."},
+      {"japanese": "テンプレートを使います。", "english": "I'll use a template."},
+      {"japanese": "デザインを変えます。", "english": "I'll change the design."},
+      {"japanese": "使い方を教えてください。", "english": "Please teach me how to use it."}
+    ],
+    "L2": [
+      {"japanese": "スライドのレイアウトを統一してください。", "english": "Please unify the slide layout."},
+      {"japanese": "マスタースライドを編集すると、全体のデザインが変わります。", "english": "Editing the master slide changes the overall design."},
+      {"japanese": "トランジション効果を適切に使うと、プレゼンが見やすくなります。", "english": "Using transition effects appropriately makes presentations easier to view."},
+      {"japanese": "スピーカーノートに、発表内容のメモを書けます。", "english": "You can write presentation notes in speaker notes."},
+      {"japanese": "グラフや図表を効果的に使って、データを視覚化しましょう。", "english": "Let's visualize data by effectively using charts and diagrams."},
+      {"japanese": "フォントサイズは、後ろの席からも見えるように大きくしてください。", "english": "Please make the font size large enough to be seen from the back seats."},
+      {"japanese": "色使いは、見やすさとブランドイメージを考慮してください。", "english": "Consider visibility and brand image when using colors."},
+      {"japanese": "プレゼンの練習をして、時間配分を確認しましょう。", "english": "Let's practice the presentation and check time allocation."}
+    ],
+    "L3": [
+      {"japanese": "効果的なビジュアルコミュニケーションにより、メッセージの伝達力を最大化します。", "english": "We'll maximize message delivery through effective visual communication."},
+      {"japanese": "ストーリーテリングの技法を活用し、聴衆のエンゲージメントを高めます。", "english": "We'll enhance audience engagement through storytelling techniques."},
+      {"japanese": "データビジュアライゼーションの最適化により、複雑な情報を明確に伝達します。", "english": "We'll clearly communicate complex information through data visualization optimization."},
+      {"japanese": "プレゼンテーションデザインの原則に基づき、プロフェッショナルな資料を作成します。", "english": "We'll create professional materials based on presentation design principles."},
+      {"japanese": "アクセシビリティを考慮したスライド設計により、包括的なコミュニケーションを実現します。", "english": "We'll achieve inclusive communication through accessibility-conscious slide design."},
+      {"japanese": "プレゼンテーションスキルの向上が、影響力のある提案を可能にします。", "english": "Improving presentation skills enables influential proposals."},
+      {"japanese": "視覚的階層構造の確立により、情報の優先順位を明確化します。", "english": "We'll clarify information priority through establishing visual hierarchy."},
+      {"japanese": "効果的なプレゼンテーション手法の習得が、ビジネス成果の向上につながります。", "english": "Mastering effective presentation methods leads to improved business outcomes."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "name": "コーディングにおけるコメント",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "コメントを書いてください。",
+        "english": "Please write comments."
+      },
+      {
+        "japanese": "このコメントは分かりにくいです。",
+        "english": "This comment is unclear."
+      },
+      {
+        "japanese": "コメントを更新してください。",
+        "english": "Please update the comment."
+      },
+      {
+        "japanese": "コメントが古いです。",
+        "english": "The comment is outdated."
+      },
+      {
+        "japanese": "役に立ちません。",
+        "english": "It's not helpful."
+      },
+      {
+        "japanese": "もっと詳しく書いてください。",
+        "english": "Please write in more detail."
+      },
+      {
+        "japanese": "コメントが間違っています。",
+        "english": "The comment is wrong."
+      },
+      {
+        "japanese": "分かりやすく書きましょう。",
+        "english": "Let's write clearly."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "このコメントはコードの内容を説明していません。",
+        "english": "This comment doesn't explain the code content."
+      },
+      {
+        "japanese": "コメントは「なぜ」を説明すべきで、「何を」ではありません。",
+        "english": "Comments should explain 'why', not 'what'."
+      },
+      {
+        "japanese": "コードを見れば分かることをコメントに書く必要はありません。",
+        "english": "There's no need to comment on what's obvious from the code."
+      },
+      {
+        "japanese": "コメントとコードの内容が一致していないので、修正してください。",
+        "english": "The comment and code don't match, please fix it."
+      },
+      {
+        "japanese": "意味のあるコメントを書くことで、保守性が向上します。",
+        "english": "Writing meaningful comments improves maintainability."
+      },
+      {
+        "japanese": "古いコメントは削除するか、更新してください。",
+        "english": "Please delete or update old comments."
+      },
+      {
+        "japanese": "コメントの品質が、コードレビューの重要な観点です。",
+        "english": "Comment quality is an important aspect of code review."
+      },
+      {
+        "japanese": "適切なコメントは、将来の自分や他の開発者を助けます。",
+        "english": "Proper comments help your future self and other developers."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "自己説明的なコードの記述により、冗長なコメントの必要性を削減します。",
+        "english": "Writing self-explanatory code reduces the need for redundant comments."
+      },
+      {
+        "japanese": "コメントの保守コストを考慮し、真に価値のある情報のみを記載します。",
+        "english": "Considering comment maintenance costs, we document only truly valuable information."
+      },
+      {
+        "japanese": "コードとコメントの乖離は、技術的負債の蓄積につながります。",
+        "english": "Divergence between code and comments leads to technical debt accumulation."
+      },
+      {
+        "japanese": "コメントの品質基準を明確化し、コードレビュープロセスに組み込みます。",
+        "english": "We'll clarify comment quality standards and incorporate them into the code review process."
+      },
+      {
+        "japanese": "意図や設計判断を記録するコメントが、長期的な保守性を向上させます。",
+        "english": "Comments recording intent and design decisions improve long-term maintainability."
+      },
+      {
+        "japanese": "コメントの自動生成ツールに依存せず、人間の洞察を重視します。",
+        "english": "We prioritize human insight rather than relying on automatic comment generation tools."
+      },
+      {
+        "japanese": "コメント文化の改善が、コードベース全体の品質向上に寄与します。",
+        "english": "Improving comment culture contributes to overall codebase quality improvement."
+      },
+      {
+        "japanese": "効果的なコメント戦略の確立が、開発チームの生産性を高めます。",
+        "english": "Establishing an effective comment strategy enhances development team productivity."
+      }
+    ]
+  }
+}

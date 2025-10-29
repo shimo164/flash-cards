@@ -1,0 +1,35 @@
+{
+  "name": "お客様からのクレームを分析する",
+  "levels": {
+    "L1": [
+      {"japanese": "クレームを確認します。", "english": "I'll check the complaint."},
+      {"japanese": "原因を調べます。", "english": "I'll investigate the cause."},
+      {"japanese": "データを集めます。", "english": "I'll collect data."},
+      {"japanese": "傾向を見ます。", "english": "I'll look at trends."},
+      {"japanese": "問題点を見つけます。", "english": "I'll find the issues."},
+      {"japanese": "改善が必要です。", "english": "Improvement is needed."},
+      {"japanese": "報告書を作ります。", "english": "I'll create a report."},
+      {"japanese": "対策を考えます。", "english": "I'll think of countermeasures."}
+    ],
+    "L2": [
+      {"japanese": "クレームの内容を分類し、パターンを分析します。", "english": "We'll categorize complaint content and analyze patterns."},
+      {"japanese": "クレームの発生頻度と重要度を評価し、優先順位をつけます。", "english": "We'll evaluate complaint frequency and importance, then prioritize."},
+      {"japanese": "クレームの根本原因を特定するため、詳細な調査を実施します。", "english": "We'll conduct detailed investigation to identify root causes of complaints."},
+      {"japanese": "過去のクレームデータと比較し、傾向の変化を把握します。", "english": "We'll compare with past complaint data to understand trend changes."},
+      {"japanese": "クレーム分析の結果を関係部署と共有し、改善策を検討します。", "english": "We'll share analysis results with relevant departments and consider improvements."},
+      {"japanese": "クレームから得られる顧客の声を、サービス向上に活かします。", "english": "We'll utilize customer feedback from complaints to improve service."},
+      {"japanese": "クレームの予防策を立案し、再発防止に努めます。", "english": "We'll formulate preventive measures and work to prevent recurrence."},
+      {"japanese": "クレーム分析を定期的に行い、継続的な改善を図ります。", "english": "We'll conduct regular complaint analysis for continuous improvement."}
+    ],
+    "L3": [
+      {"japanese": "クレームデータの多角的な分析により、潜在的な問題領域を可視化します。", "english": "We'll visualize potential problem areas through multifaceted complaint data analysis."},
+      {"japanese": "クレームの構造的要因を解明し、システマティックな改善アプローチを構築します。", "english": "We'll clarify structural factors of complaints and build a systematic improvement approach."},
+      {"japanese": "クレーム分析から導出される洞察を、戦略的な意思決定に反映させます。", "english": "We'll reflect insights derived from complaint analysis in strategic decision-making."},
+      {"japanese": "クレームの定量的・定性的分析を統合し、包括的な理解を深めます。", "english": "We'll integrate quantitative and qualitative complaint analysis for comprehensive understanding."},
+      {"japanese": "クレーム分析の高度化により、顧客満足度向上の具体的施策を導き出します。", "english": "Through advanced complaint analysis, we'll derive concrete measures for customer satisfaction improvement."},
+      {"japanese": "クレームパターンの予測モデルを構築し、プロアクティブな対応を実現します。", "english": "We'll build predictive models for complaint patterns to enable proactive response."},
+      {"japanese": "クレーム分析を組織的な学習プロセスとして位置づけ、継続的な進化を促進します。", "english": "We'll position complaint analysis as an organizational learning process to promote continuous evolution."},
+      {"japanese": "クレーム分析の知見を製品・サービス開発にフィードバックし、競争優位性を強化します。", "english": "We'll feed back complaint analysis insights to product/service development to strengthen competitive advantage."}
+    ]
+  }
+}

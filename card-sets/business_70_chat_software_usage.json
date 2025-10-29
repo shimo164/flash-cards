@@ -1,0 +1,35 @@
+{
+  "name": "チャットソフトの使い方",
+  "levels": {
+    "L1": [
+      {"japanese": "メッセージを送ります。", "english": "I'll send a message."},
+      {"japanese": "返信します。", "english": "I'll reply."},
+      {"japanese": "ファイルを添付します。", "english": "I'll attach a file."},
+      {"japanese": "グループを作ります。", "english": "I'll create a group."},
+      {"japanese": "通知が来ました。", "english": "I got a notification."},
+      {"japanese": "既読になりました。", "english": "It's been read."},
+      {"japanese": "誤送信しました。", "english": "I sent it by mistake."},
+      {"japanese": "使い方を教えてください。", "english": "Please teach me how to use it."}
+    ],
+    "L2": [
+      {"japanese": "Enterを押しただけで誤って送信してしまいました。", "english": "I accidentally sent it just by pressing Enter."},
+      {"japanese": "送信前に、内容を確認する習慣をつけましょう。", "english": "Let's make it a habit to check the content before sending."},
+      {"japanese": "メンションを使うと、特定の人に通知が届きます。", "english": "Using mentions sends notifications to specific people."},
+      {"japanese": "スレッド機能を使って、話題ごとに整理しましょう。", "english": "Let's organize by topic using the thread feature."},
+      {"japanese": "ステータスを設定すると、自分の状況を共有できます。", "english": "Setting your status allows you to share your situation."},
+      {"japanese": "絵文字やリアクションで、簡単に反応を示せます。", "english": "You can easily show reactions with emojis and reactions."},
+      {"japanese": "重要なメッセージは、ピン留めしておくと便利です。", "english": "It's convenient to pin important messages."},
+      {"japanese": "チャットのマナーを守って、円滑なコミュニケーションを心がけましょう。", "english": "Let's maintain chat etiquette for smooth communication."}
+    ],
+    "L3": [
+      {"japanese": "チャットツールの効果的な活用により、リアルタイムコラボレーションを促進します。", "english": "We'll promote real-time collaboration through effective chat tool utilization."},
+      {"japanese": "非同期コミュニケーションの最適化により、生産性の向上を実現します。", "english": "We'll achieve productivity improvement through asynchronous communication optimization."},
+      {"japanese": "チャットエチケットの確立により、プロフェッショナルなコミュニケーション文化を醸成します。", "english": "We'll cultivate professional communication culture through establishing chat etiquette."},
+      {"japanese": "情報の適切な整理と検索性の向上により、ナレッジマネジメントを強化します。", "english": "We'll strengthen knowledge management through proper information organization and improved searchability."},
+      {"japanese": "チャットツールの統合により、ワークフローの効率化を図ります。", "english": "We'll achieve workflow efficiency through chat tool integration."},
+      {"japanese": "セキュリティとプライバシーを考慮した、適切な情報共有を実践します。", "english": "We'll practice appropriate information sharing considering security and privacy."},
+      {"japanese": "チャットコミュニケーションの最適化が、組織の機動性向上に寄与します。", "english": "Chat communication optimization contributes to improving organizational agility."},
+      {"japanese": "効果的なデジタルコミュニケーションスキルの習得が、リモートワークの成功を支えます。", "english": "Acquiring effective digital communication skills supports remote work success."}
+    ]
+  }
+}

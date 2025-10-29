@@ -1,0 +1,35 @@
+{
+  "name": "文書ソフトの使い方",
+  "levels": {
+    "L1": [
+      {"japanese": "文書を作成します。", "english": "I'll create a document."},
+      {"japanese": "保存してください。", "english": "Please save it."},
+      {"japanese": "太字にします。", "english": "I'll make it bold."},
+      {"japanese": "下線を引きます。", "english": "I'll underline it."},
+      {"japanese": "コピーします。", "english": "I'll copy it."},
+      {"japanese": "貼り付けます。", "english": "I'll paste it."},
+      {"japanese": "印刷します。", "english": "I'll print it."},
+      {"japanese": "使い方を教えてください。", "english": "Please teach me how to use it."}
+    ],
+    "L2": [
+      {"japanese": "取り消し線を引くには、どうすればいいですか。", "english": "How do I apply strikethrough?"},
+      {"japanese": "文書のフォーマットを統一してください。", "english": "Please unify the document format."},
+      {"japanese": "ページ番号を挿入したいです。", "english": "I want to insert page numbers."},
+      {"japanese": "目次を自動生成する機能があります。", "english": "There's a function to auto-generate a table of contents."},
+      {"japanese": "スタイルを適用すると、書式設定が簡単になります。", "english": "Applying styles makes formatting easier."},
+      {"japanese": "変更履歴機能を使って、編集内容を追跡できます。", "english": "You can track edits using the track changes feature."},
+      {"japanese": "テンプレートを使うと、効率的に文書を作成できます。", "english": "Using templates allows efficient document creation."},
+      {"japanese": "ショートカットキーを覚えると、作業が速くなります。", "english": "Learning shortcut keys speeds up work."}
+    ],
+    "L3": [
+      {"japanese": "文書作成の効率化により、業務生産性の向上を実現します。", "english": "We'll achieve work productivity improvement through document creation efficiency."},
+      {"japanese": "スタイルガイドの統一により、組織全体の文書品質を標準化します。", "english": "We'll standardize organization-wide document quality through unified style guides."},
+      {"japanese": "高度な機能の活用により、複雑な文書作成を効率化します。", "english": "We'll streamline complex document creation through advanced feature utilization."},
+      {"japanese": "文書管理システムとの連携により、バージョン管理を最適化します。", "english": "We'll optimize version control through integration with document management systems."},
+      {"japanese": "アクセシビリティ機能の活用により、包括的な文書作成を実現します。", "english": "We'll achieve inclusive document creation through accessibility feature utilization."},
+      {"japanese": "マクロやアドインの活用により、反復作業を自動化します。", "english": "We'll automate repetitive tasks through macro and add-in utilization."},
+      {"japanese": "文書作成スキルの向上が、プロフェッショナルな成果物の質を高めます。", "english": "Improving document creation skills enhances professional deliverable quality."},
+      {"japanese": "効率的な文書作成手法の確立が、組織の知的生産性を向上させます。", "english": "Establishing efficient document creation methods improves organizational intellectual productivity."}
+    ]
+  }
+}

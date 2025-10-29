@@ -1,0 +1,35 @@
+{
+  "name": "週末の予定について話す",
+  "levels": {
+    "L1": [
+      {"japanese": "週末は何をしますか。", "english": "What will you do this weekend?"},
+      {"japanese": "予定がありますか。", "english": "Do you have plans?"},
+      {"japanese": "どこかに行きますか。", "english": "Are you going somewhere?"},
+      {"japanese": "楽しみですね。", "english": "That sounds fun."},
+      {"japanese": "良い週末を。", "english": "Have a good weekend."},
+      {"japanese": "また月曜日に。", "english": "See you Monday."},
+      {"japanese": "ゆっくり休んでください。", "english": "Please rest well."},
+      {"japanese": "楽しんでください。", "english": "Enjoy yourself."}
+    ],
+    "L2": [
+      {"japanese": "今週末は何か予定がありますか。", "english": "Do you have any plans this weekend?"},
+      {"japanese": "特に予定はないので、のんびり過ごす予定です。", "english": "I don't have particular plans, so I'll spend it leisurely."},
+      {"japanese": "週末は家族と出かける予定です。", "english": "I plan to go out with family this weekend."},
+      {"japanese": "趣味の時間を楽しみにしています。", "english": "I'm looking forward to hobby time."},
+      {"japanese": "週末の予定を聞くのは、良いコミュニケーションになります。", "english": "Asking about weekend plans makes good communication."},
+      {"japanese": "月曜日に、週末の話をするのも楽しいですね。", "english": "It's also fun to talk about the weekend on Monday."},
+      {"japanese": "良い週末をお過ごしください。", "english": "Please have a wonderful weekend."},
+      {"japanese": "週末明けに、また元気にお会いしましょう。", "english": "Let's meet again energetically after the weekend."}
+    ],
+    "L3": [
+      {"japanese": "週末の活動に関する対話が、職場での人間関係構築に寄与します。", "english": "Dialogue about weekend activities contributes to workplace relationship building."},
+      {"japanese": "ワークライフバランスの実践例を共有することで、組織文化の醸成を促進します。", "english": "We promote organizational culture cultivation by sharing work-life balance practice examples."},
+      {"japanese": "週末の充実が、週明けの生産性向上につながることが実証されています。", "english": "It's proven that fulfilling weekends lead to improved productivity at the start of the week."},
+      {"japanese": "カジュアルな会話を通じた信頼関係の構築が、効果的なチームワークの基盤となります。", "english": "Trust building through casual conversation becomes the foundation of effective teamwork."},
+      {"japanese": "週末活動の多様性が、個人の創造性と組織のイノベーションを刺激します。", "english": "Diversity of weekend activities stimulates individual creativity and organizational innovation."},
+      {"japanese": "適切なワークライフセパレーションが、長期的なキャリアサステナビリティを支えます。", "english": "Appropriate work-life separation supports long-term career sustainability."},
+      {"japanese": "週末に関する対話が、インクルーシブな職場環境の構築に貢献します。", "english": "Dialogue about weekends contributes to building an inclusive workplace environment."},
+      {"japanese": "リフレッシュした状態での業務再開が、組織全体のパフォーマンス向上を実現します。", "english": "Resuming work in a refreshed state achieves organization-wide performance improvement."}
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "上司に承認をお願いする",
+  "levels": {
+    "L1": [
+      {"japanese": "承認をお願いします。", "english": "Please approve this."},
+      {"japanese": "確認してください。", "english": "Please check it."},
+      {"japanese": "サインをください。", "english": "Please sign it."},
+      {"japanese": "急ぎです。", "english": "It's urgent."},
+      {"japanese": "いつまでに必要です。", "english": "I need it by when."},
+      {"japanese": "承認待ちです。", "english": "It's waiting for approval."},
+      {"japanese": "お時間をいただけますか。", "english": "Could you spare some time?"},
+      {"japanese": "ありがとうございます。", "english": "Thank you."}
+    ],
+    "L2": [
+      {"japanese": "この案件について、ご承認をいただきたくお願い申し上げます。", "english": "I'd like to request your approval for this matter."},
+      {"japanese": "添付資料をご確認の上、承認をお願いできますでしょうか。", "english": "Could you please review the attached materials and approve?"},
+      {"japanese": "期限が迫っておりますので、お早めにご確認いただけると助かります。", "english": "Since the deadline is approaching, I'd appreciate your prompt review."},
+      {"japanese": "承認プロセスについて、不明な点があればお知らせください。", "english": "Please let me know if you have any questions about the approval process."},
+      {"japanese": "この提案の承認をいただければ、すぐに実行に移せます。", "english": "If I receive approval for this proposal, I can implement it immediately."},
+      {"japanese": "承認後の次のステップについても、ご説明させていただきます。", "english": "I'll also explain the next steps after approval."},
+      {"japanese": "ご多忙のところ恐縮ですが、ご承認のほどよろしくお願いいたします。", "english": "I apologize for the inconvenience during your busy schedule, but I request your approval."},
+      {"japanese": "承認いただきましたら、関係者に速やかに連絡いたします。", "english": "Once approved, I'll promptly notify the relevant parties."}
+    ],
+    "L3": [
+      {"japanese": "本件の戦略的重要性を鑑み、迅速なご承認をお願い申し上げます。", "english": "Considering the strategic importance of this matter, I request your prompt approval."},
+      {"japanese": "承認プロセスの効率化により、意思決定のスピードを向上させます。", "english": "We'll improve decision-making speed through approval process efficiency."},
+      {"japanese": "承認権限の適切な委譲が、組織の機動性向上に寄与します。", "english": "Appropriate delegation of approval authority contributes to improving organizational agility."},
+      {"japanese": "承認基準の明確化により、判断の一貫性と透明性を確保します。", "english": "We'll ensure judgment consistency and transparency through clarifying approval criteria."},
+      {"japanese": "デジタル承認システムの導入により、プロセスの可視化を実現します。", "english": "We'll achieve process visualization through introducing a digital approval system."},
+      {"japanese": "承認フローの最適化が、業務効率の大幅な改善につながります。", "english": "Approval flow optimization leads to significant business efficiency improvement."},
+      {"japanese": "承認プロセスにおけるボトルネックの特定と解消を図ります。", "english": "We'll identify and resolve bottlenecks in the approval process."},
+      {"japanese": "承認の迅速化と適切なガバナンスのバランスを保ちます。", "english": "We'll maintain balance between approval acceleration and appropriate governance."}
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "ハラスメントは許されない",
+  "levels": {
+    "L1": [
+      {"japanese": "それはハラスメントです。", "english": "That's harassment."},
+      {"japanese": "やめてください。", "english": "Please stop."},
+      {"japanese": "不快です。", "english": "I'm uncomfortable."},
+      {"japanese": "報告します。", "english": "I'll report it."},
+      {"japanese": "許されません。", "english": "It's not acceptable."},
+      {"japanese": "相談窓口があります。", "english": "There's a consultation desk."},
+      {"japanese": "尊重してください。", "english": "Please respect me."},
+      {"japanese": "適切ではありません。", "english": "It's not appropriate."}
+    ],
+    "L2": [
+      {"japanese": "ハラスメントは職場において絶対に許されない行為です。", "english": "Harassment is absolutely unacceptable behavior in the workplace."},
+      {"japanese": "不適切な言動を目撃した場合は、速やかに報告してください。", "english": "If you witness inappropriate behavior, please report it promptly."},
+      {"japanese": "全ての従業員が安心して働ける環境を維持することが重要です。", "english": "It's important to maintain an environment where all employees can work safely."},
+      {"japanese": "ハラスメント防止のための研修を定期的に実施しています。", "english": "We conduct regular training for harassment prevention."},
+      {"japanese": "相談窓口は匿名での相談も受け付けています。", "english": "The consultation desk also accepts anonymous consultations."},
+      {"japanese": "ハラスメントの被害者を守ることが組織の責任です。", "english": "Protecting harassment victims is the organization's responsibility."},
+      {"japanese": "互いを尊重し、健全な職場環境を作りましょう。", "english": "Let's respect each other and create a healthy workplace."},
+      {"japanese": "ハラスメントに対しては厳正に対処します。", "english": "We'll deal strictly with harassment."}
+    ],
+    "L3": [
+      {"japanese": "ハラスメントの根絶は、組織の持続可能性に直結する重要課題です。", "english": "Eradicating harassment is a critical issue directly linked to organizational sustainability."},
+      {"japanese": "包括的なハラスメント防止ポリシーを策定し、徹底した周知を図ります。", "english": "We'll formulate a comprehensive harassment prevention policy and ensure thorough awareness."},
+      {"japanese": "ハラスメントを許容しない組織文化の醸成が、全員の責務です。", "english": "Cultivating an organizational culture that doesn't tolerate harassment is everyone's duty."},
+      {"japanese": "心理的安全性の確保が、生産性向上の基盤となります。", "english": "Ensuring psychological safety becomes the foundation for productivity improvement."},
+      {"japanese": "ハラスメント事案に対する迅速かつ公正な対応体制を整備しています。", "english": "We've established a system for swift and fair response to harassment cases."},
+      {"japanese": "多様性を尊重する職場環境の構築が、イノベーションを促進します。", "english": "Building a workplace that respects diversity promotes innovation."},
+      {"japanese": "ハラスメント防止は、コンプライアンスを超えた倫理的責任です。", "english": "Harassment prevention is an ethical responsibility beyond compliance."},
+      {"japanese": "組織全体でハラスメント撲滅に向けた継続的な取り組みを推進します。", "english": "We'll promote continuous efforts toward harassment eradication across the organization."}
+    ]
+  }
+}

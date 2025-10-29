@@ -1,0 +1,35 @@
+{
+  "name": "イベントの開催を連絡する",
+  "levels": {
+    "L1": [
+      {"japanese": "イベントを開催します。", "english": "We'll hold an event."},
+      {"japanese": "日時をお知らせします。", "english": "I'll inform you of the date and time."},
+      {"japanese": "場所は会議室です。", "english": "The location is the meeting room."},
+      {"japanese": "参加してください。", "english": "Please participate."},
+      {"japanese": "詳細は後ほど連絡します。", "english": "I'll contact you with details later."},
+      {"japanese": "参加の確認をお願いします。", "english": "Please confirm your participation."},
+      {"japanese": "楽しみにしています。", "english": "I'm looking forward to it."},
+      {"japanese": "ご都合を教えてください。", "english": "Please let me know your availability."}
+    ],
+    "L2": [
+      {"japanese": "来月、社内イベントを開催することになりましたのでお知らせします。", "english": "I'm informing you that we'll hold a company event next month."},
+      {"japanese": "イベントの日程は○月○日、場所は本社ホールを予定しております。", "english": "The event is scheduled for [date] at the headquarters hall."},
+      {"japanese": "参加ご希望の方は、○日までに出欠のご連絡をお願いいたします。", "english": "Those wishing to participate, please confirm attendance by [date]."},
+      {"japanese": "イベントの詳細につきましては、添付資料をご確認ください。", "english": "Please check the attached materials for event details."},
+      {"japanese": "多くの皆様のご参加を心よりお待ちしております。", "english": "We sincerely look forward to many participants."},
+      {"japanese": "イベントに関するご質問は、担当者までお問い合わせください。", "english": "For questions about the event, please contact the person in charge."},
+      {"japanese": "参加人数を把握するため、早めのご回答をお願いいたします。", "english": "To understand participant numbers, we request your early response."},
+      {"japanese": "イベントを通じて、交流を深める機会にしたいと考えております。", "english": "We hope to make this an opportunity to deepen connections through the event."}
+    ],
+    "L3": [
+      {"japanese": "組織の一体感醸成を目的としたイベントの開催をご案内申し上げます。", "english": "We're announcing an event aimed at fostering organizational unity."},
+      {"japanese": "イベントの企画趣旨と期待される効果について、詳細をご説明いたします。", "english": "We'll explain in detail the event's planning purpose and expected effects."},
+      {"japanese": "参加者の利便性を考慮し、複数の日程オプションをご用意しております。", "english": "Considering participant convenience, we've prepared multiple date options."},
+      {"japanese": "イベントへの参加が、組織全体の戦略的目標達成に寄与することを期待しております。", "english": "We expect event participation to contribute to achieving organization-wide strategic goals."},
+      {"japanese": "イベントの成功に向けて、皆様の積極的なご参加とご協力をお願い申し上げます。", "english": "We request your active participation and cooperation for the event's success."},
+      {"japanese": "イベント開催に関する詳細な情報は、専用ポータルサイトにて随時更新いたします。", "english": "Detailed information about the event will be updated regularly on the dedicated portal site."},
+      {"japanese": "イベントを通じて得られる知見とネットワークが、今後の業務に活かされることを期待します。", "english": "We expect the knowledge and network gained through the event to be utilized in future work."},
+      {"japanese": "イベントの企画・運営に関するご意見やご提案がございましたら、ぜひお聞かせください。", "english": "If you have opinions or suggestions regarding event planning and management, please share them."}
+    ]
+  }
+}

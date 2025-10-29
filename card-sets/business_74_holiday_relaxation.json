@@ -1,0 +1,35 @@
+{
+  "name": "休日の過ごし方、リラックス方法について話す",
+  "levels": {
+    "L1": [
+      {"japanese": "休日は何をしますか。", "english": "What do you do on holidays?"},
+      {"japanese": "家でゆっくりします。", "english": "I relax at home."},
+      {"japanese": "趣味を楽しみます。", "english": "I enjoy my hobbies."},
+      {"japanese": "運動をします。", "english": "I exercise."},
+      {"japanese": "友達と会います。", "english": "I meet friends."},
+      {"japanese": "映画を見ます。", "english": "I watch movies."},
+      {"japanese": "リフレッシュできました。", "english": "I was able to refresh."},
+      {"japanese": "良い休日でした。", "english": "It was a good holiday."}
+    ],
+    "L2": [
+      {"japanese": "休日はどのように過ごしていますか。", "english": "How do you spend your holidays?"},
+      {"japanese": "私は読書や散歩をして、リラックスしています。", "english": "I relax by reading and taking walks."},
+      {"japanese": "ストレス解消のために、定期的に運動をしています。", "english": "I exercise regularly for stress relief."},
+      {"japanese": "家族との時間を大切にしています。", "english": "I value time with family."},
+      {"japanese": "新しい趣味を始めると、気分転換になります。", "english": "Starting a new hobby provides a change of pace."},
+      {"japanese": "自然の中で過ごすと、心が落ち着きます。", "english": "Spending time in nature calms the mind."},
+      {"japanese": "オンとオフの切り替えが、仕事の効率を高めます。", "english": "Switching between on and off modes improves work efficiency."},
+      {"japanese": "休日の過ごし方を工夫して、充実した時間を作りましょう。", "english": "Let's create fulfilling time by devising how to spend holidays."}
+    ],
+    "L3": [
+      {"japanese": "効果的なリカバリー戦略により、持続的な高パフォーマンスを維持します。", "english": "We'll maintain sustained high performance through effective recovery strategies."},
+      {"japanese": "ワークライフバランスの最適化が、長期的なキャリア成功の鍵となります。", "english": "Work-life balance optimization becomes the key to long-term career success."},
+      {"japanese": "マインドフルネスやウェルビーイングの実践により、精神的健康を促進します。", "english": "We'll promote mental health through mindfulness and wellbeing practices."},
+      {"japanese": "多様なリラクゼーション手法の習得が、ストレス耐性を強化します。", "english": "Acquiring diverse relaxation methods strengthens stress resilience."},
+      {"japanese": "休息と活動のバランスを最適化し、総合的な生活の質を向上させます。", "english": "We'll improve overall quality of life by optimizing balance between rest and activity."},
+      {"japanese": "自己投資としての休日活用が、個人の成長と組織への貢献を両立させます。", "english": "Holiday utilization as self-investment achieves both personal growth and organizational contribution."},
+      {"japanese": "科学的根拠に基づいた休息法の実践により、回復効率を最大化します。", "english": "We'll maximize recovery efficiency through evidence-based rest practices."},
+      {"japanese": "ウェルビーイングの向上が、創造性とイノベーションの源泉となります。", "english": "Wellbeing improvement becomes the source of creativity and innovation."}
+    ]
+  }
+}

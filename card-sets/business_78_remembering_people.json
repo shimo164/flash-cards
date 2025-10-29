@@ -1,0 +1,35 @@
+{
+  "name": "組織の人を覚える",
+  "levels": {
+    "L1": [
+      {"japanese": "人がどんどん増えています。", "english": "The number of people keeps increasing."},
+      {"japanese": "誰が誰かわかりません。", "english": "I don't know who is who."},
+      {"japanese": "自己紹介する時間を作りましょう。", "english": "Let's make time for self-introductions."},
+      {"japanese": "懇親会を開きましょう。", "english": "Let's hold a social gathering."},
+      {"japanese": "写真を見て覚えましょう。", "english": "Let's look at photos and remember."},
+      {"japanese": "名前を覚えます。", "english": "I'll remember the names."},
+      {"japanese": "よろしくお願いします。", "english": "Nice to meet you."},
+      {"japanese": "覚えられません。", "english": "I can't remember."}
+    ],
+    "L2": [
+      {"japanese": "組織が急速に拡大しており、新しいメンバーを覚えるのが大変です。", "english": "The organization is expanding rapidly, and it's difficult to remember new members."},
+      {"japanese": "定期的に自己紹介の機会を設けることが重要です。", "english": "It's important to regularly provide opportunities for self-introductions."},
+      {"japanese": "懇親会やチームビルディングイベントで、交流を深めましょう。", "english": "Let's deepen connections through social gatherings and team-building events."},
+      {"japanese": "社内ディレクトリの顔写真を活用して、名前と顔を一致させましょう。", "english": "Let's match names with faces using photos in the company directory."},
+      {"japanese": "新入社員の紹介メールを、全社に共有しています。", "english": "We share new employee introduction emails company-wide."},
+      {"japanese": "部門を超えた交流が、組織の一体感を高めます。", "english": "Cross-departmental interaction enhances organizational unity."},
+      {"japanese": "名前を覚えることは、良好な人間関係構築の第一歩です。", "english": "Remembering names is the first step in building good relationships."},
+      {"japanese": "積極的にコミュニケーションを取ることで、自然と覚えられます。", "english": "By actively communicating, you'll naturally remember."}
+    ],
+    "L3": [
+      {"japanese": "組織の急成長に伴う人的ネットワーク構築の課題に、戦略的に対応します。", "english": "We'll strategically address human network building challenges accompanying rapid organizational growth."},
+      {"japanese": "体系的なオンボーディングプログラムにより、新メンバーの統合を促進します。", "english": "We'll promote new member integration through systematic onboarding programs."},
+      {"japanese": "デジタルツールを活用した人材データベースの整備により、組織の可視化を実現します。", "english": "We'll achieve organizational visualization through developing a talent database using digital tools."},
+      {"japanese": "定期的な交流機会の創出が、組織文化の醸成と知識共有を促進します。", "english": "Creating regular interaction opportunities promotes organizational culture cultivation and knowledge sharing."},
+      {"japanese": "人的ネットワークの強化が、組織の機動性と協働効率を向上させます。", "english": "Strengthening human networks improves organizational agility and collaboration efficiency."},
+      {"japanese": "多様性を尊重した包括的なコミュニティ形成が、イノベーションを促進します。", "english": "Inclusive community formation respecting diversity promotes innovation."},
+      {"japanese": "組織規模拡大における人間関係構築の仕組み化が、持続的成長を支えます。", "english": "Systematizing relationship building during organizational scaling supports sustainable growth."},
+      {"japanese": "効果的な人的ネットワーキングが、組織の社会関係資本を強化します。", "english": "Effective human networking strengthens organizational social capital."}
+    ]
+  }
+}

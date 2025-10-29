@@ -1,0 +1,35 @@
+{
+  "name": "システムがダウンしてしまった",
+  "levels": {
+    "L1": [
+      {"japanese": "システムがダウンしています。", "english": "The system is down."},
+      {"japanese": "エラーが出ています。", "english": "There's an error."},
+      {"japanese": "すぐに対応します。", "english": "I'll handle it right away."},
+      {"japanese": "原因を調べています。", "english": "I'm investigating the cause."},
+      {"japanese": "復旧作業中です。", "english": "Recovery work is in progress."},
+      {"japanese": "誰のせいでもありません。", "english": "It's nobody's fault."},
+      {"japanese": "落ち着いて対応しましょう。", "english": "Let's handle this calmly."},
+      {"japanese": "システムが復旧しました。", "english": "The system has been restored."}
+    ],
+    "L2": [
+      {"japanese": "システムに重大な障害が発生しており、現在対応中です。", "english": "A critical system failure has occurred and we're currently addressing it."},
+      {"japanese": "エラーログを確認して、根本原因を特定する必要があります。", "english": "We need to check the error logs to identify the root cause."},
+      {"japanese": "システムダウンの影響範囲を把握し、優先順位をつけて対応します。", "english": "We'll assess the impact scope and respond with prioritization."},
+      {"japanese": "責任の追及よりも、まず復旧を最優先に進めましょう。", "english": "Let's prioritize recovery first rather than assigning blame."},
+      {"japanese": "関係部署に状況を報告し、協力を仰ぎます。", "english": "I'll report the situation to relevant departments and request cooperation."},
+      {"japanese": "システム復旧の見込み時間をお知らせします。", "english": "I'll inform you of the estimated recovery time."},
+      {"japanese": "再発防止策を検討し、実施する必要があります。", "english": "We need to consider and implement preventive measures."},
+      {"japanese": "冷静に状況を分析し、適切な対応を取りましょう。", "english": "Let's analyze the situation calmly and take appropriate action."}
+    ],
+    "L3": [
+      {"japanese": "システム障害の深刻度を評価し、段階的な復旧計画を策定いたします。", "english": "We'll assess the severity of the system failure and develop a phased recovery plan."},
+      {"japanese": "障害発生時の対応において、個人の責任追及は生産的ではありません。", "english": "Pursuing individual responsibility during failure response is not productive."},
+      {"japanese": "システムダウンによる業務への影響を最小限に抑えるため、代替手段を講じます。", "english": "We'll implement alternative measures to minimize business impact from the system downtime."},
+      {"japanese": "根本原因の徹底的な分析を通じて、システムの信頼性向上を図ります。", "english": "We'll enhance system reliability through thorough root cause analysis."},
+      {"japanese": "障害対応における各担当者の役割と責任範囲を明確化します。", "english": "We'll clarify each person's role and responsibility scope in failure response."},
+      {"japanese": "システム復旧後の検証プロセスを慎重に実施し、安定性を確認します。", "english": "We'll carefully conduct post-recovery verification to confirm stability."},
+      {"japanese": "障害の再発を防止するため、包括的な改善策を実装してまいります。", "english": "We'll implement comprehensive improvement measures to prevent recurrence."},
+      {"japanese": "危機的状況下においても、冷静かつ組織的な対応を維持することが重要です。", "english": "It's crucial to maintain calm and organized response even in critical situations."}
+    ]
+  }
+}

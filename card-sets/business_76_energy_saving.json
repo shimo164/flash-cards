@@ -1,0 +1,107 @@
+{
+  "name": "節電する",
+  "levels": {
+    "L1": [
+      {
+        "japanese": "電気を消してください。",
+        "english": "Please turn off the lights."
+      },
+      {
+        "japanese": "午後8時に自動で消灯します。",
+        "english": "Lights will be turned off automatically at 8 PM."
+      },
+      {
+        "japanese": "再度つけてください。",
+        "english": "Please turn them on again."
+      },
+      {
+        "japanese": "使っていない電気は消すこと。",
+        "english": "Turn off lights that aren't being used."
+      },
+      {
+        "japanese": "モニタの電気を消してください。",
+        "english": "Please turn off the monitor."
+      },
+      {
+        "japanese": "節電にご協力ください。",
+        "english": "Please cooperate with energy saving."
+      },
+      {
+        "japanese": "エアコンの温度を調整します。",
+        "english": "I'll adjust the air conditioner temperature."
+      },
+      {
+        "japanese": "省エネを心がけましょう。",
+        "english": "Let's be mindful of energy conservation."
+      }
+    ],
+    "L2": [
+      {
+        "japanese": "午後8時になると自動的に消灯しますので、必要な場合は再度点灯してください。",
+        "english": "Lights automatically turn off at 8 PM, so please turn them on again if needed."
+      },
+      {
+        "japanese": "使用していないエリアの照明は、こまめに消すようお願いします。",
+        "english": "Please diligently turn off lights in unused areas."
+      },
+      {
+        "japanese": "退社時には、モニタの電源を必ず切ってください。",
+        "english": "Please be sure to turn off your monitor when leaving work."
+      },
+      {
+        "japanese": "節電は環境保護とコスト削減の両方に貢献します。",
+        "english": "Energy saving contributes to both environmental protection and cost reduction."
+      },
+      {
+        "japanese": "エアコンの設定温度は、夏は28度、冬は20度を推奨しています。",
+        "english": "We recommend air conditioner settings of 28°C in summer and 20°C in winter."
+      },
+      {
+        "japanese": "昼休みには、不要な照明やOA機器の電源を切りましょう。",
+        "english": "Let's turn off unnecessary lights and office equipment during lunch break."
+      },
+      {
+        "japanese": "自然光を活用して、照明の使用を最小限に抑えましょう。",
+        "english": "Let's utilize natural light to minimize lighting use."
+      },
+      {
+        "japanese": "節電への意識が、持続可能な社会の実現につながります。",
+        "english": "Energy-saving awareness leads to realizing a sustainable society."
+      }
+    ],
+    "L3": [
+      {
+        "japanese": "包括的なエネルギーマネジメントシステムの導入により、消費電力の最適化を実現します。",
+        "english": "We'll achieve power consumption optimization through comprehensive energy management system implementation."
+      },
+      {
+        "japanese": "照明の自動制御システムにより、効率的なエネルギー利用を促進します。",
+        "english": "We'll promote efficient energy use through automatic lighting control systems."
+      },
+      {
+        "japanese": "従業員の省エネ意識向上が、組織全体のカーボンフットプリント削減に寄与します。",
+        "english": "Raising employee energy-saving awareness contributes to organization-wide carbon footprint reduction."
+      },
+      {
+        "japanese": "エネルギー消費データの可視化により、削減目標の達成を支援します。",
+        "english": "We'll support reduction target achievement through energy consumption data visualization."
+      },
+      {
+        "japanese": "省エネ施策の効果測定と継続的改善により、持続可能な経営を推進します。",
+        "english": "We'll promote sustainable management through energy-saving measure effectiveness measurement and continuous improvement."
+      },
+      {
+        "japanese": "再生可能エネルギーの活用と省エネの両輪で、環境負荷低減を図ります。",
+        "english": "We'll reduce environmental impact through both renewable energy utilization and energy conservation."
+      },
+      {
+        "japanese": "エネルギー効率の向上が、企業の社会的責任と経済性を両立させます。",
+        "english": "Improving energy efficiency achieves both corporate social responsibility and economic efficiency."
+      },
+      {
+        "japanese": "省エネ文化の醸成が、組織の環境配慮型経営の基盤となります。",
+        "english": "Cultivating energy-saving culture becomes the foundation of environmentally conscious management."
+      }
+    ]
+  }
+}

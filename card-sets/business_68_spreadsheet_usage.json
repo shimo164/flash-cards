@@ -1,0 +1,35 @@
+{
+  "name": "表計算ソフトの使い方",
+  "levels": {
+    "L1": [
+      {"japanese": "表を作ります。", "english": "I'll create a table."},
+      {"japanese": "セルに入力します。", "english": "I'll enter data in the cell."},
+      {"japanese": "合計を計算します。", "english": "I'll calculate the sum."},
+      {"japanese": "グラフを作ります。", "english": "I'll create a chart."},
+      {"japanese": "並べ替えます。", "english": "I'll sort it."},
+      {"japanese": "フィルターをかけます。", "english": "I'll apply a filter."},
+      {"japanese": "コピーします。", "english": "I'll copy it."},
+      {"japanese": "使い方を教えてください。", "english": "Please teach me how to use it."}
+    ],
+    "L2": [
+      {"japanese": "セルを結合するには、どうすればいいですか。", "english": "How do I merge cells?"},
+      {"japanese": "セルの結合を解除してください。", "english": "Please unmerge the cells."},
+      {"japanese": "表に網掛けを設定したいです。", "english": "I want to apply shading to the table."},
+      {"japanese": "条件付き書式で、特定の値に色をつけられます。", "english": "You can color specific values with conditional formatting."},
+      {"japanese": "ピボットテーブルを使って、データを分析できます。", "english": "You can analyze data using pivot tables."},
+      {"japanese": "数式をコピーすると、参照が自動的に調整されます。", "english": "When you copy formulas, references are automatically adjusted."},
+      {"japanese": "絶対参照を使うと、特定のセルを固定できます。", "english": "Using absolute references allows you to fix specific cells."},
+      {"japanese": "データの入力規則を設定すると、エラーを防げます。", "english": "Setting data validation rules prevents errors."}
+    ],
+    "L3": [
+      {"japanese": "高度な関数の活用により、複雑なデータ分析を効率化します。", "english": "We'll streamline complex data analysis through advanced function utilization."},
+      {"japanese": "マクロの作成により、反復的なデータ処理を自動化します。", "english": "We'll automate repetitive data processing through macro creation."},
+      {"japanese": "データビジュアライゼーションの最適化により、洞察の抽出を促進します。", "english": "We'll promote insight extraction through data visualization optimization."},
+      {"japanese": "大規模データセットの効率的な処理手法を確立します。", "english": "We'll establish efficient processing methods for large datasets."},
+      {"japanese": "スプレッドシート設計のベストプラクティスにより、保守性を向上させます。", "english": "We'll improve maintainability through spreadsheet design best practices."},
+      {"japanese": "データ整合性の確保により、分析結果の信頼性を高めます。", "english": "We'll enhance analysis result reliability through ensuring data integrity."},
+      {"japanese": "協働編集機能の活用により、チームでの作業効率を向上させます。", "english": "We'll improve team work efficiency through collaborative editing feature utilization."},
+      {"japanese": "表計算スキルの向上が、データドリブンな意思決定を支援します。", "english": "Improving spreadsheet skills supports data-driven decision-making."}
+    ]
+  }
+}

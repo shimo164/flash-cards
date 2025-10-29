@@ -1,0 +1,35 @@
+{
+  "name": "オンボーディングの手続きを進める",
+  "levels": {
+    "L1": [
+      {"japanese": "入社手続きを進めます。", "english": "I'll proceed with the joining procedures."},
+      {"japanese": "書類を提出してください。", "english": "Please submit the documents."},
+      {"japanese": "IDカードを受け取ってください。", "english": "Please receive your ID card."},
+      {"japanese": "システムにログインできますか。", "english": "Can you log in to the system?"},
+      {"japanese": "研修に参加してください。", "english": "Please attend the training."},
+      {"japanese": "分からないことがあれば聞いてください。", "english": "Please ask if you have any questions."},
+      {"japanese": "ようこそ。", "english": "Welcome."},
+      {"japanese": "よろしくお願いします。", "english": "Nice to meet you."}
+    ],
+    "L2": [
+      {"japanese": "オンボーディングプロセスを順を追って説明します。", "english": "I'll explain the onboarding process step by step."},
+      {"japanese": "必要な書類のリストをお送りしますので、ご確認ください。", "english": "I'll send you a list of required documents, please check it."},
+      {"japanese": "システムアカウントの設定を完了させてください。", "english": "Please complete your system account setup."},
+      {"japanese": "初日のスケジュールについて、ご案内いたします。", "english": "I'll guide you through the first day's schedule."},
+      {"japanese": "オンボーディング期間中は、メンターがサポートします。", "english": "A mentor will support you during the onboarding period."},
+      {"japanese": "会社のルールや文化について、研修で学んでいただきます。", "english": "You'll learn about company rules and culture in training."},
+      {"japanese": "オンボーディングの進捗を定期的に確認させていただきます。", "english": "We'll regularly check your onboarding progress."},
+      {"japanese": "スムーズな立ち上がりをサポートいたします。", "english": "We'll support your smooth start."}
+    ],
+    "L3": [
+      {"japanese": "体系的なオンボーディングプログラムにより、早期の戦力化を実現します。", "english": "We'll achieve early productivity through a systematic onboarding program."},
+      {"japanese": "オンボーディングの各段階で、明確なマイルストーンを設定しています。", "english": "We've set clear milestones at each stage of onboarding."},
+      {"japanese": "新入社員の定着率向上を目的とした、包括的なサポート体制を整備しています。", "english": "We've established a comprehensive support system aimed at improving new employee retention."},
+      {"japanese": "オンボーディングプロセスの継続的な改善により、組織への適応を促進します。", "english": "We promote organizational adaptation through continuous onboarding process improvement."},
+      {"japanese": "デジタルツールを活用し、オンボーディングの効率化と標準化を図ります。", "english": "We'll achieve onboarding efficiency and standardization using digital tools."},
+      {"japanese": "オンボーディング期間中のフィードバックを収集し、プログラムの最適化に活用します。", "english": "We'll collect feedback during onboarding and use it for program optimization."},
+      {"japanese": "組織文化の理解促進が、長期的なエンゲージメント向上につながります。", "english": "Promoting organizational culture understanding leads to long-term engagement improvement."},
+      {"japanese": "効果的なオンボーディングが、人材の早期活躍と組織貢献を実現します。", "english": "Effective onboarding achieves early employee success and organizational contribution."}
+    ]
+  }
+}

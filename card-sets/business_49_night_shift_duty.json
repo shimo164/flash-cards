@@ -1,0 +1,35 @@
+{
+  "name": "夜間対応をする",
+  "levels": {
+    "L1": [
+      {"japanese": "今日は夜間対応です。", "english": "I'm on night duty today."},
+      {"japanese": "昨日は夜間対応でした。", "english": "I was on night duty yesterday."},
+      {"japanese": "今日は休みます。", "english": "I'll take a day off today."},
+      {"japanese": "お疲れ様でした。", "english": "Thank you for your hard work."},
+      {"japanese": "夜間対応ありがとうございます。", "english": "Thank you for the night duty."},
+      {"japanese": "何かあれば連絡してください。", "english": "Please contact me if anything happens."},
+      {"japanese": "夜間対応の予定を確認します。", "english": "I'll check the night duty schedule."},
+      {"japanese": "ゆっくり休んでください。", "english": "Please get some rest."}
+    ],
+    "L2": [
+      {"japanese": "昨夜の夜間対応、本当にお疲れ様でした。", "english": "Thank you very much for last night's duty."},
+      {"japanese": "夜間対応が続いているので、体調管理に気をつけてください。", "english": "Since night duties continue, please take care of your health."},
+      {"japanese": "今週は私が夜間対応を担当します。", "english": "I'll be in charge of night duty this week."},
+      {"japanese": "夜間対応中に問題が発生した場合は、すぐに報告してください。", "english": "If any issues occur during night duty, please report immediately."},
+      {"japanese": "夜間対応のローテーションを見直す必要があります。", "english": "We need to review the night duty rotation."},
+      {"japanese": "夜間対応後は、十分な休息を取ることが重要です。", "english": "It's important to get adequate rest after night duty."},
+      {"japanese": "夜間対応の負担を軽減するため、チーム体制を強化します。", "english": "We'll strengthen the team structure to reduce night duty burden."},
+      {"japanese": "夜間対応へのご協力に感謝いたします。", "english": "I appreciate your cooperation with night duty."}
+    ],
+    "L3": [
+      {"japanese": "夜間対応の過重な負担が継続的な業務遂行に支障をきたす可能性があります。", "english": "The excessive burden of night duty may hinder continuous work performance."},
+      {"japanese": "夜間対応体制の持続可能性を確保するため、抜本的な見直しが必要です。", "english": "A fundamental review is necessary to ensure the sustainability of the night duty system."},
+      {"japanese": "夜間対応に従事された皆様の献身的な努力に深く感謝申し上げます。", "english": "I deeply appreciate the dedicated efforts of everyone involved in night duty."},
+      {"japanese": "夜間対応の頻度と強度を考慮し、適切な代休制度を整備いたします。", "english": "Considering the frequency and intensity of night duty, we'll establish an appropriate compensatory leave system."},
+      {"japanese": "夜間対応における心身の健康維持を最優先事項として位置づけます。", "english": "We prioritize maintaining physical and mental health during night duty."},
+      {"japanese": "夜間対応の公平な分担を実現するため、ローテーション制度を最適化します。", "english": "We'll optimize the rotation system to achieve fair distribution of night duty."},
+      {"japanese": "夜間対応中の緊急事態に対する迅速な対応体制を構築しております。", "english": "We're establishing a rapid response system for emergencies during night duty."},
+      {"japanese": "夜間対応の労働環境改善に向けた具体的な施策を実施してまいります。", "english": "We'll implement concrete measures to improve the working environment for night duty."}
+    ]
+  }
+}
