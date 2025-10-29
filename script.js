@@ -61,6 +61,11 @@ class FlashcardApp {
     document
       .getElementById('back-to-menu-from-favorites')
       .addEventListener('click', () => this.showMenu());
+    document.getElementById('reset-favorites-btn').addEventListener('click', () => {
+      if (confirm('お気に入りをすべて削除しますか？\n\nこの操作は取り消せません。')) {
+        this.resetFavorites();
+      }
+    });
     document.getElementById('favorite-star').addEventListener('click', (e) => {
       e.stopPropagation();
       this.toggleFavorite();
@@ -346,6 +351,12 @@ class FlashcardApp {
     const isFavorite = this.favorites.some((f) => f.id === cardId);
     star.textContent = isFavorite ? '★' : '☆';
     star.classList.toggle('active', isFavorite);
+  }
+
+  resetFavorites() {
+    this.favorites = [];
+    this.saveFavorites();
+    this.showFavorites();
   }
 
   async showFavorites() {

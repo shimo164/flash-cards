@@ -425,6 +425,28 @@ h2 {
   margin-bottom: 20px;
 }
 
+.favorites-buttons {
+  text-align: center;
+}
+
+.favorites-warning {
+  color: white;
+  font-size: 14px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  opacity: 0.9;
+}
+
+.reset-btn {
+  background: #ffebee;
+  color: #c62828;
+  font-size: 12px;
+}
+
+.reset-btn:hover {
+  background: #ffcdd2;
+}
+
 .favorite-item {
   background: white;
   padding: 15px;
