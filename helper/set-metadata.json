@@ -1,81 +1,483 @@
-{"sets":[
-{  "filename": "business_01_start_meeting.json",  "name": "会議を始める",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_02_encourage_participation.json",  "name": "会議で参加者の意見を聞く",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_03_close_meeting.json",  "name": "会議を終える",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_04_engage_audience.json",  "name": "発表中に聴衆の関心を高める",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_05_handle_qna_session.json",  "name": "発表後の質疑応答を行う",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_06_announce_next_meeting.json",  "name": "次回の会議予定を知らせる",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_07_lead_team_meeting.json",  "name": "チーム会議を主導する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_08_meeting_coordination.json",  "name": "会議の連絡、変更、キャンセル",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_09_efficient_meeting_management.json",  "name": "会議を効率的に運営する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_10_run_strategic_meeting.json",  "name": "戦略会議を効果的に進める",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_11_hold_overseas_meeting.json",  "name": "海外案件の会議を行う",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_12_strategic_meeting.json",  "name": "経営戦略を検討する会議",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_13_set_and_review_goals.json",  "name": "目標設定と成果の確認",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_14_explain_data_statistics.json",  "name": "データや統計を説明する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_15_express_agreement_disagreement.json",  "name": "賛否を述べる",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_16_apologize_in_business.json",  "name": "ビジネスでの謝罪",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_17_talk_with_colleagues.json",  "name": "職場での同僚とのやり取り",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_18_streamline_decision_process.json",  "name": "意思決定の流れを整理する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_19_develop_global_strategy.json",  "name": "国際戦略を立てて評価する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_20_implement_global_strategy.json",  "name": "海外展開戦略を導入する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_21_leadership_and_motivation.json",  "name": "リーダーシップとモチベーション管理",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_22_manage_project_schedule.json",  "name": "プロジェクト計画のスケジュール管理",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_23_analyze_business_data.json",  "name": "事業データを詳細に検討する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_24_report_progress.json",  "name": "進捗状況を報告する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_25_encourage_discussion.json",  "name": "意見交換を活性化させる",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_26_handle_phone_calls.json",  "name": "電話対応のやり取り",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_27_cross_department_communication.json",  "name": "部署間での情報共有",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_28_build_team_collaboration.json",  "name": "協働チームを育成する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_29_work_in_global_environment.json",  "name": "国際的な職場での対応",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_30_discuss_work_life_balance.json",  "name": "ワークライフバランスについて話す",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_31_share_organizational_challenges.json",  "name": "組織改革の課題を共有する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_32_confirm_invoices_payments.json",  "name": "請求処理や支払いを確認する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_33_discuss_employee_satisfaction.json",  "name": "従業員の意識や満足度を話し合う",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_34_discuss_remote_work.json",  "name": "在宅勤務の課題を話し合う",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_35_analyze_market_trends.json",  "name": "市場動向を分析する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_36_plan_cloud_adoption.json",  "name": "クラウド導入の計画を立てる",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_37_discuss_renewable_energy.json",  "name": "再生可能エネルギーを議論する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_38_manage_complex_projects.json",  "name": "多要素プロジェクトの調整",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_39_conduct_user_research.json",  "name": "顧客調査の実施",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_40_analyze_financial_risks.json",  "name": "財務リスクを分析する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_41_expand_to_foreign_markets.json",  "name": "海外市場への進出を検討する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_42_plan_detailed_project.json",  "name": "詳細なプロジェクト設計を立てる",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_43_discuss_investment_strategy.json",  "name": "投資や資産運用の方針を議論する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_44_promote_cross_cultural_teamwork.json",  "name": "多文化チームの協働を促す",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_45_propose_process_improvement.json",  "name": "作業効率を改善する提案",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_46_negotiate_contracts.json",  "name": "契約条件の調整と合意を得る",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_47_transition_topics.json",  "name": "話題を切り替える",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_48_discuss_sustainability_globalization.json",  "name": "持続可能性と国際化を議論する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_49_night_shift_duty.json",  "name": "夜間対応をする",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_50_system_downtime.json",  "name": "システムがダウンしてしまった",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_51_learn_from_failure.json",  "name": "失敗から学ぶ",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_52_discuss_reskilling.json",  "name": "スキル再教育の重要性を語る",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_53_analyze_customer_complaints.json",  "name": "お客様からのクレームを分析する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_54_handle_customer_complaints.json",  "name": "お客様からのクレームに対応する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_55_announce_event.json",  "name": "イベントの開催を連絡する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_56_deadline_pressure.json",  "name": "締め切りに追われているが諦めない",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_57_harassment_prevention.json",  "name": "ハラスメントは許されない",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_58_lunch_invitation.json",  "name": "ランチに誘う",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_59_coffee_break.json",  "name": "コーヒーブレイクに誘う",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_60_waste_sorting.json",  "name": "ゴミの分別について話す",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_61_useless_code_comments.json",  "name": "コーディングにおけるコメント",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_62_using_ai.json",  "name": "AIを利用したい",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_63_request_approval.json",  "name": "上司に承認をお願いする",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_64_onboarding_process.json",  "name": "オンボーディングの手続きを進める",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_65_account_creation_request.json",  "name": "新しくアカウントを作成するための申請",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_66_computer_replacement.json",  "name": "支給パソコンを交換したい",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_67_word_processor_usage.json",  "name": "文書ソフトの使い方",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_68_spreadsheet_usage.json",  "name": "表計算ソフトの使い方",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_69_presentation_software.json",  "name": "プレゼンソフトの使い方",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_70_chat_software_usage.json",  "name": "チャットソフトの使い方",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_71_receive_internal_mail.json",  "name": "社内の郵便が届いたので受け取りたい",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_72_holiday_work_application.json",  "name": "休日に働く",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_73_long_vacation_discussion.json",  "name": "長期休暇について話す",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_74_holiday_relaxation.json",  "name": "休日の過ごし方、リラックス方法について話す",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_75_weekend_activities.json",  "name": "週末の予定について話す",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_76_energy_saving.json",  "name": "節電する",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_77_screen_security.json",  "name": "PCの画面に関する注意",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_78_remembering_people.json",  "name": "組織の人を覚える",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_79_typhoon_response.json",  "name": "台風の対応について",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }},
-{  "filename": "business_80_finding_documents.json",  "name": "資料の場所を聞く",  "cardCounts": {    "L1": 8,    "L2": 8,    "L3": 8  }}]}
+{
+  "sets": [
+    {
+      "filename": "business_01_start_meeting.json",
+      "name": "1. 会議を始める",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_02_encourage_participation.json",
+      "name": "2. 会議で参加者の意見を聞く",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_03_close_meeting.json",
+      "name": "3. 会議を終える",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_04_engage_audience.json",
+      "name": "4. 発表中に聴衆の関心を高める",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_05_handle_qna_session.json",
+      "name": "5. 発表後の質疑応答を行う",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_06_announce_next_meeting.json",
+      "name": "6. 次回の会議予定を知らせる",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_07_lead_team_meeting.json",
+      "name": "7. チーム会議を主導する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_08_meeting_coordination.json",
+      "name": "8. 会議の連絡、変更、キャンセル",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_09_efficient_meeting_management.json",
+      "name": "9. 会議を効率的に運営する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_10_run_strategic_meeting.json",
+      "name": "10. 戦略会議を効果的に進める",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_11_hold_overseas_meeting.json",
+      "name": "11. 海外案件の会議を行う",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_12_strategic_meeting.json",
+      "name": "12. 経営戦略を検討する会議",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_13_set_and_review_goals.json",
+      "name": "13. 目標設定と成果の確認",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_14_explain_data_statistics.json",
+      "name": "14. データや統計を説明する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_15_express_agreement_disagreement.json",
+      "name": "15. 賛否を述べる",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_16_apologize_in_business.json",
+      "name": "16. ビジネスでの謝罪",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_17_talk_with_colleagues.json",
+      "name": "17. 職場での同僚とのやり取り",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_18_streamline_decision_process.json",
+      "name": "18. 意思決定の流れを整理する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_19_develop_global_strategy.json",
+      "name": "19. 国際戦略を立てて評価する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_20_implement_global_strategy.json",
+      "name": "20. 海外展開戦略を導入する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_21_leadership_and_motivation.json",
+      "name": "21. リーダーシップとモチベーション管理",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_22_manage_project_schedule.json",
+      "name": "22. プロジェクト計画のスケジュール管理",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_23_analyze_business_data.json",
+      "name": "23. 事業データを詳細に検討する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_24_report_progress.json",
+      "name": "24. 進捗状況を報告する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_25_encourage_discussion.json",
+      "name": "25. 意見交換を活性化させる",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_26_handle_phone_calls.json",
+      "name": "26. 電話対応のやり取り",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_27_cross_department_communication.json",
+      "name": "27. 部署間での情報共有",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_28_build_team_collaboration.json",
+      "name": "28. 協働チームを育成する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_29_work_in_global_environment.json",
+      "name": "29. 国際的な職場での対応",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_30_discuss_work_life_balance.json",
+      "name": "30. ワークライフバランスについて話す",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_31_share_organizational_challenges.json",
+      "name": "31. 組織改革の課題を共有する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_32_confirm_invoices_payments.json",
+      "name": "32. 請求処理や支払いを確認する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_33_discuss_employee_satisfaction.json",
+      "name": "33. 従業員の意識や満足度を話し合う",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_34_discuss_remote_work.json",
+      "name": "34. 在宅勤務の課題を話し合う",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_35_analyze_market_trends.json",
+      "name": "35. 市場動向を分析する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_36_plan_cloud_adoption.json",
+      "name": "36. クラウド導入の計画を立てる",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_37_discuss_renewable_energy.json",
+      "name": "37. 再生可能エネルギーを議論する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_38_manage_complex_projects.json",
+      "name": "38. 多要素プロジェクトの調整",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_39_conduct_user_research.json",
+      "name": "39. 顧客調査の実施",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_40_analyze_financial_risks.json",
+      "name": "40. 財務リスクを分析する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_41_expand_to_foreign_markets.json",
+      "name": "41. 海外市場への進出を検討する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_42_plan_detailed_project.json",
+      "name": "42. 詳細なプロジェクト設計を立てる",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_43_discuss_investment_strategy.json",
+      "name": "43. 投資や資産運用の方針を議論する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_44_promote_cross_cultural_teamwork.json",
+      "name": "44. 多文化チームの協働を促す",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_45_propose_process_improvement.json",
+      "name": "45. 作業効率を改善する提案",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_46_negotiate_contracts.json",
+      "name": "46. 契約条件の調整と合意を得る",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_47_transition_topics.json",
+      "name": "47. 話題を切り替える",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_48_discuss_sustainability_globalization.json",
+      "name": "48. 持続可能性と国際化を議論する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_49_night_shift_duty.json",
+      "name": "49. 夜間対応をする",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_50_system_downtime.json",
+      "name": "50. システムがダウンしてしまった",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_51_learn_from_failure.json",
+      "name": "51. 失敗から学ぶ",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_52_discuss_reskilling.json",
+      "name": "52. スキル再教育の重要性を語る",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_53_analyze_customer_complaints.json",
+      "name": "53. お客様からのクレームを分析する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_54_handle_customer_complaints.json",
+      "name": "54. お客様からのクレームに対応する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_55_announce_event.json",
+      "name": "55. イベントの開催を連絡する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_56_deadline_pressure.json",
+      "name": "56. 締め切りに追われているが諦めない",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_57_harassment_prevention.json",
+      "name": "57. ハラスメントは許されない",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_58_lunch_invitation.json",
+      "name": "58. ランチに誘う",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_59_coffee_break.json",
+      "name": "59. コーヒーブレイクに誘う",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_60_waste_sorting.json",
+      "name": "60. ゴミの分別について話す",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_61_useless_code_comments.json",
+      "name": "61. コーディングにおけるコメント",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_62_using_ai.json",
+      "name": "62. AIを利用したい",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_63_request_approval.json",
+      "name": "63. 上司に承認をお願いする",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_64_onboarding_process.json",
+      "name": "64. オンボーディングの手続きを進める",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_65_account_creation_request.json",
+      "name": "65. 新しくアカウントを作成するための申請",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_66_computer_replacement.json",
+      "name": "66. 支給パソコンを交換したい",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_67_word_processor_usage.json",
+      "name": "67. 文書ソフトの使い方",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_68_spreadsheet_usage.json",
+      "name": "68. 表計算ソフトの使い方",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_69_presentation_software.json",
+      "name": "69. プレゼンソフトの使い方",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_70_chat_software_usage.json",
+      "name": "70. チャットソフトの使い方",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_71_receive_internal_mail.json",
+      "name": "71. 社内の郵便が届いたので受け取りたい",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_72_holiday_work_application.json",
+      "name": "72. 休日に働く",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_73_long_vacation_discussion.json",
+      "name": "73. 長期休暇について話す",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_74_holiday_relaxation.json",
+      "name": "74. 休日の過ごし方、リラックス方法について話す",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_75_weekend_activities.json",
+      "name": "75. 週末の予定について話す",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_76_energy_saving.json",
+      "name": "76. 節電する",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_77_screen_security.json",
+      "name": "77. PCの画面に関する注意",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_78_remembering_people.json",
+      "name": "78. 組織の人を覚える",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_79_typhoon_response.json",
+      "name": "79. 台風の対応について",
+      "cardCount": 24
+    }
+    ,
+    {
+      "filename": "business_80_finding_documents.json",
+      "name": "80. 資料の場所を聞く",
+      "cardCount": 24
+    }
+  ]
+}
