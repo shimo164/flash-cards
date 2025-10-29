@@ -2,34 +2,106 @@
   "name": "会議を効率的に運営する",
   "levels": {
     "L1": [
-      {"japanese": "時間を守りましょう。", "english": "Let's keep to the schedule."},
-      {"japanese": "議題を確認します。", "english": "I'll confirm the agenda."},
-      {"japanese": "簡潔に話してください。", "english": "Please speak concisely."},
-      {"japanese": "時間が足りません。", "english": "We don't have enough time."},
-      {"japanese": "次の議題に移ります。", "english": "Let's move to the next topic."},
-      {"japanese": "結論を出しましょう。", "english": "Let's reach a conclusion."},
-      {"japanese": "時間内に終わりましょう。", "english": "Let's finish on time."},
-      {"japanese": "効率的に進めます。", "english": "We'll proceed efficiently."}
+      {
+        "japanese": "時間を守りましょう。",
+        "english": "Let's keep to the schedule."
+      },
+      {
+        "japanese": "議題を確認します。",
+        "english": "I'll confirm the agenda."
+      },
+      {
+        "japanese": "簡潔に話してください。",
+        "english": "Please speak concisely."
+      },
+      {
+        "japanese": "時間が足りません。",
+        "english": "We don't have enough time."
+      },
+      {
+        "japanese": "次の議題に移ります。",
+        "english": "Let's move to the next topic."
+      },
+      {
+        "japanese": "結論を出しましょう。",
+        "english": "Let's reach a conclusion."
+      },
+      {
+        "japanese": "時間内に終わりましょう。",
+        "english": "Let's finish on time."
+      },
+      {
+        "japanese": "効率的に進めます。",
+        "english": "We'll proceed efficiently."
+      }
     ],
     "L2": [
-      {"japanese": "会議の目的を明確にし、効率的な進行を心がけます。", "english": "We'll clarify the meeting purpose and strive for efficient progress."},
-      {"japanese": "各議題に時間配分を設定し、タイムマネジメントを徹底します。", "english": "We'll set time allocations for each topic and thoroughly manage time."},
-      {"japanese": "議論が脱線した場合は、本題に戻すようファシリテートします。", "english": "If discussion derails, I'll facilitate returning to the main topic."},
-      {"japanese": "事前に資料を共有し、会議時間を有効活用します。", "english": "We'll share materials in advance to use meeting time effectively."},
-      {"japanese": "決定事項と次のアクションを明確にして会議を終了します。", "english": "We'll end the meeting by clarifying decisions and next actions."},
-      {"japanese": "参加者全員が発言できる機会を確保しながら、進行を管理します。", "english": "I'll manage progress while ensuring everyone has a chance to speak."},
-      {"japanese": "会議の生産性を高めるため、不要な議題は削除します。", "english": "To increase meeting productivity, we'll remove unnecessary topics."},
-      {"japanese": "会議後のフォローアップを確実に行い、実行力を高めます。", "english": "We'll ensure post-meeting follow-up to enhance execution."}
+      {
+        "japanese": "会議の目的を明確にし、効率的な進行を心がけます。",
+        "english": "We'll clarify the meeting purpose and strive for efficient progress."
+      },
+      {
+        "japanese": "各議題に時間配分を設定し、タイムマネジメントを徹底します。",
+        "english": "We'll set time allocations for each topic and thoroughly manage time."
+      },
+      {
+        "japanese": "議論が脱線した場合は、本題に戻すようファシリテートします。",
+        "english": "If discussion derails, I'll facilitate returning to the main topic."
+      },
+      {
+        "japanese": "事前に資料を共有し、会議時間を有効活用していただけますか？",
+        "english": "Could you share materials in advance to use meeting time effectively?"
+      },
+      {
+        "japanese": "決定事項と次のアクションを明確にして会議を終了していただけますか？",
+        "english": "Could you end the meeting by clarifying decisions and next actions?"
+      },
+      {
+        "japanese": "参加者全員が発言できる機会を確保しながら進行を管理していただけますか？",
+        "english": "Could you manage the meeting while ensuring everyone has a chance to speak?"
+      },
+      {
+        "japanese": "会議の生産性を高めるため、不要な議題は削除します。",
+        "english": "To increase meeting productivity, we'll remove unnecessary topics."
+      },
+      {
+        "japanese": "会議後のフォローアップを確実に行い、実行力を高めます。",
+        "english": "We'll ensure post-meeting follow-up to enhance execution."
+      }
     ],
     "L3": [
-      {"japanese": "会議の投資対効果を最大化するため、戦略的な運営手法を導入します。", "english": "We'll introduce strategic management methods to maximize meeting ROI."},
-      {"japanese": "参加者の時間的コストを考慮し、会議の必要性を厳密に評価します。", "english": "Considering participants' time costs, we'll strictly evaluate meeting necessity."},
-      {"japanese": "会議の質を向上させるため、構造化されたファシリテーション技法を活用します。", "english": "We'll utilize structured facilitation techniques to improve meeting quality."},
-      {"japanese": "意思決定プロセスを明確化し、会議の実効性を担保します。", "english": "We'll clarify the decision-making process to ensure meeting effectiveness."},
-      {"japanese": "会議の成果を定量的に測定し、継続的な改善を図ります。", "english": "We'll quantitatively measure meeting outcomes and pursue continuous improvement."},
-      {"japanese": "非同期コミュニケーションとの最適な組み合わせにより、会議時間を削減します。", "english": "We'll reduce meeting time through optimal combination with asynchronous communication."},
-      {"japanese": "会議文化の変革を通じて、組織全体の生産性向上を実現します。", "english": "We'll achieve organization-wide productivity improvement through meeting culture transformation."},
-      {"japanese": "会議の効率化が、戦略的な業務遂行能力の向上に直結します。", "english": "Meeting efficiency directly leads to enhanced strategic execution capability."}
+      {
+        "japanese": "会議の投資対効果を最大化するため、戦略的な運営手法を導入します。",
+        "english": "We'll introduce strategic management methods to maximize meeting ROI."
+      },
+      {
+        "japanese": "参加者の時間的コストを考慮し、会議の必要性を厳密に評価します。",
+        "english": "Considering participants' time costs, we'll strictly evaluate meeting necessity."
+      },
+      {
+        "japanese": "会議の質を向上させるため、構造化されたファシリテーション技法を活用します。",
+        "english": "We'll utilize structured facilitation techniques to improve meeting quality."
+      },
+      {
+        "japanese": "意思決定プロセスを明確化し、会議の実効性を担保していただけますか？",
+        "english": "Could you clarify the decision-making process to ensure meeting effectiveness?"
+      },
+      {
+        "japanese": "会議の成果を定量的に測定し、継続的な改善を図っていただけますか？",
+        "english": "Could you quantitatively measure meeting outcomes and pursue continuous improvement?"
+      },
+      {
+        "japanese": "非同期コミュニケーションとの最適な組み合わせにより、会議時間を削減していただけますか？",
+        "english": "Could you reduce meeting time through an optimal combination with asynchronous communication?"
+      },
+      {
+        "japanese": "会議文化の変革を通じて、組織全体の生産性向上を実現します。",
+        "english": "We'll achieve organization-wide productivity improvement through meeting culture transformation."
+      },
+      {
+        "japanese": "会議の効率化が、戦略的な業務遂行能力の向上に直結します。",
+        "english": "Meeting efficiency directly leads to enhanced strategic execution capability."
+      }
     ]
   }
 }

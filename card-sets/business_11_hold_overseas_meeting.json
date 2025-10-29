@@ -57,12 +57,12 @@
         "english": "Let's coordinate time zones and schedule the next meeting."
       },
       {
-        "japanese": "通訳サービスの手配をお願いします。",
-        "english": "Please arrange interpretation services."
+        "japanese": "通訳サービスの手配をお願いできますか？",
+        "english": "Could you arrange interpretation services?"
       },
       {
-        "japanese": "資料の多言語対応が必要です。",
-        "english": "We need multilingual support for materials."
+        "japanese": "資料の多言語対応が必要でしょうか？",
+        "english": "Is multilingual support for materials necessary?"
       },
       {
         "japanese": "グローバルチームとの連携を強化しましょう。",
@@ -71,16 +71,16 @@
     ],
     "L3": [
       {
-        "japanese": "グローバルステークホルダーとの戦略的協議を効果的に進行いたします。",
-        "english": "We'll effectively facilitate strategic consultations with global stakeholders."
+        "japanese": "グローバルステークホルダーとの戦略的協議を効果的に進行していただけますか？",
+        "english": "Could you effectively facilitate strategic consultations with global stakeholders?"
       },
       {
-        "japanese": "多文化環境における意思決定プロセスの最適化が重要です。",
-        "english": "Optimizing decision-making processes in multicultural environments is crucial."
+        "japanese": "多文化環境における意思決定プロセスの最適化は重要だと思われますか？",
+        "english": "Do you think optimizing decision-making processes in multicultural environments is important?"
       },
       {
-        "japanese": "地政学的リスクと事業機会のバランスを慎重に評価しましょう。",
-        "english": "Let's carefully evaluate the balance between geopolitical risks and business opportunities."
+        "japanese": "地政学的リスクと事業機会のバランスを慎重に評価していただけますか？",
+        "english": "Could you carefully evaluate the balance between geopolitical risks and business opportunities?"
       },
       {
         "japanese": "各地域の規制環境と市場特性を統合的に分析する必要があります。",

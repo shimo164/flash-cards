@@ -37,20 +37,20 @@
     ],
     "L2": [
       {
-        "japanese": "売上高が前年同期比で15%増加しています。",
-        "english": "Revenue has increased by 15% compared to the same period last year."
+        "japanese": "売上高が前年同期比で15%増加していると言えますか？",
+        "english": "Can we say that revenue has increased by 15% compared to the same period last year?"
       },
       {
-        "japanese": "この統計データから重要な傾向が読み取れます。",
-        "english": "We can identify important trends from this statistical data."
+        "japanese": "この統計データから重要な傾向が読み取れるとお考えですか？",
+        "english": "Do you think we can identify important trends from this statistical data?"
       },
       {
-        "japanese": "グラフが示すように、成長率は安定しています。",
-        "english": "As the graph shows, the growth rate is stable."
+        "japanese": "グラフが示すように、成長率は安定していると見てよろしいでしょうか？",
+        "english": "As the graph shows, is it reasonable to say that the growth rate is stable?"
       },
       {
-        "japanese": "分析結果は予想を上回っています。",
-        "english": "The analysis results exceed our expectations."
+        "japanese": "分析結果は予想を上回っていると考えてよろしいでしょうか？",
+        "english": "Can we consider that the analysis results exceed our expectations?"
       },
       {
         "japanese": "市場シェアが着実に拡大しています。",
@@ -71,20 +71,20 @@
     ],
     "L3": [
       {
-        "japanese": "多変量解析の結果、収益性に最も影響を与える要因が特定されました。",
-        "english": "Multivariate analysis has identified the factors most significantly impacting profitability."
+        "japanese": "多変量解析の結果、収益性に最も影響を与える要因が特定されたと考えてよろしいでしょうか？",
+        "english": "Based on the multivariate analysis, is it correct to say that the factors most significantly impacting profitability have been identified?"
       },
       {
-        "japanese": "統計的有意性を考慮すると、この相関関係は信頼性が高いと判断されます。",
-        "english": "Considering statistical significance, this correlation is deemed highly reliable."
+        "japanese": "統計的有意性を考慮すると、この相関関係は信頼性が高いと判断してよいでしょうか？",
+        "english": "Considering statistical significance, can we regard this correlation as highly reliable?"
       },
       {
-        "japanese": "回帰分析により、将来の市場動向を高精度で予測することが可能です。",
-        "english": "Regression analysis enables highly accurate prediction of future market trends."
+        "japanese": "回帰分析により、将来の市場動向を高精度で予測できるとお考えですか？",
+        "english": "Do you think regression analysis enables highly accurate prediction of future market trends?"
       },
       {
-        "japanese": "ベンチマーク分析の結果、競合他社との差別化要因が明確になりました。",
-        "english": "Benchmark analysis has clarified differentiation factors from competitors."
+        "japanese": "ベンチマーク分析の結果、競合他社との差別化要因が明確になったといえますか？",
+        "english": "Can we say that the benchmark analysis has clarified the differentiation factors from competitors?"
       },
       {
         "japanese": "時系列データの分析により、季節性と長期トレンドを分離して評価しました。",
