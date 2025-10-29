@@ -1,5 +1,5 @@
 {
-  "name": "会議の開始を宣言する",
+  "name": "会議を始める",
   "levels": {
     "L1": [
       {
@@ -23,7 +23,7 @@
         "english": "Are you ready?"
       },
       {
-        "japanese": "始めます。",
+        "japanese": "始めましょう。",
         "english": "Let's begin."
       },
       {

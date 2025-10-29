@@ -2,19 +2,19 @@
   "sets": [
     {
       "filename": "business_01_start_meeting.json",
-      "name": "1. 会議の開始を宣言する",
+      "name": "1. 会議を始める",
       "cardCount": 24
     }
     ,
     {
       "filename": "business_02_encourage_participation.json",
-      "name": "2. 会議で参加者の意見を引き出す",
+      "name": "2. 会議で参加者の意見を聞く",
       "cardCount": 24
     }
     ,
     {
       "filename": "business_03_close_meeting.json",
-      "name": "3. 会議をまとめて終える",
+      "name": "3. 会議を終える",
       "cardCount": 24
     }
     ,
@@ -25,14 +25,14 @@
     }
     ,
     {
-      "filename": "business_05_announce_next_meeting.json",
-      "name": "5. 次回の会議予定を知らせる",
+      "filename": "business_05_handle_qna_session.json",
+      "name": "5. 発表後の質疑応答を行う",
       "cardCount": 24
     }
     ,
     {
-      "filename": "business_06_handle_qna_session.json",
-      "name": "6. 発表後の質疑応答を行う",
+      "filename": "business_06_announce_next_meeting.json",
+      "name": "6. 次回の会議予定を知らせる",
       "cardCount": 24
     }
     ,
@@ -62,13 +62,13 @@
     ,
     {
       "filename": "business_11_express_agreement_disagreement.json",
-      "name": "11. 賛否を述べる表現",
+      "name": "11. 賛否を述べる",
       "cardCount": 24
     }
     ,
     {
       "filename": "business_12_apologize_in_business.json",
-      "name": "12. ビジネスでの謝罪表現",
+      "name": "12. ビジネスでの謝罪",
       "cardCount": 24
     }
     ,
@@ -110,7 +110,7 @@
     ,
     {
       "filename": "business_19_leadership_and_motivation.json",
-      "name": "19. リーダーの指導力とモチベーション管理",
+      "name": "19. リーダーシップとモチベーション管理",
       "cardCount": 24
     }
     ,
@@ -134,7 +134,7 @@
     ,
     {
       "filename": "business_23_encourage_discussion.json",
-      "name": "23. 意見交換を活性化させる表現",
+      "name": "23. 意見交換を活性化させる",
       "cardCount": 24
     }
     ,
@@ -278,7 +278,7 @@
     ,
     {
       "filename": "business_47_transition_topics.json",
-      "name": "47. 話題を切り替える表現",
+      "name": "47. 話題を切り替える",
       "cardCount": 24
     }
   ]
